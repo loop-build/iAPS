@@ -26,13 +26,6 @@ jobs:
       new_certificate_needed: ${{ steps.set_output.outputs.new_certificate_needed }}
 
     steps:
-
-      - name: Setup Ruby and Bundler
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.2'
-          bundler: '2.7.2'
-          bundler-cache: true
           
       # Uncomment to manually select latest Xcode if needed
       #- name: Select Latest Xcode
@@ -41,10 +34,15 @@ jobs:
       # Checks-out the repo
       - name: Checkout Repo
         uses: actions/checkout@v4
+        
+      - name: Install Bundler 2.7.2
+        run: gem install bundler -v 2.7.2
+      - name: Bundle install (use Bundler 2.7.2)
+        run: bundle _2.7.2_ install --jobs 4 --retry 3
 
       # Install project dependencies
       - name: Install Project Dependencies
-        run: bundle install --gemfile ./fastlane/Gemfile
+        run: bundle install
 
       # Patch Fastlane Match to not print tables
       - name: Patch Match Tables
