@@ -1,10 +1,10 @@
-/*
+﻿/*
   Localizable.strings
   iAPS
 */
 /* -------------------------------- */
 /* Bolus screen when adding insulin */
-"Add insulin without actually bolusing" = "仅添加胰岛素 没有实际注射";
+"Add insulin without actually bolusing" = "仅添加胰岛素，不进行实际注射";
 
 /* Add insulin from source outside of pump */
 "Add %@ without bolusing" = "添加 %@ 不是通过胰岛素泵注射的剂量";
@@ -14,25 +14,25 @@
 "Close" = "关闭";
 
 /* Continue after added carbs without bolus */
-"Continue without bolus" = "不输注胰岛素并继续";
+"Continue without bolus" = "不注射胰岛素并继续";
 
 /* History View */
 "No data." = "No data.";
 
 /* Bolus View */
-"No Predictions. Failed loop suggestion." = "No Predictions. Failed loop suggestion.";
+"No Predictions. Failed loop suggestion." = "无预测结果。闭环建议失败。";
 
 /* Bolus View */
-"New Glucose Missing" = "New Glucose Missing";
+"New Glucose Missing" = "缺少最新血糖数据";
 
 /* Continue after added meal without bolus */
-"Save Meal without bolus" = "Save Meal without bolus";
+"Save Meal without bolus" = "保存饮食但不注射";
 
 /* Predictions and Meal summary part of the Bolus View. */
 "Status" = "状态";
 
 /* Alert when adding large amount without bolusing */
-"\nAmount is more than your Max Bolus setting! \nAre you sure you want to add " = "\nAmount is more than your Max Bolus setting! \nAre you sure you want to add ";
+"\nAmount is more than your Max Bolus setting! \nAre you sure you want to add " = "\n数量超过你的最大注射设置！\n确定要添加吗 ";
 
 /* Header */
 "Enact Bolus" = "执行大剂量";
@@ -56,16 +56,16 @@
 "Done" = "完成";
 
 /* Bolus View footer */
-"Last loop %@ minutes ago. Complete or cancel this meal/bolus transaction to allow for next loop cycle to run" = "Last loop %@ minutes ago. Complete or cancel this meal/bolus transaction to allow for next loop cycle to run";
+"Last loop %@ minutes ago. Complete or cancel this meal/bolus transaction to allow for next loop cycle to run" = "上次闭环已过去 %@ 分钟。请完成或取消当前餐食/注射操作，以允许下一次闭环循环运行";
 
 /* Calender Option */
-"Display Emojis as Labels" = "Display Emojis as Labels";
+"Display Emojis as Labels" = "使用 Emoji 作为标签";
 
 /* Calender Option */
-"Display IOB and COB" = "Display IOB and COB";
+"Display IOB and COB" = "显示 IOB 和 COB";
 
 /* Apple Watch App setting */
-"Confirm Bolus Faster" = "Confirm Bolus Faster";
+"Confirm Bolus Faster" = "快速确认注射";
 
 /* Setting Section */
 "UI/UX" = "UI/UX";
@@ -77,70 +77,70 @@
 "Agree and continue" = "同意并继续";
 
 /* */
-"Log external insulin" = "Log external insulin";
+"Log external insulin" = "记录外部注射";
 
 /* Bolus progress view */
 "of" = "of";
 
 /* Remote Bolus Alert, Part 1 */
-"A Remote Bolus " = "A Remote Bolus ";
+"A Remote Bolus " = "远程注射 ";
 
 /* Remote Bolus Alert, Part 2 */
-"was delivered" = "was delivered";
+"was delivered" = "已完成";
 
 /* Remote Bolus Alert, Part 3 */
-" minutes ago, triggered remotely from Nightscout, by a caregiver or a parent. Do you still want to bolus?\n\nPredicted eventual glucose, if you don't bolus, is: " = " minutes ago, triggered remotely from Nightscout, by a caregiver or a parent. Do you still want to bolus?\n\nPredicted eventual glucose, if you don't bolus, is: ";
+" minutes ago, triggered remotely from Nightscout, by a caregiver or a parent. Do you still want to bolus?\n\nPredicted eventual glucose, if you don't bolus, is: " = "分钟前，由看护者或家长通过 Nightscout 远程触发。仍要执行注射吗？\n\n若不注射，预测最终血糖为：";
 
 /* Remote Bolus Alert, Title */
-"A Remote Bolus Was Just Delivered!" = "A Remote Bolus Was Just Delivered!";
+"A Remote Bolus Was Just Delivered!" = "刚刚执行了远程注射！";
 
 /* Headline in enacted pop up (at: at what time) */
-"Enacted at" = "Enacted at";
+"Enacted at" = "执行时间";
 
 /* Headline in suggested pop up (at: at what time) */
-"Suggested at" = "Suggested at";
+"Suggested at" = "建议时间";
 
 /* Headline in enacted pop up (at: at what time) */
-"Status at" = "Status at";
+"Status at" = "状态时间";
 
 /* Bolus View Meal Summary Header */
-"Meal Summary" = "Meal Summary";
+"Meal Summary" = "餐食总结";
 
 /* Bolus View Meal Edit Meal Button */
-"Edit Meal" = "Edit Meal";
+"Edit Meal" = "编辑餐食";
 
 /* Bolus View Meal Add Meal Button */
-"Add Meal" = "Add Meal";
+"Add Meal" = "添加餐食";
 
 /* Bolus View Bolus Summary Header */
-"Bolus Summary" = "Bolus Summary";
+"Bolus Summary" = "注射总结";
 
 /* For the  Bolus View pop-up */
-"Calculations" = "Calculations";
+"Calculations" = "计算";
 
 /* For the  Bolus View pop-up */
-"Fatty Meal" = "Fatty Meal";
+"Fatty Meal" = "高脂餐";
 
 /* Bolus option */
-"Hypo Treatment" = "Hypo Treatment";
+"Hypo Treatment" = "低血糖处理";
 
 /* For the  Bolus View pop-up */
-"Full Bolus" = "Full Bolus";
+"Full Bolus" = "全量注射";
 
 /* For the  Bolus View pop-up */
-"Fraction" = "Fraction";
+"Fraction" = "比例推注";
 
 /* For the  Bolus View pop-up */
-"Fatty Meal Factor" = "Fatty Meal Factor";
+"Fatty Meal Factor" = "高脂餐系数";
 
 /* Footer */
-"Carbs and previous insulin are included in the eventual glucose prediction." = "Carbs and previous insulin are included in the eventual glucose prediction.";
+"Carbs and previous insulin are included in the eventual glucose prediction." = "碳水和之前的注射量已包含在最终血糖预测中。";
 
 /* For the  Bolus View pop-up */
-"Result" = "Result";
+"Result" = "结果";
 
 /* For the  Bolus View pop-up */
-"Your entered amount was limited by your max Bolus setting of %d%@" = "Your entered amount was limited by your max Bolus setting of %d%@";
+"Your entered amount was limited by your max Bolus setting of %d%@" = "你输入的剂量受最大注射设置限制：%d%@";
 
 /* Bolus View Continue Button */
 "Continue" = "继续";
@@ -149,7 +149,7 @@
 "Home" = "主页";
 
 /* Looping in progress */
-"looping" = "闭环中";
+"looping" = "闭环运行中";
 
 /* min ago since last loop */
 "min ago" = "分钟前";
@@ -158,55 +158,55 @@
 "No suggestion" = "暂无建议";
 
 /* Replace pod text in Header */
-"Replace pod" = "更换Pod";
+"Replace pod" = "更换 Pod";
 
 /* Add carbs screen */
-"Add Carbs" = "添加碳水化合物";
+"Add Carbs" = "添加碳水";
 
 /* Add carbs header and button in Watch app. You can skip the last " " space. It's just for differentiation */
-"Add Carbs " = "添加碳水化合物 ";
+"Add Carbs " = "添加碳水 ";
 
 /* Home View */
-"Override" = "Override";
+"Override" = "临时调整";
 
 /* Home View Message if no pump is connected */
-"No Pump" = "No Pump";
+"No Pump" = "未连接泵";
 
 /* Home View Message if open loop is active */
-"Open" = "Open";
+"Open" = "开环";
 
 /*  */
-"Amount Carbs" = "碳水化合物含量";
+"Amount Carbs" = "碳水含量";
 
 /* Grams unit */
 "grams" = "克";
 
 /*  */
-"Carbs required" = "所需碳水化合物";
+"Carbs required" = "所需碳水";
 
 /* Saved Food Presets */
-"Saved Food" = "Saved Food";
+"Saved Food" = "保存的餐食";
 
 /* */
 "Are you sure?" = "确定？";
 
 /* */
-"Clear Records" = "Clear Records";
+"Clear Records" = "清空记录";
 
 /* */
-"Delete CoreData database records" = "Delete CoreData database records";
+"Delete CoreData database records" = "删除 CoreData 数据库记录";
 
 /* */
-"Delete NS records" = "Delete NS records";
+"Delete NS records" = "删除 NS 数据";
 
 /* */
-"All records in " = "All records in ";
+"All records in " = "在其中的全部记录：";
 
 /* */
-" will be deleted!" = " will be deleted!";
+" will be deleted!" = " 将被删除！";
 
 /* Bottom target temp */
-"Bottom target" = "血糖下限";
+"Bottom target" = "目标下限";
 
 /* Cancel preset name */
 "Cancel" = "取消";
@@ -215,7 +215,7 @@
 "Cancel Temp Target" = "取消临时目标";
 
 /*  */
-"Cancel Temporary Target" = "Cancel Temporary Target";
+"Cancel Temporary Target" = "取消临时目标";
 
 /* Custom temp target */
 "Custom" = "自定义";
@@ -233,28 +233,28 @@
 "Duration" = "持续时间";
 
 /*  */
-"Enact Temp Target" = "设置临时目标";
+"Enact Temp Target" = "设定临时目标";
 
 /* */
-"Target" = "Target";
+"Target" = "目标";
 
 /* */
-"Basal Insulin and Sensitivity ratio" = "Basal Insulin and Sensitivity ratio";
+"Basal Insulin and Sensitivity ratio" = "基础量与敏感度比率";
 
 /* */
-"A lower 'Half Basal Target' setting will reduce the basal and raise the ISF earlier, at a lower target glucose." = "A lower 'Half Basal Target' setting will reduce the basal and raise the ISF earlier, at a lower target glucose.";
+"A lower 'Half Basal Target' setting will reduce the basal and raise the ISF earlier, at a lower target glucose." = "较低的“半基础率目标”设置将降低基础率，并在更低血糖值时提前提高 ISF。";
 
 /* */
-" Your setting: " = " Your setting: ";
+" Your setting: " = " 当前设置：";
 
 /* */
-"mg/dl. Autosens.max limits the max endpoint" = "mg/dl. Autosens.max limits the max endpoint";
+"mg/dl. Autosens.max limits the max endpoint" = "mg/dl。Autosens.max 限制最大端点";
 
 /*  */
 "Enter preset name" = "输入预设名称";
 
 /* Preset name */
-"Name" = "设备名称";
+"Name" = "预设名称";
 
 /* minutes of target temp */
 "minutes" = "分钟";
@@ -263,22 +263,22 @@
 "Presets" = "预设";
 
 /* Save preset name */
-"Save" = "保存​​";
+"Save" = "保存";
 
 /*  */
-"Save as Preset" = "Save as Preset";
+"Save as Preset" = "保存为预设";
 
 /* Delete Meal Preset */
-"Delete Preset" = "Delete Preset";
+"Delete Preset" = "删除预设";
 
 /* Confirm Deletion */
-"Delete preset '%@'?" = "Delete preset '%@'?";
+"Delete preset '%@'?" = "删除预设 '%@'?";
 
 /* Button */
-"No" = "No";
+"No" = "否";
 
 /* Button */
-"Yes" = "Yes";
+"Yes" = "是";
 
 /* + Button */
 "[ +1 ]" = "[ +1 ]";
@@ -287,7 +287,7 @@
 "[ -1 ]" = "[ -1 ]";
 
 /* Upper temp target limit */
-"Top target" = "血糖上限";
+"Top target" = "目标上限";
 
 /*  Temp target set for ... minutes */
 "for" = "持续";
@@ -296,37 +296,38 @@
 "min" = "分钟";
 
 /*  */
-"Autotune" = "自动调谐";
+"Autotune" = "自动调优";
 
 /* Debug option view Dynamic Variables */
-"Dynamic Variables" = "Dynamic Variables";
+"Dynamic Variables" = "动态变量";
 
 /*  */
-"Basal profile" = "基础率配置文件";
+"Basal profile" = "基础率配置";
 
 /*  */
-"Carb ratio" = "碳水化合物系数";
+"Carb ratio" = "碳水比值";
 
 /*  */
-"Delete autotune data" = "删除自动调谐数据";
+"Delete autotune data" = "删除自动调优数据";
 
 /*  */
-"Run now" = "马上执行";
+"Run now" = "立即运行";
 
 /*  */
 "Last run" = "上次运行";
 
 /*  */
-"Sensitivity" = "胰岛素敏感系数";
+"Sensitivity" = "敏感系数";
 
 /*  */
-"Use Autotune" = "使用自动调谐";
+"Use Autotune" = "启用自动调优";
 
 /* Add profile basal */
 "Add" = "添加";
 
 /*  */
-"Basal Profile" = "基础率配置文件";
+"Basal Profile" = "基础率配置";
+
 
 /* Rate basal profile */
 "Rate" = "输注率";
@@ -338,7 +339,7 @@
 "Schedule" = "设定时间";
 
 /* */
-"(standard units / hour)" = "(standard units / hour)";
+"(standard units / hour)" = "(标准单位/小时)";
 
 /*  */
 "starts at" = "开始于";
@@ -350,13 +351,13 @@
 "Calculated Ratio" = "计算的比率";
 
 /* Carb Ratios header */
-"Carb Ratios" = "碳水化合物系数";
+"Carb Ratios" = "碳水比例系数";
 
 /*  */
 "Ratio" = "比率";
 
 /*  */
-"Autosens" = "自动传输";
+"Autosens" = "Autosens";
 
 /*  */
 "Calculated Sensitivity" = "计算的敏感系数";
@@ -365,7 +366,7 @@
 "Insulin Sensitivities" = "胰岛素敏感系数";
 
 /* */
-"Sensitivity Ratio" = "敏感率";
+"Sensitivity Ratio" = "敏感系数比率";
 
 /*  */
 "Dismiss" = "忽略";
@@ -384,16 +385,16 @@ Enact a temp Basal or a temp target */
 "Enact" = "执行";
 
 /* Start a temp target or a profile override */
-"Start" = "Start";
+"Start" = "开始";
 
 /* */
-"Manual Temp Basal" = "手动设置临时基础";
+"Manual Temp Basal" = "手动设置临时基础率";
 
 /* Allow uploads to different services */
 "Allow uploads" = "允许上传";
 
 /* API secret in NS */
-"API secret" = "API密钥";
+"API secret" = "API 密钥";
 
 /* Connect to NS */
 "Connect" = "连接";
@@ -405,13 +406,13 @@ Enact a temp Basal or a temp target */
 "Connecting..." = "正在连接...";
 
 /*  */
-"Invalid URL" = "网址不正确";
+"Invalid URL" = "无效链接";
 
 /*  */
-"Local glucose source" = "本地血糖数据源";
+"Local glucose source" = "本地血糖来源";
 
 /* Header */
-"Nightscout Config" = "Nightscout配置";
+"Nightscout Config" = "Nightscout 配置";
 
 /*  */
 "Port" = "端口";
@@ -420,10 +421,10 @@ Enact a temp Basal or a temp target */
 "URL" = "网址：";
 
 /**/
-"Use local glucose server" = "使用本地端口获取血糖";
+"Use local glucose server" = "使用本地服务器获取血糖";
 
 /* Enable Statistics */
-"This enables uploading of statistics.json to Nightscout, which can be used by the Community Statistics and Demographics Project.\n\nParticipation in Community Statistics is opt-in, and requires separate registration at:\n" = "This enables uploading of statistics.json to Nightscout, which can be used by the Community Statistics and Demographics Project.\n\nParticipation in Community Statistics is opt-in, and requires separate registration at:\n";
+"This enables uploading of statistics.json to Nightscout, which can be used by the Community Statistics and Demographics Project.\n\nParticipation in Community Statistics is opt-in, and requires separate registration at:\n" = "启用后会将 statistics.json 上传到 Nightscout，用于社区统计与人口数据项目。\n\n参与需自愿注册，需在以下地址单独注册：\n";
 
 /*  */
 "Edit settings json" = "编辑设置文件";
@@ -432,58 +433,58 @@ Enact a temp Basal or a temp target */
 "Glucose units" = "血糖单位";
 
 /*  */
-"Preferences" = "选项";
+"Preferences" = "个性化参数设置";
 
 /* Recommended Insulin Fraction in preferences */
-"Recommended Insulin Fraction" = "建议胰岛素比率";
+"Recommended Insulin Fraction" = "推荐注射比例";
 
 /* Do you want to show bolus screen after added carbs? */
-"Skip Bolus screen after carbs" = "添加碳水后跳过大剂量操作";
+"Skip Bolus screen after carbs" = "添加碳水后跳过注射界面";
 
 /* Allow remote control from NS */
 "Remote control" = "远程控制";
 
 /* Allow remote control from NS */
-"Allow Remote control of iAPS" = "Allow Remote control of iAPS";
+"Allow Remote control of iAPS" = "允许远程控制 iAPS";
 
 /* Imported Profiles Alert */
-"\nNow please verify all of your new settings thoroughly:\n\n* Basal Settings\n * Carb Ratios\n * Glucose Targets\n * Insulin Sensitivities\n * DIA\n\n in iAPS Settings > Configuration.\n\nBad or invalid profile settings could have disatrous effects." = "\nNow please verify all of your new settings thoroughly:\n\n* Basal Settings\n * Carb Ratios\n * Glucose Targets\n * Insulin Sensitivities\n * DIA\n\n in iAPS Settings > Configuration.\n\nBad or invalid profile settings could have disatrous effects.";
+"\nNow please verify all of your new settings thoroughly:\n\n* Basal Settings\n * Carb Ratios\n * Glucose Targets\n * Insulin Sensitivities\n * DIA\n\n in iAPS Settings > Configuration.\n\nBad or invalid profile settings could have disatrous effects." = "\n请仔细检查新的设置：\n\n* 基础率设置\n * 碳水比例系数\n * 血糖目标\n * 胰岛素敏感系数\n * DIA\n\n路径：iAPS 设置 > 配置。\n\n错误的设置可能造成严重影响。";
 
 /* Profile Import Alert */
-"This will replace some or all of your current pump settings. Are you sure you want to import profile settings from Nightscout?" = "This will replace some or all of your current pump settings. Are you sure you want to import profile settings from Nightscout?";
+"This will replace some or all of your current pump settings. Are you sure you want to import profile settings from Nightscout?" = "此操作将替换你当前部分或全部泵设置。确定要从 Nightscout 导入配置吗？";
 
 /* Import Error */
-"\nInvalid Nightcsout Basal Settings. \n\nImport aborted. Please check your Nightscout Profile Basal Settings!" = "\nInvalid Nightcsout Basal Settings. \n\nImport aborted. Please check your Nightscout Profile Basal Settings!";
+"\nInvalid Nightcsout Basal Settings. \n\nImport aborted. Please check your Nightscout Profile Basal Settings!" = "\nNightscout 基础率设置无效。\n\n导入已中止。请检查 Nightscout 配置中的基础率设置！";
 
 /* Import Error */
-"\nSettings were imported but the Basals couldn't be saved to pump (No pump). Check your basal settings and tap ´Save on Pump´ to sync the new basal settings" = "\nSettings were imported but the Basals couldn't be saved to pump (No pump). Check your basal settings and tap ´Save on Pump´ to sync the new basal settings";
+"\nSettings were imported but the Basals couldn't be saved to pump (No pump). Check your basal settings and tap ´Save on Pump´ to sync the new basal settings" = "\n设置已导入但基础率未保存到泵（未连接泵）。请检查基础率设置并点击“在泵上保存”同步数据。";
 
 /* Import Error Headline */
-"Import Error" = "Import Error";
+"Import Error" = "导入错误";
 
 /* */
-"Yes, Import" = "Yes, Import";
+"Yes, Import" = "是，导入";
 
 /* */
-"Import settings from Nightscout" = "Import settings from Nightscout";
+"Import settings from Nightscout" = "从 Nightscout 导入设置";
 
 /* */
-"Import settings?" = "Import settings?";
+"Import settings?" = "导入设置？";
 
 /* */
-"Import from Nightscout" = "Import from Nightscout";
+"Import from Nightscout" = "从 Nightscout 导入";
 
 /* */
-"Settings imported" = "Settings imported";
+"Settings imported" = "设置已导入";
 
 /* Import Error */
-"\nMismatching glucose units in Nightscout and Pump Settings. Import settings aborted." = "\nMismatching glucose units in Nightscout and Pump Settings. Import settings aborted.";
+"\nMismatching glucose units in Nightscout and Pump Settings. Import settings aborted." = "\nNightscout 与泵设置的血糖单位不一致，导入已中止。";
 
 /* Import Error */
-"Can't find the default Nightscout Profile." = "Can't find the default Nightscout Profile.";
+"Can't find the default Nightscout Profile." = "找不到默认的 Nightscout 配置。";
 
 /* Add Blood Glucose Test, header */
-"Blood Glucose Test" = "Blood Glucose Test";
+"Blood Glucose Test" = "血糖测试";
 
 /* Add Medtronic pump */
 "Add Medtronic" = "添加美敦力泵";
@@ -492,13 +493,13 @@ Enact a temp Basal or a temp target */
 "Add Omnipod" = "添加Omnipod";
 
 /* Add Dana-i/RS pump */
-"Add Dana-i/RS" = "Add Dana-i/RS";
+"Add Dana-i/RS" = "添加 Dana-i/RS";
 
 /* Add Simulator pump */
-"Add Simulator" = "添加模拟器";
+"Add Simulator" = "添加模拟泵";
 
 /* View/Header when pod expired */
-"Replace" = "Replace";
+"Replace" = "更换";
 
 /* Insulin model */
 "Model" = "模型";
@@ -522,37 +523,37 @@ Enact a temp Basal or a temp target */
 "Max Bolus" = "最大大剂量";
 
 /* Insulin alert message */
-"Please verify that you have selected the correct insulin concentration before saving your settings.\n\nThe insulin vial or pen should indicate the concentration in units per milliliter (e.g., U100 indicates 100 units per milliliter, which is the standard concentration).\n\nAccurate selection is critical for proper dosing." = "Please verify that you have selected the correct insulin concentration before saving your settings.\n\nThe insulin vial or pen should indicate the concentration in units per milliliter (e.g., U100 indicates 100 units per milliliter, which is the standard concentration).\n\nAccurate selection is critical for proper dosing.";
+"Please verify that you have selected the correct insulin concentration before saving your settings.\n\nThe insulin vial or pen should indicate the concentration in units per milliliter (e.g., U100 indicates 100 units per milliliter, which is the standard concentration).\n\nAccurate selection is critical for proper dosing." = "保存设置前请确认选择了正确的胰岛素浓度。\n\n胰岛素瓶或笔会标明单位浓度（例如 U100 表示每毫升 100 单位，为标准浓度）。\n\n准确选择对正确给药至关重要。";
 
 /* Insulin Concentration View */
-"Concentration" = "Concentration";
+"Concentration" = "浓度";
 
 /* Insulin Concentration View */
-"Insulin Concentration" = "Insulin Concentration";
+"Insulin Concentration" = "胰岛素浓度";
 
 /* Insulin Concentration View */
-"Change Insulin" = "Change Insulin";
+"Change Insulin" = "更换胰岛素";
 
 /* Insulin Concentration View */
-"Insulin diluted to" = "Insulin diluted to";
+"Insulin diluted to" = "稀释胰岛素浓度为";
 
 /* Insulin Concentration View */
-"standard concentration:" = "standard concentration:";
+"standard concentration:" = "标准浓度：";
 
 /* Insulin Concentration View */
-"units per ml" = "units per ml";
+"units per ml" = "单位/毫升";
 
 /* Insulin Concentration View */
-"Standard concentration (U 100)" = "Standard concentration (U 100)";
+"Standard concentration (U 100)" = "标准浓度 (U100)";
 
 /* Insulin Concentration View */
-"Insulin concentration increased to" = "Insulin concentration increased to";
+"Insulin concentration increased to" = "胰岛素浓度提高到";
 
 /* Insulin Concentration View */
-"Couldn't save to pump. Try again when pump isn't busy bolusing." = "Couldn't save to pump. Try again when pump isn't busy bolusing.";
+"Couldn't save to pump. Try again when pump isn't busy bolusing." = "无法保存至泵。请在泵不处于注射过程中再试。";
 
 /* Insulin Concentration View */
-"Saved" = "Saved";
+"Saved" = "已保存";
 
 /* Label inusulin concentration, units per ml */
 "U100" = "U100";
@@ -565,13 +566,15 @@ Enact a temp Basal or a temp target */
 
 /* Label inusulin concentration, units per ml */
 "U10" = "U10";
+
 /* Debug option, allow U50 and U10 (diluted insulin) */
-"Allow diluted insulin concentration settings" = "Allow diluted insulin concentration settings";
+"Allow diluted insulin concentration settings" = "允许稀释浓度设置（U50/U10）";
+
 /* Max setting */
-"Max Carbs" = "Max Carbs";
+"Max Carbs" = "最大碳水";
 
 /* Max carbs description */
-"Maximum amount of carbs (g) you can add each entry" = "Maximum amount of carbs (g) you can add each entry";
+"Maximum amount of carbs (g) you can add each entry" = "每次输入允许添加的最大碳水（克）";
 
 /* */
 "Pump Settings" = "泵设置";
@@ -631,49 +634,49 @@ Enact a temp Basal or a temp target */
 "Pump" = "胰岛素泵";
 
 /* */
-"Watch" = "Watch";
+"Watch" = "手表";
 
 /* */
-"Watch Configuration" = "Watch Configuration";
+"Watch Configuration" = "手表配置";
 
 /* */
 "Apple Watch" = "Apple Watch";
 
 /* */
-"Display on Watch" = "Display on Watch";
+"Display on Watch" = "显示在手表上";
 
 /* */
-"Display either Overrides or Temp Targets" = "Display either Overrides or Temp Targets";
+"Display either Overrides or Temp Targets" = "显示临时调整或临时目标";
 
 /* */
-"Garmin Watch" = "Garmin Watch";
+"Garmin Watch" = "Garmin 手表";
 
 /* */
-"Add devices" = "Add devices";
+"Add devices" = "添加设备";
 
 /* */
-"Profile Overrides Button / Temp Targets Button" = "Profile Overrides Button / Temp Targets Button";
+"Profile Overrides Button / Temp Targets Button" = "临时调整按钮 / 临时目标按钮";
 
 /* */
-"Glucose Target" = "Glucose Target";
+"Glucose Target" = "血糖目标";
 
 /* */
-"Heart Rate" = "Heart Rate";
+"Heart Rate" = "心率";
 
 /* */
-"Steps" = "Steps";
+"Steps" = "步数";
 
 /* */
 "ISF" = "ISF";
 
 /* */
-"% Override" = "% Override";
+"% Override" = "% 临时调整";
 
 /* */
-"The app Garmin Connect must be installed to use for iAPS.\n Go to App Store to download it" = "The app Garmin Connect must be installed to use for iAPS.\n Go to App Store to download it";
+"The app Garmin Connect must be installed to use for iAPS.\n Go to App Store to download it" = "需安装 Garmin Connect 应用以使用 iAPS。\n前往 App Store 下载";
 
 /* */
-"Garmin is not available" = "Garmin is not available";
+"Garmin is not available" = "Garmin 不可用";
 
 /*  */
 "Services" = "服务";
@@ -682,34 +685,34 @@ Enact a temp Basal or a temp target */
 "Settings" = "设置";
 
 /* Recommendation for a Manual Bolus */
-"Recommended Bolus Percentage" = "Recommended Bolus Percentage";
+"Recommended Bolus Percentage" = "推荐注射比例";
 
 /* 2 log files to share */
 "Share logs" = "分享日志";
 
 /* Upper target */
-"High target" = "高目标";
+"High target" = "血糖上限目标";
 
 /* Lower target */
-"Low target" = "血糖低目标";
+"Low target" = "血糖下限目标";
 
 /* When bolusing */
 "Bolusing" = "注射中";
 
 /* */
-"Pump suspended" = "泵已暂停输注";
+"Pump suspended" = "泵已暂停";
 
 /* */
 "Middleware" = "中间件";
 
 /* Header */
-"History" = "历史";
+"History" = "历史记录";
 
 /* Nightscout option */
-"Upload" = "Upload";
+"Upload" = "上传";
 
 /* Nightscout option */
-"Allow Uploads" = "Allow Uploads";
+"Allow Uploads" = "允许上传";
 
 /* Type of CGM or glucose source */
 "Type" = "类型";
@@ -724,7 +727,7 @@ Enact a temp Basal or a temp target */
 "Other" = "其他";
 
 /* Whatch app alert */
-"Set temp targets presets on iPhone first" = "首先在 iPhone 上设置临时目标预设";
+"Set temp targets presets on iPhone first" = "请先在 iPhone 中设置临时目标预设";
 
 /* Updating Watch app */
 "Updating..." = "更新中...";
@@ -733,28 +736,28 @@ Enact a temp Basal or a temp target */
 "Temp Targets" = "临时目标";
 
 /* Delete carbs from data table and Nightscout */
-"Delete Carbs?" = "Delete Carbs?";
+"Delete Carbs?" = "删除碳水？";
 
 /* Delete insulin from pump history and Nightscout */
-"Delete Insulin?" = "Delete Insulin?";
+"Delete Insulin?" = "删除注射记录？";
 
 /* Treatments list */
-"Treatments" = "治疗";
+"Treatments" = "处理方案";
 
 /* Add Insulin */
-"Add Insulin" = "Add Insulin";
+"Add Insulin" = "添加胰岛素";
 
 /* Add Glucose */
-"Add Glucose" = "Add Glucose";
+"Add Glucose" = "添加血糖值";
 
 /* New Glucose */
-"New Glucose" = "New Glucose";
+"New Glucose" = "新的血糖值";
 
 /* Hypo Treatment Preset */
-"Treatment" = "Treatment";
+"Treatment" = "低血糖处理";
 
 /* Hypo Treatment Default Value */
-"Default  📉" = "Default  📉";
+"Default  📉" = "默认值 📉";
 
 /* Hypo Treatment Default Value */
 "None" = "无";
@@ -763,7 +766,7 @@ Enact a temp Basal or a temp target */
 " min" = " 分钟";
 
 /* */
-"Unable to change anything" = "Unable to change anything";
+"Unable to change anything" = "无法更改任何内容";
 
 
 /* Calendar and Libre transmitter settings ---------------
@@ -775,16 +778,16 @@ Enact a temp Basal or a temp target */
 "Calibrations" = "校准";
 
 /* */
-"Create Events in Calendar" = "Create Events in Calendar";
+"Create Events in Calendar" = "在日历中创建事件";
 
 /* */
 "Calendar" = "日历";
 
 /* Automatic delivered treatments */
-"Automatic" = "Automatic";
+"Automatic" = "自动";
 
 /* External insulin treatments */
-"External" = "External";
+"External" = "外部";
 
 /* */
 "Other" = "其他";
@@ -802,10 +805,10 @@ Enact a temp Basal or a temp target */
 "Modes" = "模式";
 
 /* Libre 2 Direct */
-"Libre 2 Direct" = "雅培2代直连";
+"Libre 2 Direct" = "Libre 2 直连";
 
 /* */
-"Select the third party transmitter you want to connect to" = "选择您想要连接的第三方发射器";
+"Select the third party transmitter you want to connect to" = "选择要连接的第三方发射器";
 
 /* State was restored */
 "State was restored" = "状态已恢复";
@@ -841,19 +844,19 @@ Enact a temp Basal or a temp target */
 "Remove Last" = "移除最后一个";
 
 /* */
-"Remove All" = "删除所有";
+"Remove All" = "全部删除";
 
 /* */
 "About the Process" = "关于流程";
 
 /* */
-"Please make sure that your Libre 2 sensor is already activated and finished warming up. If you have other apps connecting to the sensor via bluetooth, these need to be shut down or uninstalled. \n\n You can only have one app communicating with the sensor via bluetooth. Then press the \"pariring and connection\" button below to start the process. Please note that the bluetooth connection might take up to a couple of minutes before it starts working." = "请确保您的 Libre 2 传感器已经激活并完成预热。 如果您有其他应用通过蓝牙连接到传感器，这些应用需要关闭或卸载。 \n\n 您只能有一个应用通过蓝牙与传感器通信。 然后按下下面的“解析和连接”按钮来启动进程。 请注意，蓝牙连接可能需要几分钟才能开始工作。";
+"Please make sure that your Libre 2 sensor is already activated and finished warming up. If you have other apps connecting to the sensor via bluetooth, these need to be shut down or uninstalled. \n\n You can only have one app communicating with the sensor via bluetooth. Then press the \"pariring and connection\" button below to start the process. Please note that the bluetooth connection might take up to a couple of minutes before it starts working." = "请确保 Libre 2 传感器已激活并完成预热。如有其他应用通过蓝牙连接传感器，请关闭或卸载。\n\n同时只能有一个应用通过蓝牙与传感器通信。然后点击下方“配对与连接”按钮开始。蓝牙连接可能需要几分钟才会生效。";
 
 /* */
 "Pairinginfo" = "配对信息";
 
 /* */
-"PatchInfo" = "PatchInfo";
+"PatchInfo" = "补丁信息";
 
 /* */
 "Calibrationinfo" = "校准信息";
@@ -862,7 +865,7 @@ Enact a temp Basal or a temp target */
 "Unknown" = "未知";
 
 /* */
-"Not paired yet" = "未配对";
+"Not paired yet" = "尚未配对";
 
 /* */
 "Pair Sensor & connect" = "配对传感器并连接";
@@ -871,106 +874,106 @@ Enact a temp Basal or a temp target */
 "Phone NFC required!" = "需要手机支持NFC";
 
 /* */
-"Your phone or app is not enabled for NFC communications, which is needed to pair to libre2 sensors" = "您的手机或应用程序尚未启用 NFC，需要启用NFC配对 libre2 传感器";
+"Your phone or app is not enabled for NFC communications, which is needed to pair to libre2 sensors" = "您的手机或应用未启用 NFC，无法与 Libre 2 传感器配对";
 
 /* Bluetooth Power Off */
 "Bluetooth Power Off" = "蓝牙已关闭";
 
 /* Please turn on Bluetooth */
-"Please turn on Bluetooth" = "请打开蓝牙";
+"Please turn on Bluetooth" = "请开启蓝牙";
 
 /* No Libre Transmitter Selected */
-"No Libre Transmitter Selected" = "未选择瞬感发射器";
+"No Libre Transmitter Selected" = "未选择 Libre 发射器";
 
 /* Delete Transmitter and start anew. */
-"Delete CGMManager and start anew. Your libreoopweb credentials will be preserved" = "删除动态血糖数据源再次添加时会重置血糖算法配置";
+"Delete CGMManager and start anew. Your libreoopweb credentials will be preserved" = "删除 CGM 数据源并重新添加。libreOOPWeb 凭据会保留";
 
 /* Invalid libre checksum */
-"Invalid libre checksum" = "瞬感传感器数据校验错误";
+"Invalid libre checksum" = "Libre 校验码无效";
 
 /* Libre sensor was incorrectly read, CRCs were not valid */
-"Libre sensor was incorrectly read, CRCs were not valid" = "Libre 传感器数据不正确，CRC无效";
+"Libre sensor was incorrectly read, CRCs were not valid" = "读取 Libre 传感器失败，CRC 无效";
 
 /* Glucose */
-"Glucose" = "葡萄糖";
+"Glucose" = "血糖";
 
 /* LOWALERT! */
-"LOWALERT!" = "低血糖！";
+"LOWALERT!" = "低血糖警报！";
 
 /* HIGHALERT! */
-"HIGHALERT!" = "高血糖！";
+"HIGHALERT!" = "高血糖警报！";
 
 /* (Snoozed)*/
 "(Snoozed)" = "延后";
 
 /* Glucose: %@ */
-"Glucose: %@" = "血糖:%@";
+"Glucose: %@" = "血糖：%@";
 
 /* Transmitter: %@%% */
-"Transmitter: %@%%" = "发射器:%@%%";
+"Transmitter: %@%%" = "发射器：%@%%";
 
 /* No Sensor Detected */
-"No Sensor Detected" = "未检测到传感器！";
+"No Sensor Detected" = "未检测到传感器";
 
 /* This might be an intermittent problem, but please check that your transmitter is tightly secured over your sensor */
-"This might be an intermittent problem, but please check that your transmitter is tightly secured over your sensor" = "这可能是一个间歇性问题，但请检查您的发射器是否对贴紧传感器";
+"This might be an intermittent problem, but please check that your transmitter is tightly secured over your sensor" = "可能是间歇性问题，请检查发射器是否牢固贴合传感器";
 
 /* New Sensor Detected */
-"New Sensor Detected" = "检测到新的传感器";
+"New Sensor Detected" = "检测到新传感器";
 
 /* Please wait up to 30 minutes before glucose readings are available! */
-"Please wait up to 30 minutes before glucose readings are available!" = "请等待30分钟后获取葡萄糖读数！";
+"Please wait up to 30 minutes before glucose readings are available!" = "血糖读数将在最多 30 分钟后可用";
 
 /* Invalid Glucose sample detected, try again later */
-"Invalid Glucose sample detected, try again later" = "检测到无效的血糖值，请稍后再试";
+"Invalid Glucose sample detected, try again later" = "检测到无效血糖样本，请稍后重试";
 
 /* ensor might have temporarily stopped, fallen off or is too cold or too warm */
-"Sensor might have temporarily stopped, fallen off or is too cold or too warm" = "传感器可能已经暂时停止, 温度过高或过低, 也可能传感器脱落";
+"Sensor might have temporarily stopped, fallen off or is too cold or too warm" = "传感器可能暂时停止、脱落或温度异常";
 
 /* Invalid Sensor Detected */
 "Invalid Sensor Detected" = "检测到无效传感器";
 
 /* Detected sensor seems not to be a libre 1 sensor! */
-"Detected sensor seems not to be a libre 1 sensor!" = "检测到的传感器似乎不是一个瞬感1代！";
+"Detected sensor seems not to be a libre 1 sensor!" = "检测到的传感器似乎不是 Libre 1";
 
 /* Detected sensor is invalid: %@ */
-"Detected sensor is invalid: %@" = "检测到的传感器无效： %@";
+"Detected sensor is invalid: %@" = "检测到传感器无效：%@";
 
 /* Low Battery */
-"Low battery" = "电量不足";
+"Low battery" = "电量低";
 
 /* */
 "Invalid sensor" = "无效传感器";
 
 /* */
-"Sensor change" = "更换传感器";
+"Sensor change" = "传感器更换";
 
 /* */
 "Sensor expires soon" = "传感器即将过期";
 
 /* Battery is running low %@, consider charging your %@ device as soon as possible */
-"Battery is running low %@, consider charging your %@ device as soon as possible" = "电池运行低 %@，考虑尽快充电您的 %@ 设备";
+"Battery is running low %@, consider charging your %@ device as soon as possible" = "设备电量低 %@，请尽快给 %@ 充电";
 
 /* Extracting calibrationdata from sensor */
-"Extracting calibrationdata from sensor" = "从传感器提取校准数据";
+"Extracting calibrationdata from sensor" = "正在从传感器提取校准数据";
 
 /* Sensor Ending Soon */
 "Sensor Ending Soon" = "传感器即将结束";
 
 /* Current Sensor is Ending soon! Sensor Life left in %@ */
-"Current Sensor is Ending soon! Sensor Life left in %@" = "当前传感器即将结束！传感器剩余 %@";
+"Current Sensor is Ending soon! Sensor Life left in %@" = "当前传感器即将结束！剩余寿命 %@";
 
 /* */
-"Libre Bluetooth" = "瞬感发射器";
+"Libre Bluetooth" = "Libre 蓝牙";
 
 /* */
 "Snooze Alerts" = "延后警报";
 
 /* */
-"Last measurement" = "上次测量";
+"Last measurement" = "最后测量";
 
 /* */
-"Sensor Footer checksum" = "传感器Footer校验";
+"Sensor Footer checksum" = "传感器 Footer 校验";
 
 /* */
 "Last Blood Sugar prediction" = "最后一次血糖预测";
@@ -982,10 +985,10 @@ Enact a temp Basal or a temp target */
 "Sensor Info" = "传感器信息";
 
 /* */
-"Sensor Life-Span" = "Sensor Life-Span";
+"Sensor Life-Span" = "传感器寿命";
 
 /* */
-"When using %@ iAPS doesn't know the type of sensor used or the sensor life-span." = "When using %@ iAPS doesn't know the type of sensor used or the sensor life-span.";
+"When using %@ iAPS doesn't know the type of sensor used or the sensor life-span." = "当使用 %@ 时，iAPS 无法识别传感器类型或寿命。";
 
 /* */
 "Sensor Age Left" = "传感器剩余时间";
@@ -997,7 +1000,7 @@ Enact a temp Basal or a temp target */
 "Sensor State" = "传感器状态";
 
 /* */
-"Sensor Serial" = "传感器编号";
+"Sensor Serial" = "传感器序列号";
 
 /* */
 "Transmitter Info" = "发射器信息";
@@ -1021,25 +1024,25 @@ Enact a temp Basal or a temp target */
 "Factory Calibration Parameters" = "工厂校准参数";
 
 /* */
-"Valid for footer" = "Valid for footer";
+"Valid for footer" = "用于 Footer 校验";
 
 /* */
-"Edit calibrations" = "编辑校准参数";
+"Edit calibrations" = "编辑校准";
 
 /* */
-"edit calibration clicked" = "编辑校准已点击";
+"edit calibration clicked" = "已点击编辑校准";
 
 /* */
-"Delete CGM" = "删除CGM数据源";
+"Delete CGM" = "删除 CGM 数据源";
 
 /* */
-"Are you sure you want to remove this cgm from iAPS?" = "Are you sure you want to remove this cgm from iAPS?";
+"Are you sure you want to remove this cgm from iAPS?" = "确定要从 iAPS 中移除此 CGM 吗？";
 
 /* */
-"There is no undo" = "没有撤销!";
+"There is no undo" = "操作无法撤销！";
 
 /* */
-"Advanced" = "高级选项";
+"Advanced" = "高级";
 
 /* */
 "Alarms" = "提醒";
@@ -1057,46 +1060,46 @@ Enact a temp Basal or a temp target */
 "Export not available" = "无法导出";
 
 /* */
-"Log export requires ios 15" = "日志导出需要 ios 15";
+"Log export requires ios 15" = "导出日志需要 iOS 15";
 
 /* */
 "Got it!" = "知道了";
 
 /* */
-"Saved to %@" = "保存到 %@";
+"Saved to %@" = "已保存至 %@";
 
 /* */
-"No logs available" = "没有可用的日志";
+"No logs available" = "无可用日志";
 
 /* */
-"Glucose Notification visibility" = "血糖通知设置";
+"Glucose Notification visibility" = "血糖通知显示";
 
 /* */
-"Always Notify Glucose" = "总是提醒新的血糖读数";
+"Always Notify Glucose" = "始终推送血糖通知";
 
 /* */
-"Notify per reading" = "每次读数都推送";
+"Notify per reading" = "每次读数都通知";
 
 /* */
-"Value" = "值";
+"Value" = "数值";
 
 /* */
-"Adds Phone Battery" = "通知中包括手机电量";
+"Adds Phone Battery" = "通知中显示手机电量";
 
 /* */
-"Adds Transmitter Battery" = "通知中包括发射器电量";
+"Adds Transmitter Battery" = "通知中显示发射器电量";
 
 /* */
 "Also vibrate" = "同时振动";
 
 /* */
-"Additional notification types" = "额外的通知类型";
+"Additional notification types" = "其他通知类型";
 
 /* */
 "Misc" = "其他";
 
 /* */
-"Unit override" = "覆盖单位";
+"Unit override" = "单位覆盖";
 
 /* */
 "Low" = "低";
@@ -1105,281 +1108,280 @@ Enact a temp Basal or a temp target */
 "High" = "高";
 
 /* TIR Chart */
-"Very High" = "Very High";
+"Very High" = "非常高";
 
 /* TIR Chart */
-"Very Low" = "Very Low";
+"Very Low" = "非常低";
 
 /* */
 "glucose" = "葡萄糖";
 
 /* Bolus shortcut */
-"Enter a Bolus Amount" = "Enter a Bolus Amount";
+"Enter a Bolus Amount" = "输入注射剂量";
 
 /* Bolus shortcut */
-"Your current glucose is %@. Are you sure you want to bolus %@ U of insulin?" = "Your current glucose is %@. Are you sure you want to bolus %@ U of insulin?";
+"Your current glucose is %@. Are you sure you want to bolus %@ U of insulin?" = "当前血糖为 %@。确定要注射 %@ U 胰岛素吗？";
 
 /* Bolus shortcut */
-"A bolus command of " = "A bolus command of ";
+"A bolus command of " = "已发送大剂量指令：";
 
 /* Bolus shortcut */
-" U of insulin was sent to iAPS. Verify in iAPS app or in Nightscout if the bolus was delivered." = " U of insulin was sent to iAPS. Verify in iAPS app or in Nightscout if the bolus was delivered.";
+" U of insulin was sent to iAPS. Verify in iAPS app or in Nightscout if the bolus was delivered." = " U 胰岛素指令已发送到 iAPS。请在 iAPS 或 Nightscout 中确认是否完成注射。";
 
 /* Bolus shortcut. Error */
-"too small bolus amount" = "too small bolus amount";
+"too small bolus amount" = "剂量过小";
 
 /* Bolus shortcut. Error */
-"Bolus Shortcuts are disabled in iAPS settings" = "Bolus Shortcuts are disabled in iAPS settings";
+"Bolus Shortcuts are disabled in iAPS settings" = "iAPS 设置中禁用了快捷注射";
 
 /* Bolus shortcut */
-"Bolus Amount in U" = "Bolus Amount in U";
+"Bolus Amount in U" = "注射剂量 (U)";
 
 /* Bolus shortcut. Setting */
-"Allow iOS Bolus Shortcuts" = "Allow iOS Bolus Shortcuts";
+"Allow iOS Bolus Shortcuts" = "允许使用 iOS 快捷注射";
 
 /* Bolus shortcut setting. Header */
-"iOS Shortcuts" = "iOS Shortcuts";
+"iOS Shortcuts" = "iOS 快捷指令";
 
 /* Bolus shortcut. Pop-up */
-"If you enable this setting you will be able to use iOS shortcuts and its automations to trigger a bolus in iAPS.\n\nObserve that the iOS shortuts also works with Siri!\n\nIf you need to use Bolus Shorcuts, please make sure to turn off the listen for 'Hey Siri' setting in iPhone Siri settings, to avoid any inadvertant activaton of a bolus with Siri.\nIf you don't disable 'Hey Siri' the iAPS bolus shortcut can be triggered with the utterance 'Hey Siri, iAPS Bolus'.\n\nWhen triggered with Siri you will be asked for an amount and a confirmation before the bolus command can be sent to iAPS." = "If you enable this setting you will be able to use iOS shortcuts and its automations to trigger a bolus in iAPS.\n\nObserve that the iOS shortuts also works with Siri!\n\nIf you need to use Bolus Shorcuts, please make sure to turn off the listen for 'Hey Siri' setting in iPhone Siri settings, to avoid any inadvertant activaton of a bolus with Siri.\nIf you don't disable 'Hey Siri' the iAPS bolus shortcut can be triggered with the utterance 'Hey Siri, iAPS Bolus'.\n\nWhen triggered with Siri you will be asked for an amount and a confirmation before the bolus command can be sent to iAPS.";
+"If you enable this setting you will be able to use iOS shortcuts and its automations to trigger a bolus in iAPS.\n\nObserve that the iOS shortuts also works with Siri!\n\nIf you need to use Bolus Shorcuts, please make sure to turn off the listen for 'Hey Siri' setting in iPhone Siri settings, to avoid any inadvertant activaton of a bolus with Siri.\nIf you don't disable 'Hey Siri' the iAPS bolus shortcut can be triggered with the utterance 'Hey Siri, iAPS Bolus'.\n\nWhen triggered with Siri you will be asked for an amount and a confirmation before the bolus command can be sent to iAPS." = "开启后可使用 iOS 快捷指令和自动化触发 iAPS 注射。\n\n注意：快捷指令同时支持 Siri！\n\n如果要使用快捷注射，请在 iPhone 的 Siri 设置中关闭“听取“嘿 Siri””，避免误触导致注射。\n如果未关闭，则可以通过“嘿 Siri，iAPS Bolus”触发注射。\n\n使用 Siri 时，系统会要求输入剂量并确认后才会发送指令。";
 
 /* Bolus shortcut. Setting */
-"Max allowed bolus amount using shortcuts " = "Max allowed bolus amount using shortcuts ";
+"Max allowed bolus amount using shortcuts " = "使用快捷指令允许的最大剂量 ";
 
 /* Bolus shortcut. Error */
-"not available" = "not available";
+"not available" = "不可用";
 
 /* Override Shortcut */
-"Activate an Override Preset" = "Activate an Override Preset";
+"Activate an Override Preset" = "启用临时调整方案";
 
 /* Override Shortcut */
-"Allow to activate an overrride preset." = "Allow to activate an overrride preset.";
+"Allow to activate an overrride preset." = "允许启用临时调整方案";
 
 /* Override Shortcut */
-"Which override preset would you like to activate?" = "Which override preset would you like to activate?";
+"Which override preset would you like to activate?" = "选择要启用的临时方案";
 
 /* Override Shortcut */
-"Are you sure you want to activate the Override Preset %@?" = "Are you sure you want to activate the Override Preset %@?";
+"Are you sure you want to activate the Override Preset %@?" = "确定启用临时方案 %@？";
 
 /* Override Shortcut */
-"The Profile Override" = "The Profile Override";
+"The Profile Override" = "临时方案";
 
 /* Override Shortcut */
-"is now activated" = "is now activated";
+"is now activated" = "已启用";
 
 /* Override Shortcut */
-"Cancel active override" = "Cancel active override";
+"Cancel active override" = "取消当前临时方案";
 
 /* Override Shortcut */
-"Override canceled" = "Override canceled";
+"Override canceled" = "临时方案已取消";
 
 /* Override Shortcut */
-"Activates an %@ Override Preset" = "Activates an %@ Override Preset";
+"Activates an %@ Override Preset" = "启用 %@ 临时方案";
 
 /* Suspend/Resume Shortcut */
-"Choose what to do with your pump" = "Choose what to do with your pump";
+"Choose what to do with your pump" = "选择对泵的操作";
 
 /* Suspend/Resume Shortcut */
-"Are you sure you want to %@ your pump?" = "Are you sure you want to %@ your pump?";
+"Are you sure you want to %@ your pump?" = "确定要 %@ 泵吗？";
 
 /* Suspend/Resume Shortcut */
-"Pump command" = "Pump command";
+"Pump command" = "泵指令";
+
 /* Suspend/Resume Shortcut */
-"enacted in iAPS" = "enacted in iAPS";
+"enacted in iAPS" = "已在 iAPS 执行";
 
 /* Temp Basal Shortcut */
-"Temp basal Amount in U/h" = "Temp basal Amount in U/h";
+"Temp basal Amount in U/h" = "临时基础率 (U/h)";
 
 /* */
-"Cancel Temp" = "Cancel Temp";
-
-
+"Cancel Temp" = "取消临时";
 
 /* */
 "Schedule " = "配置 ";
 
 /* */
-"tapped save schedules" = "点击保存配置";
+"tapped save schedules" = "已点击保存配置";
 
 /* */
 "Error" = "错误";
 
 /* */
-"Some ui element was incorrectly specified" = "某些ui 元素指定不正确";
+"Some ui element was incorrectly specified" = "某些 UI 元素配置不正确";
 
 /* */
 "Success" = "成功";
 
 /* */
-"Schedules were saved successfully!" = "配置已成功保存";
+"Schedules were saved successfully!" = "配置保存成功";
 
 /* */
-"High Glucose Alarm active" = "高血糖报警激活";
+"High Glucose Alarm active" = "高血糖报警已启用";
 
 /* */
-"Low Glucose Alarm active" = "低血糖报警激活";
+"Low Glucose Alarm active" = "低血糖报警已启用";
 
 /* */
-"No Glucose Alarm active" = "所有血糖报警都没有激活";
+"No Glucose Alarm active" = "未启用血糖报警";
 
 /* */
-"Ascending Glucose Alarm active" = "Ascending Glucose Alarm active";
+"Ascending Glucose Alarm active" = "上升趋势报警已启用";
 
 /* */
-"Descending Glucose Alarm active" = "Descending Glucose Alarm active";
+"Descending Glucose Alarm active" = "下降趋势报警已启用";
 
 /* */
-"snoozing until %@" = "推迟至 %@";
+"snoozing until %@" = "暂停至 %@";
 
 /* */
-"not snoozing" = "不要休眠";
+"not snoozing" = "未暂停";
 
 /* */
 "nothing to see here" = "暂无内容";
 
 /* */
-"snooze from testview clicked" = "已点击测试视图休眠";
+"snooze from testview clicked" = "已在测试视图暂停提醒";
 
 /* */
-"will snooze for %@ until %@" = "将暂停 %@ 到 %@";
+"will snooze for %@ until %@" = "暂停 %@，直到 %@";
 
 /* */
-"Click to Snooze Alerts" = "点击以暂停提醒";
+"Click to Snooze Alerts" = "点击暂停提醒";
 
 /* */
 "Strength" = "强度";
 
 /* */
-"Hold the top of your iPhone near the sensor to pair" = "按住传感器附近的 iPhone 顶部配对";
+"Hold the top of your iPhone near the sensor to pair" = "将 iPhone 顶部贴近传感器以配对";
 
 /* */
-"Sensor not found" = "找不到传感器 ！";
+"Sensor not found" = "未找到传感器！";
 
 /* */
-"Also play alert sound" = "同时播放警报声音";
+"Also play alert sound" = "同时播放声音";
 
 /* */
 "Notification Settings" = "通知设置";
 
 /* */
-"Found devices: %d" = "已发现设备: %d";
+"Found devices: %d" = "发现设备：%d";
 
 /* */
 "Backfill options" = "回填选项";
 
 /* */
-"Backfilling from trend is currently not well supported by iAPS" = "Backfilling from trend is currently not well supported by iAPS";
+"Backfilling from trend is currently not well supported by iAPS" = "从趋势数据回填目前支持较差";
 
 /* */
-"Backfill from history" = "从历史数据中回填";
+"Backfill from history" = "从历史数据回填";
 
 /* */
-"Backfill from trend" = "从当前数据中回填";
+"Backfill from trend" = "从趋势数据回填";
 
 /* */
 "Debug options" = "调试选项";
 
 /* */
-"Adds a lot of data to the Issue Report " = "给问题报告添加大量数据 ";
+"Adds a lot of data to the Issue Report " = "向问题报告添加大量数据";
 
 /* */
-"Persist sensordata" = "保存所有血糖数据";
+"Persist sensordata" = "保存传感器数据";
 
 /* */
 "Battery" = "电量";
 
 /* */
-"Also add source info" = "同时添加源信息";
+"Also add source info" = "同时添加数据信息来源";
 
 /* */
-"Carbs Required Threshold" = "所需碳水阈值";
+"Carbs Required Threshold" = "碳水阈值";
 
 /* */
-"Carbs Required" = "Carbs Required";
+"Carbs Required" = "所需碳水";
 
 /* */
-"Sounds" = "Sounds";
+"Sounds" = "声音";
 
 /* Sound for Hypo alert */
-"Hypoglycemia" = "Hypoglycemia";
+"Hypoglycemia" = "低血糖";
 
 /* Sound for Hyper alert */
-"Hyperglycemia" = "Hyperglycemia";
+"Hyperglycemia" = "高血糖";
 
 /* Sound for ascending glucose */
-"Rapidly Ascending" = "Rapidly Ascending";
+"Rapidly Ascending" = "快速上升";
 
 /* Sound for descending glucose */
-"Rapidly Descending" = "Rapidly Descending";
+"Rapidly Descending" = "快速下降";
 
 /* Silent sound option */
-"Silent" = "Silent";
+"Silent" = "静音";
 
 /* Option for no sound */
-"Silent" = "Silent";
+"Silent" = "静音";
 
 /* Option for default notification sound */
-"Default" = "Default";
+"Default" = "默认";
 
 /* The iOS default sound */
-"iOS default sound" = "iOS default sound";
+"iOS default sound" = "iOS 默认声音";
 
 /* Alert for descending glucose */
-"RAPIDLY DESCENDING GLUCOSE!" = "RAPIDLY DESCENDING GLUCOSE!";
+"RAPIDLY DESCENDING GLUCOSE!" = "血糖快速下降！";
 
 /* Alert for ascending glucose */
-"RAPIDLY ASCENDING GLUCOSE!" = "RAPIDLY ASCENDING GLUCOSE!";
+"RAPIDLY ASCENDING GLUCOSE!" = "血糖快速上升！";
 
 /* Sound for bolus failure */
-"Bolus Failure" = "Bolus Failure";
+"Bolus Failure" = "注射失败";
 
 /* Sound for missing loops */
-"Missing Loops" = "Missing Loops";
+"Missing Loops" = "闭环未运行";
 
 /* Alert for ascending glucose */
-"Ascending" = "Ascending";
+"Ascending" = "上升趋势";
 
 /* Alert for descending glucose */
-"Descending" = "Descending";
+"Descending" = "下降趋势";
 
 /* Thresholds for Alerts */
-"Thresholds" = "Thresholds";
+"Thresholds" = "报警阈值";
 
 /* */
-"Carbs required: %d g" = "所需碳水: %d 克";
+"Carbs required: %d g" = "需要碳水：%d 克";
 
 /* */
-"To prevent LOW required %d g of carbs" = "为了防止低血糖, 需要%d 克碳水";
+"To prevent LOW required %d g of carbs" = "为了预防低血糖需要 %d 克碳水";
 
 /* */
 "iAPS not active" = "iAPS 未激活";
 
 /* */
-"Last loop was more than %d min ago" = "上次闭环成功在 %d 分钟前";
+"Last loop was more than %d min ago" = "上次闭环发生在 %d 分钟前";
 
 /* Glucose badge */
-"Show glucose on the app badge" = "在应用图表上显示葡萄糖。";
+"Show glucose on the app badge" = "在应用徽章显示血糖";
 
 /* */
 "Backfill glucose" = "回填血糖数据";
 
 /* About this source */
-"About this source" = "关于该来源";
+"About this source" = "关于此来源";
 
 /* */
-"Bolus failed" = "大剂量输注失败";
+"Bolus failed" = "注射失败";
 
 /* "Max Bolus Exceeded label" */
-"Max Bolus exceeded!" = "Max Bolus exceeded!";
+"Max Bolus exceeded!" = "超过最大注射量！";
 
 /* */
-"Bolus failed or inaccurate. Check pump history before repeating." = "大剂量失败或者不准确，请在重复操作前检查胰岛素泵历史";
+"Bolus failed or inaccurate. Check pump history before repeating." = "注射失败或不准确，请在重试前检查泵历史记录";
 
 /* */
 "Carbs" = "碳水化合物";
 
 /* Food Type / Meal Note */
-"Note" = "Note";
+"Note" = "备注";
 
 /* */
 "Temp Basal" = "临时基础率";
@@ -1397,10 +1399,10 @@ Enact a temp Basal or a temp target */
 "Animated Background" = "动态背景";
 
 /* Sensor day(s) */
-" day(s)" = "天";
+" day(s)" = " 天";
 
 /* Option to show HR in Watch app*/
-"Display HR on Watch" = "Display HR on Watch";
+"Display HR on Watch" = "在手表上显示心率";
 
 
 /* Headers for settings ----------------------- */
@@ -1416,127 +1418,127 @@ Enact a temp Basal or a temp target */
 "Glucose Simulator" = "葡萄糖模拟器";
 
 /* Restored state message */
-"Bluetooth State restored (APS restarted?). Found %d peripherals, and connected to %@ with identifier %@" = "蓝牙状态已恢复(APS 重启?) 找到 %d 个蓝牙，并连接到 %@ 标识符为 %@ 的设备";
+"Bluetooth State restored (APS restarted?). Found %d peripherals, and connected to %@ with identifier %@" = "蓝牙状态已恢复（APS 重启？）找到 %d 个设备，并连接到 %@，标识符 %@";
 
 /* Shared app group xDrip4iOS */
-"Using shared app group with external CGM app xDrip4iOS" = "Using shared app group with external CGM app xDrip4iOS";
+"Using shared app group with external CGM app xDrip4iOS" = "使用与 xDrip4iOS 共用的应用数据组";
 
 /* Shared app group GlucoseDirect */
-"Using shared app group with external CGM app GlucoseDirect" = "Using shared app group with external CGM app GlucoseDirect";
+"Using shared app group with external CGM app GlucoseDirect" = "使用与 GlucoseDirect 共用的应用数据组";
 
 /* Dexcom G6 app */
-"Dexcom G6 app" = "官方G6 App";
+"Dexcom G6 app" = "官方 G6 应用";
 
 /* Native G5 app */
-"Native G5 app" = "官方G5 App";
+"Native G5 app" = "官方 G5 应用";
 
 /* Minilink transmitter */
-"Minilink transmitter" = "Minilink发射器";
+"Minilink transmitter" = "Minilink 发射器";
 
 /* Simple simulator */
 "Simple simulator" = "简单模拟器";
 
 /* Direct connection with Libre 1 transmitters or Libre 2 */
-"Direct connection with Libre 1 transmitters or European Libre 2 sensors" = "直连Libre2或者Libre1发射器组合";
+"Direct connection with Libre 1 transmitters or European Libre 2 sensors" = "直连 Libre1 发射器或欧洲版 Libre 2 传感器";
 
 /* Online or internal server */
-"Online or internal server" = "在线或内部服务器";
+"Online or internal server" = "在线或本地服务器";
 
 /* Pump Error Message */
-"Can't enact the new loop cycle recommendation, because a Bolus is in progress. Wait for next loop cycle" = "Can't enact the new loop cycle recommendation, because a Bolus is in progress. Wait for next loop cycle";
+"Can't enact the new loop cycle recommendation, because a Bolus is in progress. Wait for next loop cycle" = "正在注射，无法执行新的闭环建议，请等待下一次循环";
 
 /* Pump Error */
-"Pump is Busy." = "Pump is Busy.";
+"Pump is Busy." = "泵正忙碌";
 
 /* Alert when bolus is already in progress (tapping the bolus button) */
-"Bolus already in Progress!" = "Bolus already in Progress!";
+"Bolus already in Progress!" = "正在注射！";
 
 /* -------------- Developer settings ---------------------- */
 /* Debug options */
 
-"Developer" = "Developer";
+"Developer" = "开发者";
 
 /* Debug option view NS Upload Profile */
-"NS Upload Profile and Settings" = "NS Upload Profile and Settings";
+"NS Upload Profile and Settings" = "NS 上传配置文件与设置";
 
 /* Debug option delete all NS overrides */
-"Delete All NS Overrides" = "Delete All NS Overrides";
+"Delete All NS Overrides" = "删除所有 NS 临时配置";
 
 /* Debug option view NS Uploaded Profile */
-"NS Uploaded Profile" = "NS Uploaded Profile";
+"NS Uploaded Profile" = "NS 已上传配置";
 
 /* Debug option view Autosense */
-"Autosense" = "Autosense";
+"Autosense" = "自动感知";
 
 /* Insulin sensitivity config header */
-"Dynamic Sensitivity" = "Dynamic Sensitivity";
+"Dynamic Sensitivity" = "动态敏感系数";
 
 /* Autotune config */
-"Only Autotune Basal Insulin" = "Only Autotune Basal Insulin";
+"Only Autotune Basal Insulin" = "仅自动调谐基础率";
 
 /* */
-"Save as your Normal Basal Rates" = "Save as your Normal Basal Rates";
+"Save as your Normal Basal Rates" = "保存为正常基础率";
 
 /* */
-"Save on Pump" = "在泵上保存";
+"Save on Pump" = "保存到泵";
 
 /* Debug option view Pump History */
-"Pump History" = "Pump History";
+"Pump History" = "泵历史";
 
 /* Debug option view Temp Basals */
-"Temp Basals" = "Temp Basals";
+"Temp Basals" = "临时基础率";
 
 /* Debug option view Target Ranges */
-"Targets ranges" = "Targets ranges";
+"Targets ranges" = "目标范围";
 
 /* Debug option view Temp targets */
-"Temp targets" = "Temp targets";
+"Temp targets" = "临时目标";
 
 /* Debug option view Meal */
-"Meal" = "Meal";
+"Meal" = "餐食";
 
 /* Debug option view Pump profile */
-"Pump profile" = "Pump profile";
+"Pump profile" = "泵配置文件";
 
 /* Debug option view Profile */
-"Profile" = "Profile";
+"Profile" = "配置";
 
 /* Debug option view Enacted */
-"Enacted" = "Enacted";
+"Enacted" = "已执行";
 
 /* Debug option view Announcements (from NS) */
-"Announcements" = "Announcements";
+"Announcements" = "公告";
 
 /* Debug option view Enacted announcements announcements (from NS) */
-"Enacted announcements" = "Enacted announcements";
+"Enacted announcements" = "已执行公告";
 
 /* Debug option view Not Uploaded Overrides */
-"Overrides Not Uploaded" = "Overrides Not Uploaded";
+"Overrides Not Uploaded" = "未上传的临时配置";
 
 /* Debug option view Autotune */
 "Autotune" = "自动调谐";
 
 /* Debug option view Target presets */
-"Target presets" = "Target presets";
+"Target presets" = "目标预设";
 
 /* Debug option view */
-"Loop Cycles" = "Loop Cycles";
+"Loop Cycles" = "循环次数";
 
 /* Debug option view Glucose Data used for statistics */
-"Glucose Data used for statistics" = "Glucose Data used for statistics";
+"Glucose Data used for statistics" = "统计用血糖数据";
 
 /* --------------- HealthKit intergration --------------------*/
 /* */
 "Apple Health" = "苹果健康";
 
 /* */
-"Connect to Apple Health" = "连接到苹果健康";
+"Connect to Apple Health" = "连接苹果健康";
 
 /* Show when have not permissions for writing to Health */
-"To allow iAPS to write data to Apple Health, you must grant permission in Settings > Health > Data Access." = "若要将数据写入苹果健康，您必须在“设置 > Health > 数据访问权限”中授予权限";
+"To allow iAPS to write data to Apple Health, you must grant permission in Settings > Health > Data Access." = "允许 iAPS 写入健康数据，需要在“设置 > 健康 > 数据访问”中授予权限";
 
 /* */
-"This allows iAPS to read from and write to Apple Heath. You must also give permissions in Settings > Health > Data Access." = "This allows iAPS to read from and write to Apple Heath. You must also give permissions in Settings > Health > Data Access.";
+"This allows iAPS to read from and write to Apple Heath. You must also give permissions in Settings > Health > Data Access." = "允许 iAPS 读取和写入苹果健康数据，同时需要在“设置 > 健康 > 数据访问”中授予权限";
 
 /* New ALerts ------------------------- */
 /* Info title */
@@ -1549,494 +1551,495 @@ Enact a temp Basal or a temp target */
 "Error" = "错误";
 
 /* Manual temp basal mode */
-"Manual" = "Manual";
+"Manual" = "手动";
 
 /* An Automatic delivered bolus (SMB) */
 "SMB" = "SMB";
 
 /* A manually entered dose of external insulin */
-"External Insulin" = "External Insulin";
+"External Insulin" = "外部胰岛素";
 
 /* Status highlight when manual temp basal is running. */
-"Manual Basal" = "Manual Basal";
+"Manual Basal" = "手动基础率";
 
 /* Current Manual Temp basal */
-" -  Manual Basal ⚠️" = " -  Manual Basal ⚠️";
+" -  Manual Basal ⚠️" = " - 手动基础率 ⚠️";
 
 /* Total AT / Scheduled basal insulin */
-"U/day" = "U/day";
+"U/day" = "U/天";
 
 /* Total AT / Scheduled basal insulin */
-"Total" = "Total";
+"Total" = "总量";
 
 /* -------------------------------------------- FPU Strings ------------------------------------------------------*/
 /* Enable FPU */
 
-"Enable" = "Enable";
+"Enable" = "启用";
 
 /* Header */
-"Conversion settings" = "Conversion settings";
+"Conversion settings" = "转换设置";
 
 /* Delay */
-"Delay In Minutes" = "Delay In Minutes";
+"Delay In Minutes" = "延迟分钟数";
 
 /* Duration */
-"Maximum Duration In Hours" = "Maximum Duration In Hours";
+"Maximum Duration In Hours" = "最长持续时间（小时）";
 
 /* Interval */
-"Interval In Minutes" = "Interval In Minutes";
+"Interval In Minutes" = "间隔（分钟）";
 
 /* Override */
-"Override With A Factor Of " = "Override With A Factor Of ";
+"Override With A Factor Of " = "按系数覆盖 ";
 
 /* Description */
-"Allows fat and protein to be converted into future carb equivalents using the Warsaw formula of kilocalories divided by 10.\n\nThis spreads the carb equivilants over a maximum duration setting that can be configured from 5-12 hours.\n\nDelay is time from now until the first future carb entry.\n\nInterval in minutes is how many minutes are between entries. The shorter the interval, the smoother the result. 10, 15, 20, 30, or 60 are reasonable choices.\n\nAdjustment factor is how much effect the fat and protein has on the entries. 1.0 is full effect (original Warsaw Method) and 0.5 is half effect. Note that you may find that your normal carb ratio needs to increase to a larger number if you begin adding fat and protein entries. For this reason, it is best to start with a factor of about 0.5 to ease into it.\n\nDefault settings: Time Cap: 8 h, Interval: 30 min, Factor: 0.5, Delay 60 min" = "Allows fat and protein to be converted into future carb equivalents using the Warsaw formula of kilocalories divided by 10.\n\nThis spreads the carb equivilants over a maximum duration setting that can be configured from 5-12 hours.\n\nDelay is time from now until the first future carb entry.\n\nInterval in minutes is how many minutes are between entries. The shorter the interval, the smoother the result. 10, 15, 20, 30, or 60 are reasonable choices.\n\nAdjustment factor is how much effect the fat and protein has on the entries. 1.0 is full effect (original Warsaw Method) and 0.5 is half effect. Note that you may find that your normal carb ratio needs to increase to a larger number if you begin adding fat and protein entries. For this reason, it is best to start with a factor of about 0.5 to ease into it.\n\nDefault settings: Time Cap: 8 h, Interval: 30 min, Factor: 0.5, Delay 60 min";
+"Allows fat and protein to be converted into future carb equivalents using the Warsaw formula of kilocalories divided by 10.\n\nThis spreads the carb equivilants over a maximum duration setting that can be configured from 5-12 hours.\n\nDelay is time from now until the first future carb entry.\n\nInterval in minutes is how many minutes are between entries. The shorter the interval, the smoother the result. 10, 15, 20, 30, or 60 are reasonable choices.\n\nAdjustment factor is how much effect the fat and protein has on the entries. 1.0 is full effect (original Warsaw Method) and 0.5 is half effect. Note that you may find that your normal carb ratio needs to increase to a larger number if you begin adding fat and protein entries. For this reason, it is best to start with a factor of about 0.5 to ease into it.\n\nDefault settings: Time Cap: 8 h, Interval: 30 min, Factor: 0.5, Delay 60 min" = "允许使用 Warsaw 公式（千卡/10）将脂肪和蛋白质转换为未来碳水当量。\n\n碳水当量在最长持续时间内分散给出，可设置范围为 5–12 小时。\n\n延迟：从现在开始到第一次生成碳水数据的等待时间。\n\n间隔：每条数据之间的时间间隔。间隔越短，结果越平滑。10、15、20、30、60 分钟都是合理选项。\n\n调整系数表示脂肪与蛋白质对碳水当量影响的比例：1.0 为完全效果（原 Warsaw 方法），0.5 为一半效果。如果启用 FPU，你的碳水比可能需要提高，因此建议从 0.5 开始试用。\n\n默认设置：时间上限 8 小时，间隔 30 分钟，系数 0.5，延迟 60 分钟";
 
 /* Fat/Protein additional info */
-"\n\nCarb equivalents that get to small (0.6g or under) will be excluded and the equivalents over 0.6 but under 1 will be rounded up to 1. With a higher time interval setting you'll get fewer equivalents with a higher carb amount." = "\n\nCarb equivalents that get to small (0.6g or under) will be excluded and the equivalents over 0.6 but under 1 will be rounded up to 1. With a higher time interval setting you'll get fewer equivalents with a higher carb amount.";
+"\n\nCarb equivalents that get to small (0.6g or under) will be excluded and the equivalents over 0.6 but under 1 will be rounded up to 1. With a higher time interval setting you'll get fewer equivalents with a higher carb amount." = "\n\n低于 0.6g 的碳水当量会被忽略，0.6–1g 的会取整为 1g。若使用较大的间隔，条目更少但每条含量更高。";
 
 /* FPU Settings Title */
-"Fat and Protein" = "Fat and Protein";
+"Fat and Protein" = "脂肪与蛋白";
 
 /* Display fat and protein entities */
-"Fat & Protein" = "Fat & Protein";
+"Fat & Protein" = "脂肪与蛋白";
 
 /* */
-"Hide Fat & Protein" = "Hide Fat & Protein";
+"Hide Fat & Protein" = "隐藏脂肪与蛋白";
 
 /* Add Fat */
-"Fat" = "Fat";
+"Fat" = "脂肪";
 
 /* Add Protein */
-"Protein" = "Protein";
+"Protein" = "蛋白质";
 
 /* Service Section */
-"Fat And Protein Conversion" = "Fat And Protein Conversion";
+"Fat And Protein Conversion" = "脂肪蛋白转换";
 
 /* Ignore flat CGM readings */
-"Ignore flat CGM readings" = "Ignore flat CGM readings";
+"Ignore flat CGM readings" = "忽略平直血糖曲线";
 
 /* Service Section */
-"Profile Override" = "Profile Override";
+"Profile Override" = "配置覆盖";
 
 /* Extend max override percentage */
-"Max Override 400%" = "Max Override 400%";
+"Max Override 400%" = "最大覆盖 400%";
 
 /* */
-"Override Profiles" = "Override Profiles";
+"Override Profiles" = "覆盖配置";
 
 /* */
-"Normal " = "Normal ";
+"Normal " = "正常 ";
 
-"Currently no Override active" = "Currently no Override active";
-
-/* */
-"Total Insulin Adjustment" = "Total Insulin Adjustment";
+"Currently no Override active" = "当前无覆盖配置";
 
 /* */
-"Override your Basal, ISF, CR and Target profiles" = "Override your Basal, ISF, CR and Target profiles";
+"Total Insulin Adjustment" = "胰岛素总调整量";
 
 /* */
-"Enable indefinitely" = "Enable indefinitely";
+"Override your Basal, ISF, CR and Target profiles" = "覆盖你的基础率、敏感系数、碳水比和目标配置";
 
 /* */
-"Override Profile target" = "Override Profile target";
+"Enable indefinitely" = "无限期启用";
 
 /* */
-"Disable SMBs" = "Disable SMBs";
+"Override Profile target" = "覆盖目标配置";
 
 /* */
-"End the Override with next Meal" = "End the Override with next Meal";
+"Disable SMBs" = "禁用 SMB";
 
 /* */
-"End the Override when Glucose is Trending Up" = "End the Override when Glucose is Trending Up";
+"End the Override with next Meal" = "下一次餐食后结束覆盖";
 
 /* */
-"And when Glucose is higher than" = "And when Glucose is higher than";
+"End the Override when Glucose is Trending Up" = "当血糖趋势上升时结束覆盖";
 
 /* */
-"End the Override when Glucose is Lower ..." = "End the Override when Glucose is Lower ...";
+"And when Glucose is higher than" = "并且当血糖高于";
 
 /* */
-"... than" = "... than";
+"End the Override when Glucose is Lower ..." = "当血糖低于时结束覆盖...";
+
+/* */
+"... than" = "...时";
 
 /* Your normal Profile. Use a short string */
-"Normal Profile" = "Normal Profile";
+"Normal Profile" = "正常配置";
 
 /* Custom but unsaved Profile */
-"Custom Profile" = "Custom Profile";
+"Custom Profile" = "自定义配置";
 
 /* */
-"Profiles" = "Profiles";
+"Profiles" = "配置方案";
 
 /* */
-"Advanced Settings" = "Advanced Settings";
+"Advanced Settings" = "高级设置";
 
 /* */
-"More options" = "More options";
+"More options" = "更多选项";
 
 /* */
-"Schedule when SMBs are Off" = "Schedule when SMBs are Off";
+"Schedule when SMBs are Off" = "SMB 关闭时的计划";
 
 /* */
-"Change ISF and CR and Basal" = "Change ISF and CR and Basal";
+"Change ISF and CR and Basal" = "调整 ISF / CR / 基础率";
 
 /* */
-"Change ISF" = "Change ISF";
+"Change ISF" = "调整 ISF";
 
 /* */
-"Change CR" = "Change CR";
+"Change CR" = "调整碳水比";
 
 /* */
-"Change Basal" = "Change Basal";
+"Change Basal" = "调整基础率";
 
 /* */
-"SMB Minutes" = "SMB Minutes";
+"SMB Minutes" = "SMB 时间（分钟）";
 
 /* */
-"UAM SMB Minutes" = "UAM SMB Minutes";
+"UAM SMB Minutes" = "UAM SMB 时间";
 
 /* */
-"Override Max IOB" = "Override Max IOB";
+"Override Max IOB" = "覆盖最大 IOB";
 
 /* */
-"Start new Profile" = "Start new Profile";
+"Start new Profile" = "启动新配置";
 
 /* */
-"Save as Profile" = "Save as Profile";
+"Save as Profile" = "保存为配置";
 
 /* */
-"Save as preset" = "Save as preset";
+"Save as preset" = "保存为预设";
 
 /* Alert */
-"Cancel Profile Override" = "Cancel Profile Override";
+"Cancel Profile Override" = "取消配置覆盖";
 
 /* Alert */
 "Cancel Temp Target" = "取消临时目标";
 
 /* Alert */
-"Return to Normal?" = "Return to Normal?";
+"Return to Normal?" = "恢复正常配置？";
 
 /* */
-"This will change settings back to your normal profile." = "This will change settings back to your normal profile.";
+"This will change settings back to your normal profile." = "这将把设置恢复为正常配置。";
 
 /* Start Profile Alert */
-"Start Profile" = "Start Profile";
+"Start Profile" = "启动配置";
 
 /* */
-"Your profile basal insulin will be adjusted with the override percentage and your profile ISF and CR will be inversly adjusted with the percentage." = "Your profile basal insulin will be adjusted with the override percentage and your profile ISF and CR will be inversly adjusted with the percentage.";
+"Your profile basal insulin will be adjusted with the override percentage and your profile ISF and CR will be inversly adjusted with the percentage." = "你的基础率将按覆盖百分比调整，ISF 和碳水比将按比例反向调整。";
 
 /* */
-"Starting this override will change your Profiles and/or your Target Glucose used for looping during the entire selected duration. Tapping ”Start Profile” will start your new profile or edit your current active profile." = "Starting this override will change your Profiles and/or your Target Glucose used for looping during the entire selected duration. Tapping ”Start Profile” will start your new profile or edit your current active profile.";
+"Starting this override will change your Profiles and/or your Target Glucose used for looping during the entire selected duration. Tapping ”Start Profile” will start your new profile or edit your current active profile." = "启动此覆盖将在整个选择时间内修改你的配置和/或闭环使用的目标血糖。点击“启动配置”将激活新的配置或编辑当前配置。";
 
 /* Change Target glucose in profile settings */
-"Override Profile Target" = "Override Profile Target";
+"Override Profile Target" = "覆盖目标血糖";
 
 /* Alert string. Keep spaces. */
-" SMBs are disabled either by schedule or during the entire duration." = " SMBs are disabled either by schedule or during the entire duration.";
+" SMBs are disabled either by schedule or during the entire duration." = " SMB 在计划或整个期间被禁用。";
 
 /* Alert strings. Keep spaces */
-" infinite duration." = " infinite duration.";
+" infinite duration." = " 无限持续时间。";
 
 /* Service Section */
-"App Icons" = "App Icons";
+"App Icons" = "应用图标";
 
 /* */
-"iAPS Icon" = "iAPS Icon";
+"iAPS Icon" = "iAPS 图标";
 
 /* Service Section */
-"Statistics and Home View" = "Statistics and Home View";
+"Statistics and Home View" = "统计与主页";
 
 /* Alert text */
-"Delete Carb Equivalents?" = "Delete Carb Equivalents?";
+"Delete Carb Equivalents?" = "删除碳水当量？";
 
 /* */
-"All FPUs of the meal will be deleted." = "All FPUs of the meal will be deleted.";
+"All FPUs of the meal will be deleted." = "将删除此餐所有 FPU。";
 
 /* */
-"Delete Glucose?" = "Delete Glucose?";
+"Delete Glucose?" = "删除血糖数据？";
 
 /* */
-"Meal Presets" = "Meal Presets";
+"Meal Presets" = "餐食预设";
 
 /* Back button */
-"Back" = "Back";
+"Back" = "返回";
 
 /* Search Saved Food presets */
-"Search" = "Search";
+"Search" = "搜索";
 
 /* Placeholder for name of dish when adding a new food preset */
-"New" = "New";
+"New" = "新增";
 
 /* */
-"Empty" = "Empty";
+"Empty" = "空";
 
 /* */
-"Delete Selected Preset" = "Delete Selected Preset";
+"Delete Selected Preset" = "删除已选预设";
 
 /* */
-"Enter Meal Preset Name" = "Enter Meal Preset Name";
+"Enter Meal Preset Name" = "输入餐食预设名称";
 
 /* */
-"Name Of Dish" = "Name Of Dish";
+"Name Of Dish" = "菜名";
 
 /* Save Carbs and continue to bolus recommendation */
-"Save and continue" = "Save and continue";
+"Save and continue" = "保存并继续";
 
 /* */
-"Save as Preset" = "Save as Preset";
+"Save as Preset" = "保存为预设";
 
 /* */
-"Predictions" = "Predictions";
+"Predictions" = "预测";
 
 /* Watch Config Option */
-"Display Protein & Fat" = "Display Protein & Fat";
+"Display Protein & Fat" = "显示蛋白质与脂肪";
 
 /* Time of new meal entry */
-"Now" = "Now";
+"Now" = "现在";
 
 /* Display future data table entries */
-"Show Future" = "Show Future";
+"Show Future" = "显示未来数据";
 
 /* Hide future data table entries */
-"Hide Future" = "Hide Future";
+"Hide Future" = "隐藏未来数据";
 
 /* ----------------------- New Bolus Calculator ---------------------------*/
 /* Warning about bolus recommendation. Title */
 
-"Warning!" = "Warning!";
+"Warning!" = "警告！";
 
 /* Alert to confirm bolus amount to add */
-"\n\nTap 'Add' to continue with selected amount." = "\n\nTap 'Add' to continue with selected amount.";
+"\n\nTap 'Add' to continue with selected amount." = "\n\n点击“添加”继续当前剂量。";
 
 /* */
-"Eventual Glucose" = "Eventual Glucose";
+"Eventual Glucose" = "最终血糖";
 
 /* */
-"Minimum Predicted Glucose" = "Minimum Predicted Glucose";
+"Minimum Predicted Glucose" = "预测最低血糖";
 
 /* */
-"Please wait" = "Please wait";
+"Please wait" = "请等待";
 
 /* */
-"Glucose, " = "Glucose, ";
+"Glucose, " = "血糖，";
 
 /* */
-"Target Glucose" = "Target Glucose";
+"Target Glucose" = "目标血糖";
 
 /* */
-"Percentage setting" = "Percentage setting";
+"Percentage setting" = "百分比设置";
 
 /* */
-"Insulin Sensitivity" = "Insulin Sensitivity";
+"Insulin Sensitivity" = "胰岛素敏感系数";
 
 /* Formula displayed in Bolus info pop-up. Make translation short! */
-"(Eventual Glucose - Target) / ISF" = "(Eventual Glucose - Target) / ISF";
+"(Eventual Glucose - Target) / ISF" = "(最终血糖 - 目标) / ISF";
 
 /* */
-"Formula:" = "Formula:";
+"Formula:" = "公式：";
 
 /* Bolus pop-up footer */
-"Carbs and previous insulin are included in the glucose prediction, but if the Eventual Glucose is lower than the Target Glucose, a bolus will not be recommended." = "Carbs and previous insulin are included in the glucose prediction, but if the Eventual Glucose is lower than the Target Glucose, a bolus will not be recommended.";
+"Carbs and previous insulin are included in the glucose prediction, but if the Eventual Glucose is lower than the Target Glucose, a bolus will not be recommended." = "碳水和先前剂量已包含在预测中，如果最终血糖低于目标，将不会推荐注射。";
 
 /* Hide pop-up */
-"Hide" = "Hide";
+"Hide" = "隐藏";
 
 /* Bolus pop-up / Alert string. Make translations concise! */
-"Eventual Glucose > Target Glucose, but glucose is predicted to drop down to " = "Eventual Glucose > Target Glucose, but glucose is predicted to first drop down to ";
+"Eventual Glucose > Target Glucose, but glucose is predicted to drop down to " = "最终血糖高于目标，但预测将先下降至 ";
 
 /* Bolus pop-up / Alert string. Make translations concise! */
-"which is below your Threshold (" = "which is below your Threshold (";
+"which is below your Threshold (" = "低于你的阈值（";
 
 /* Bolus pop-up / Alert string. Make translations concise! */
-"Eventual Glucose > Target Glucose, but glucose is climbing slower than expected. Expected: " = "Eventual Glucose > Target Glucose, but glucose is climbing slower than expected. Expected: ";
-
-//* Bolus pop-up / Alert string. Make translations concise! */
-". Climbing: " = ". Climbing: ";
+"Eventual Glucose > Target Glucose, but glucose is climbing slower than expected. Expected: " = "最终血糖高于目标，但上升速度低于预期。预期：";
 
 /* Bolus pop-up / Alert string. Make translations concise! */
-"Eventual Glucose > Target Glucose, but glucose is falling faster than expected. Expected: " = "Eventual Glucose > Target Glucose, but glucose is falling faster than expected. Expected: ";
+". Climbing: " = ". 上升：";
 
 /* Bolus pop-up / Alert string. Make translations concise! */
-". Falling: " = ". Falling: ";
+"Eventual Glucose > Target Glucose, but glucose is falling faster than expected. Expected: " = "最终血糖高于目标，但下降速度快于预期。预期：";
 
 /* Bolus pop-up / Alert string. Make translations concise! */
-"Eventual Glucose > Target Glucose, but glucose is changing faster than expected. Expected: " = "Eventual Glucose > Target Glucose, but glucose is changing faster than expected. Expected: ";
+". Falling: " = ". 下降：";
 
 /* Bolus pop-up / Alert string. Make translations concise! */
-". Changing: " = ". Changing: ";
+"Eventual Glucose > Target Glucose, but glucose is changing faster than expected. Expected: " = "最终血糖高于目标，但变化速度高于预期。预期：";
+
+/* Bolus pop-up / Alert string. Make translations concise! */
+". Changing: " = ". 变化：";
 
 /* Add insulin without bolusing alert */
-" without bolusing" = " without bolusing";
+" without bolusing" = "（无注射）";
 
 /* */
-"Don't Use 15 min Trend" = "Don't Use 15 min Trend";
+"Don't Use 15 min Trend" = "不要使用 15 分钟趋势";
 
 /* */
-"Don't adjust for past 15 minutes glucose trend." = "Don't adjust for past 15 minutes glucose trend.";
+"Don't adjust for past 15 minutes glucose trend." = "不根据过去 15 分钟趋势调整。";
+
 
 /* -------------------------------------------------------------------------------------------
   DASH strings
 */
-"Attach Pod" = "Attach Pod";
+"Attach Pod" = "连接 Pod";
 
-"Deactivate Pod" = "解除Pod";
+"Deactivate Pod" = "停用 Pod";
 
 /* */
-"Deactivating..." = "Deactivating...";
+"Deactivating..." = "正在停用...";
 
-"Pair Pod" = "Pair Pod";
+"Pair Pod" = "配对 Pod";
 
 /* Text for previous pod information row */
-"Previous Pod Information" = "Previous Pod Information";
+"Previous Pod Information" = "上一个 Pod 信息";
 
 /* Text for confidence reminders navigation link */
-"Confidence Reminders" = "Confidence Reminders";
+"Confidence Reminders" = "提醒蜂鸣设置";
 
-"Confidence reminders are beeps from the Pod which can be used to acknowledge selected commands when the Pod is not silenced." = "Confidence reminders are beeps from the Pod which can be used to acknowledge selected commands when the Pod is not silenced.";
+"Confidence reminders are beeps from the Pod which can be used to acknowledge selected commands when the Pod is not silenced." = "当 Pod 未静音时，可以通过蜂鸣确认选定指令。";
 
 /* button title for saving low reservoir reminder while saving */
 "Saving..." = "正在保存...";
 
 /* button title for saving low reservoir reminder */
-"Save" = "保存​​";
+"Save" = "保存";
 
 /* Alert title for error when updating confidence reminder preference */
-"Failed to update confidence reminder preference." = "Failed to update confidence reminder preference.";
+"Failed to update confidence reminder preference." = "更新提醒偏好失败。";
 
 /* */
-"No Error" = "No Error";
+"No Error" = "无错误";
 
 /* description label for active time pod details row */
-"Active Time" = "Pod启动时间";
+"Active Time" = "Pod 启动时间";
 
 /* Title string for BeepPreference.silent */
-"Disabled" = "Disabled";
+"Disabled" = "关闭";
 
 /* Title string for BeepPreference.manualCommands */
-"Enabled" = "已启用";
+"Enabled" = "开启";
 
 /* Title string for BeepPreference.extended */
-"Extended" = "Extended";
+"Extended" = "扩展";
 
 /* Description for BeepPreference.silent */
-"No confidence reminders are used." = "No confidence reminders are used.";
+"No confidence reminders are used." = "不使用确认蜂鸣。";
 
 /* Description for BeepPreference.manualCommands */
-"Confidence reminders will sound for commands you initiate, like bolus, cancel bolus, suspend, resume, save notification reminders, etc. When the app automatically adjusts delivery, no confidence reminders are used." = "Confidence reminders will sound for commands you initiate, like bolus, cancel bolus, suspend, resume, save notification reminders, etc. When the app automatically adjusts delivery, no confidence reminders are used.";
+"Confidence reminders will sound for commands you initiate, like bolus, cancel bolus, suspend, resume, save notification reminders, etc. When the app automatically adjusts delivery, no confidence reminders are used." = "当你执行注射、取消注射、暂停、恢复、保存设置等命令时会有蜂鸣。应用自动调整输注时不会蜂鸣。";
 
 /* Description for BeepPreference.extended */
-"Confidence reminders will sound when the app automatically adjusts delivery as well as for commands you initiate." = "Confidence reminders will sound when the app automatically adjusts delivery as well as for commands you initiate.";
+"Confidence reminders will sound when the app automatically adjusts delivery as well as for commands you initiate." = "无论自动调整还是手动命令都会蜂鸣提醒。";
 
 /* Label text for expiration reminder default row */
-"Expiration Reminder Default" = "Expiration Reminder Default";
+"Expiration Reminder Default" = "到期提醒默认";
 
 /* */
-"Expiration Reminder" = "Pod到期提醒";
+"Expiration Reminder" = "Pod 到期提醒";
 
 /* */
-"Low Reservoir" = "Low Reservoir";
+"Low Reservoir" = "低储量";
 
 /* Value text for no expiration reminder */
-"No Reminder" = "No Reminder";
+"No Reminder" = "无提醒";
 
 /* */
-"Scheduled Reminder" = "Scheduled Reminder";
+"Scheduled Reminder" = "计划提醒";
 
 /* */
-"Low Reservoir Reminder" = "Low Reservoir Reminder";
+"Low Reservoir Reminder" = "低储量提醒";
 
 /* The action string on pod status page when pod data is stale */
-"Make sure your phone and pod are close to each other. If communication issues persist, move to a new area." = "Make sure your phone and pod are close to each other. If communication issues persist, move to a new area.";
+"Make sure your phone and pod are close to each other. If communication issues persist, move to a new area." = "请确保手机和 Pod 靠近。如通信仍有问题，请移动到其他区域。";
 /* Format string for the action string on pod status page when pod expired. (1: service time remaining) */
-"Change Pod now. Insulin delivery will stop in %1$@ or when no more insulin remains." = "Change Pod now. Insulin delivery will stop in %1$@ or when no more insulin remains.";
+"Change Pod now. Insulin delivery will stop in %1$@ or when no more insulin remains." = "请立即更换 Pod。输注将在 %1$@ 后或胰岛素用尽时停止。";
 
 /* Label text for temporary basal rate summary */
 "Rate" = "输注率";
 
 /* Summary string for temporary basal rate configuration page */
-"%1$@ for %2$@" = "%1$@ for %2$@";
+"%1$@ for %2$@" = "%1$@ 持续 %2$@";
 
 /* Description text on manual temp basal action sheet */
-"iAPS will not automatically adjust your insulin delivery until the temporary basal rate finishes or is canceled." = "iAPS will not automatically adjust your insulin delivery until the temporary basal rate finishes or is canceled.";
+"iAPS will not automatically adjust your insulin delivery until the temporary basal rate finishes or is canceled." = "在临时基础率结束或取消前，iAPS 将不会自动调整剂量。";
 /* Button text for setting manual temporary basal rate*/
-"Set Temporary Basal" = "Set Temporary Basal";
+"Set Temporary Basal" = "设置临时基础率";
 
 /* Navigation Title for ManualTempBasalEntryView */
-"Temporary Basal" = "Temporary Basal";
+"Temporary Basal" = "临时基础率";
 
 /* Alert title for a failure to set temporary basal */
-"Temporary Basal Failed" = "Temporary Basal Failed";
+"Temporary Basal Failed" = "设置失败";
 
 /* Alert format string for a failure to set temporary basal with recovery suggestion. (1: error description) (2: recovery text) */
-"Unable to set a temporary basal rate: %1$@\n\n%2$@" = "Unable to set a temporary basal rate: %1$@\n\n%2$@";
+"Unable to set a temporary basal rate: %1$@\n\n%2$@" = "无法设置临时基础率：%1$@\n\n%2$@";
 
 /* Alert format string for a failure to set temporary basal. (1: error description) */
-"Unable to set a temporary basal rate: %1$@" = "Unable to set a temporary basal rate: %1$@";
+"Unable to set a temporary basal rate: %1$@" = "无法设置临时基础率：%1$@";
 
 /* Alert title for missing temp basal configuration */
-"Missing Config" = "Missing Config";
+"Missing Config" = "缺少配置";
 
 /* Alert format string for missing temp basal configuration. */
-"This PumpManager has not been configured with a maximum basal rate because it was added before manual temp basal was a feature. Please go to therapy settings -> delivery limits and set a new maximum basal rate." = "This PumpManager has not been configured with a maximum basal rate because it was added before manual temp basal was a feature. Please go to therapy settings -> delivery limits and set a new maximum basal rate.";
+"This PumpManager has not been configured with a maximum basal rate because it was added before manual temp basal was a feature. Please go to therapy settings -> delivery limits and set a new maximum basal rate." = "此泵管理器未配置最大基础率，因为添加时尚未支持手动临时基础率功能。请前往治疗设置 -> 输注限制，设置新的最大基础率。";
 
 /* description label for active time pod details row */
-"Active Time" = "Pod启动时间";
+"Active Time" = "Pod 启动时间";
 
 /* description label for total delivery pod details row */
-"Total Delivery" = "Total Delivery";
+"Total Delivery" = "总输注量";
 
 /* */
-"Add Omnipod Dash" = "Add Omnipod Dash";
+"Add Omnipod Dash" = "添加 Omnipod Dash";
 
 /* */
-"Insert Cannula" = "植入Pod";
+"Insert Cannula" = "插入套管";
 
 /* */
-"Check Cannula" = "Check Cannula";
+"Check Cannula" = "检查套管";
 
 /* */
-"Setup Complete" = "Setup Complete";
+"Setup Complete" = "设置完成";
 
 /* */
-"Insulin Suspended" = "Insulin Suspended";
+"Insulin Suspended" = "胰岛素已暂停";
 
 /* Text for suspend resume button when insulin delivery is suspending */
-"Suspending insulin delivery..." = "Suspending insulin delivery...";
+"Suspending insulin delivery..." = "正在暂停胰岛素输注…";
 
 /* Text for suspend resume button when insulin delivery is suspended */
-"Resume Insulin Delivery" = "Resume Insulin Delivery";
+"Resume Insulin Delivery" = "恢复胰岛素输注";
 
 /* Text for suspend resume button when insulin delivery is resuming */
-"Resuming insulin delivery..." = "Resuming insulin delivery...";
+"Resuming insulin delivery..." = "正在恢复胰岛素输注…";
 
 /* Alert title for suspend error */
-"Failed to Suspend Insulin Delivery" = "Failed to Suspend Insulin Delivery";
+"Failed to Suspend Insulin Delivery" = "暂停胰岛素输注失败";
 
 //* -----------------------------------------------------------------------*/
 /* ----------------------Statistics strings -------------------------------*/
 /* */
 
 
-"Today" = "Today";
+"Today" = "今日";
 
 /* */
-"Day" = "Day";
+"Day" = "日";
 
 /* */
-"Week" = "Week";
+"Week" = "周";
 
 /* */
-"Month" = "Month";
+"Month" = "月";
 
 /* */
-"Total" = "Total";
+"Total" = "全部";
 
 /* Headline Statistics */
-"Statistics" = "Statistics";
+"Statistics" = "统计";
 
 /* Option in preferences */
-"Allow Upload of Statistics to NS" = "Allow Upload of Statistics to NS";
+"Allow Upload of Statistics to NS" = "允许上传统计数据到 NS";
 
 /* Low Glucose Threshold in Statistics settings */
 "Low" = "低";
@@ -2045,76 +2048,76 @@ Enact a temp Basal or a temp target */
 "High" = "高";
 
 /* In Range */
-"In Range" = "In Range";
+"In Range" = "范围内";
 
 /* Display % */
-"Change HbA1c Unit" = "Change HbA1c Unit";
+"Change HbA1c Unit" = "切换 HbA1c 单位";
 
 /* */
-"Display Chart X - Grid lines" = "Display Chart X - Grid lines";
+"Display Chart X - Grid lines" = "显示 X 轴网格线";
 
 /* */
-"Display Chart Y - Grid lines" = "Display Chart Y - Grid lines";
+"Display Chart Y - Grid lines" = "显示 Y 轴网格线";
 
 /* */
-"Display Chart Threshold lines for Low and High" = "Display Chart Threshold lines for Low and High";
+"Display Chart Threshold lines for Low and High" = "显示高低阈值线";
 
 /* */
-"Standing / Laying TIR Chart" = "Standing / Laying TIR Chart";
+"Standing / Laying TIR Chart" = "竖屏 / 横屏 TIR 图";
 
 /* */
-"Hours X-Axis (6 default)" = "Hours X-Axis (6 default)";
+"Hours X-Axis (6 default)" = "小时 X 轴（默认 6）";
 
 /* */
-"2 hours" = "2小时";
+"2 hours" = "2 小时";
 
 /* */
-"3 hours" = "3 hours";
+"3 hours" = "3 小时";
 
 /* */
-"4 hours" = "4 hours";
+"4 hours" = "4 小时";
 
 /* */
-"6 hours" = "6 hours";
+"6 hours" = "6 小时";
 
 /* */
-"9 hours" = "9 hours";
+"9 hours" = "9 小时";
 
 /* */
-"12 hours" = "12 hours";
+"12 hours" = "12 小时";
 
 /* */
-"24 hours" = "24 hours";
+"24 hours" = "24 小时";
 
 /* Average BG = */
-"Average" = "Average";
+"Average" = "平均值";
 
 /* TIR Preview Headline */
-"Time In Range" = "Time In Range";
+"Time In Range" = "达标时间";
 
 /* Average Loop Interval in minutes */
-"Average Interval" = "Average Interval";
+"Average Interval" = "平均间隔";
 
 /* Median BG */
-"Median" = "Median";
+"Median" = "中位数";
 
 /* CGM readings in statView */
-"Readings" = "Readings";
+"Readings" = "读数";
 
 /* CGM readings in statView */
-"Readings / 24h" = "Readings / 24h";
+"Readings / 24h" = "24小时读数";
 
 /* Days of saved readings*/
-"Days" = "Days";
+"Days" = "天数";
 
 /* Normal BG (within TIR) */
-"Normal" = "Normal";
+"Normal" = "正常";
 
 /* Title High BG in statPanel */
-"High (>" = "High (>";
+"High (>" = "高 (>";
 
 /* Title Low BG in statPanel */
-"Low (<" = "Low (<";
+"Low (<" = "低 (<";
 
 /* SD */
 "SD" = "SD";
@@ -2126,231 +2129,231 @@ Enact a temp Basal or a temp target */
 "HbA1c" = "HbA1c";
 
 /* Total number of days of data for HbA1c estimation, part 1/2*/
-"All" = "All";
+"All" = "全部";
 
 /* Total number of days of data for HbA1c estimation, part 2/2*/
-"days" = "days";
+"days" = "天";
 
 /* Nr of Loops in statPanel */
-"Loops" = "Loops";
+"Loops" = "循环次数";
 
 /* Loop Errors in statPanel */
-"Errors" = "Errors";
+"Errors" = "错误";
 
 /* Loop Statistics pop-up description */
-"Success = Started / Completed (loops)" = "Success = Started / Completed (loops)";
+"Success = Started / Completed (loops)" = "成功 = 已启动 / 已完成（回路）";
 
 /* Loop Statistics pop-up */
-"Most Frequent Error" = "Most Frequent Error";
+"Most Frequent Error" = "最常见错误";
 
 /* Loop Statistics pop-up */
-"Non-completed Loops" = "Non-completed Loops";
+"Non-completed Loops" = "未完成循环";
 
 /* Average loop interval */
-"Interval" = "Interval";
+"Interval" = "间隔";
 
 /* Median loop interval */
 "Duration" = "持续时间";
 
 /* "Display SD */
-"Display SD instead of CV" = "Display SD instead of CV";
+"Display SD instead of CV" = "显示 SD 而非 CV";
 
 /* Description for display SD */
-"Display Standard Deviation (SD) instead of Coefficient of Variation (CV) in statPanel" = "Display Standard Deviation (SD) instead of Coefficient of Variation (CV) in statPanel";
+"Display Standard Deviation (SD) instead of Coefficient of Variation (CV) in statPanel" = "在统计面板中使用 SD 代替 CV";
 
 /* How often to update the statistics */
-"Update every number of minutes:" = "Update every number of minutes:";
+"Update every number of minutes:" = "统计更新间隔（分钟）：";
 
 /* Description for update interval for statistics */
-"Default is 20 minutes. How often to update and save the statistics.json and to upload last array, when enabled, to Nightscout." = "Default is 20 minutes. How often to update and save the statistics.json and to upload last array, when enabled, to Nightscout.";
+"Default is 20 minutes. How often to update and save the statistics.json and to upload last array, when enabled, to Nightscout." = "默认 20 分钟。设置统计.json 的保存与更新频率；启用时会将最新数据上传至 Nightscout。";
 
 /* Duration displayed in statPanel */
-"Past 24 Hours " = "Past 24 Hours ";
+"Past 24 Hours " = "过去 24 小时 ";
 
 /* Duration displayed in statPanel */
-"Past Week " = "Past Week ";
+"Past Week " = "过去一周 ";
 
 /* Duration displayed in statPanel */
-"Past Month " = "Past Month ";
+"Past Month " = "过去一月 ";
 
 /* Duration displayed in statPanel */
-"Past 90 Days " = "Past 90 Days ";
+"Past 90 Days " = "过去 90 天 ";
 
 /* Duration displayed in statPanel */
-"All Past Days of Data " = "All Past Days of Data ";
+"All Past Days of Data " = "所有历史数据 ";
 
 /* "Display Loop statistics in statPanel */
-"Display Loop Cycle statistics" = "Display Loop Cycle statistics";
+"Display Loop Cycle statistics" = "显示循环统计";
 
 /* Description for Display Loop statistics */
-"Displays Loop statistics in the statPanel in Home View" = "Displays Loop statistics in the statPanel in Home View";
+"Displays Loop statistics in the statPanel in Home View" = "在主页统计面板显示循环统计数据";
 
 /* Description for Override HbA1c unit */
-"Change default HbA1c unit in statPanlel. The unit in statPanel will be updateded with next statistics.json update" = "Change default HbA1c unit in statPanlel. The unit in statPanel will be updateded with next statistics.json update";
+"Change default HbA1c unit in statPanlel. The unit in statPanel will be updateded with next statistics.json update" = "修改默认 HbA1c 单位。将在下一次统计数据更新时生效。";
 
 /* HbA1c for all glucose storage days */
-"all" = "all";
+"all" = "全部";
 
 /* IOB View */
-"Insulin on Board" = "Insulin on Board";
+"Insulin on Board" = "体内活性胰岛素（IOB）";
 
 /* Active Insulin View */
-"Time with negative insulin" = "Time with negative insulin";
+"Time with negative insulin" = "负胰岛素时间";
 
 /* Active Insulin View */
-"Insulin compared to yesterday" = "Insulin compared to yesterday";
+"Insulin compared to yesterday" = "与昨日相比";
 
 /* Active Insulin View */
-"Insulin compared to average" = "Insulin compared to average";
+"Insulin compared to average" = "与平均值相比";
 
 /* Active Insulin View */
-"Average Insulin 10 days" = "Average Insulin 10 days";
+"Average Insulin 10 days" = "过去 10 天平均";
 
 /* Active Insulin View */
-"TDD yesterday" = "TDD yesterday";
+"TDD yesterday" = "昨日总量";
 
 /* Active Insulin View */
-"TDD 2 days ago" = "TDD 2 days ago";
+"TDD 2 days ago" = "前日总量";
 
 /* Active Insulin View */
-"TDD 3 days ago" = "TDD 3 days ago";
+"TDD 3 days ago" = "三日前总量";
 
 /* COB View */
-"Carbohydrates on Board" = "Carbohydrates on Board";
+"Carbohydrates on Board" = "体内碳水（COB）";
 
 /* UI/UX-setting */
-"Display COB Chart" = "Display COB Chart";
+"Display COB Chart" = "显示 COB 图表";
 
 /* UI/UX-setting */
-"Display Insulin Activity Chart" = "Display Insulin Activity Chart";
+"Display Insulin Activity Chart" = "显示胰岛素曲线图";
 
 /* --------------------------------------------------------  Dexcom G7 --------------------------------------*/
 
-"CGM Configuration" = "CGM Configuration";
+"CGM Configuration" = "CGM 配置";
 
-"Heartbeat" = "Heartbeat";
+"Heartbeat" = "心跳";
 
-"CGM address :" = "CGM address :";
+"CGM address :" = "CGM 地址：";
 
-"CGM is not used as heartbeat." = "CGM is not used as heartbeat.";
+"CGM is not used as heartbeat." = "心跳并非由 CGM 数据触发";
 
-"Are you sure you want to delete this CGM?" = "Are you sure you want to delete this CGM?";
+"Are you sure you want to delete this CGM?" = "确认删除此 CGM？";
 
 /* New Experimental feature */
-"Experimental" = "Experimental";
+"Experimental" = "实验性功能";
 /* Smoothing of CGM readings */
-"Smooth Glucose Value" = "Smooth Glucose Value";
+"Smooth Glucose Value" = "平滑血糖数据";
 /* ------------------------------------------- Sharing -------------------------------------------------------*/
 /* Setting Title */
 
-"Sharing" = "Sharing";
+"Sharing" = "数据共享";
 
 /* Share and Backup page header */
-"Share and Backup" = "Share and Backup";
+"Share and Backup" = "共享与备份";
 
 /* Section 1 title */
-"Upload Settings and Statistics" = "Upload Settings and Statistics";
+"Upload Settings and Statistics" = "上传设置与统计";
 
 /* On-off toggle */
-"Share and Backup all of your Settings and Statistics" = "Share and Backup all of your Settings and Statistics";
+"Share and Backup all of your Settings and Statistics" = "共享并备份所有设置与统计";
 
 /* Title of dropdown menu */
-"Sex" = "Sex";
+"Sex" = "性别";
 
 /* Sex dropdown menu option */
-"Woman" = "Woman";
+"Woman" = "女性";
 
 /* Sex dropdown menu option */
-"Man" = "Man";
+"Man" = "男性";
 
 /* Sex dropdown menu option */
 "Other" = "其他";
 
 /* Sex dropdown menu option */
-"Secret" = "Secret";
+"Secret" = "保密";
 
 /* Title of birth date field */
-"Birth Date" = "Birth Date";
+"Birth Date" = "出生日期";
 
 /* Share and Backup info text */
-"\nIf you enable \"Share and Backup\" daily backups of your settings and statistics will be made to online database.\n\nMake sure to copy and save your recovery token below. The recovery token is required to import your settings to another phone when using the onboarding view." = "\nIf you enable \"Share and Backup\" daily backups of your settings and statistics will be made to online database.\n\nMake sure to copy and save your recovery token below. The recovery token is required to import your settings to another phone when using the onboarding view.";
+"\nIf you enable \"Share and Backup\" daily backups of your settings and statistics will be made to online database.\n\nMake sure to copy and save your recovery token below. The recovery token is required to import your settings to another phone when using the onboarding view." = "\n启用“共享与备份”后，将每日自动备份你的设置与统计到在线数据库。\n\n请务必复制并保存下方恢复令牌。恢复令牌用于在新手机上通过初始设置导入你的配置。";
 
 /* Section title if sharing off */
-"Share Bare Minimum" = "Share Bare Minimum";
+"Share Bare Minimum" = "最低共享";
 
 /* Minimum share toggle */
-"Just iAPS version number" = "Just iAPS version number";
+"Just iAPS version number" = "仅共享 iAPS 版本号";
 
 /* Share info text */
-"Every bit of information you choose to share is uploaded anonymously. To prevent duplicate uploads, the data is identified with a unique random string saved on your phone, the recovery token." = "Every bit of information you choose to share is uploaded anonymously. To prevent duplicate uploads, the data is identified with a unique random string saved on your phone, the recovery token.";
+"Every bit of information you choose to share is uploaded anonymously. To prevent duplicate uploads, the data is identified with a unique random string saved on your phone, the recovery token." = "所有共享数据均以匿名方式上传。为防止重复上传，系统使用存储在手机中的唯一随机字符串（恢复令牌）标识数据。";
 
 /* Token section title */
-"Your recovery token" = "Your recovery token";
+"Your recovery token" = "你的恢复令牌";
 
 /* Token display button */
-"Tap to display" = "Tap to display";
+"Tap to display" = "点击显示";
 
 /* Token copy button */
-"Long press to copy" = "Long press to copy";
+"Long press to copy" = "长按复制";
 
 /* Link to statistics button */
-"View Personal Statistics" = "View Personal Statistics";
+"View Personal Statistics" = "查看个人统计";
 
 /* */
-"Your identifier" = "Your identifier";
+"Your identifier" = "你的标识符";
 
 /* */
-"Share your data anonymously" = "Share your data anonymously";
+"Share your data anonymously" = "匿名共享你的数据";
 
 /* Setting Title */
-"Sharing" = "Sharing";
+"Sharing" = "数据共享";
 
 /* ——————————Contact Image ————————*/
 /* Contact Image, contacts list - prefix before the contact given name */
 
-"Contact" = "Contact";
+"Contact" = "联系人";
 
 /* Contact Image, settings, header of the contacts list */
-"Contacts" = "Contacts";
+"Contacts" = "联系人";
 
 /* Contact Image, settings, save your changes reminedr */
-"Don't forget to save your changes." = "Don't forget to save your changes.";
+"Don't forget to save your changes." = "不要忘记保存你的更改。";
 
 /* Contact Image, settings, message about need to access contacts */
-"iAPS needs access to your contacts for this feature to work" = "iAPS needs access to your contacts for this feature to work";
+"iAPS needs access to your contacts for this feature to work" = "iAPS 需要访问你的联系人才能使用此功能";
 
 /* Contact Image, settings, button to grant access to contacts */
-"Grant iAPS access to contacts" = "Grant iAPS access to contacts";
+"Grant iAPS access to contacts" = "授予 iAPS 联系人访问权限";
 
 /* Contact Image, settings, message when access to contacts denied */
-"Access to contacts denied" = "Access to contacts denied";
+"Access to contacts denied" = "联系人访问被拒绝";
 
 /* Contact Image, settings, message when access to contacts restricted */
-"Access to contacts is restricted (parental control?)" = "Access to contacts is restricted (parental control?)";
+"Access to contacts is restricted (parental control?)" = "联系人访问受限（可能有家长控制）";
 
 /* Contact Image, settings, message when access to contacts is in unknown state */
-"Access to contacts - unknown state" = "Access to contacts - unknown state";
+"Access to contacts - unknown state" = "联系人访问状态未知";
 
 /* Contact Image, settings, short description of the feature */
-"A Contact Image can be used to get live updates from iAPS to your Apple Watch Contact complication and/or your iPhone Contact widget." = "A Contact Image can be used to get live updates from iAPS to your Apple Watch Contact complication and/or your iPhone Contact widget.";
+"A Contact Image can be used to get live updates from iAPS to your Apple Watch Contact complication and/or your iPhone Contact widget." = "联系人图像可用于将 iAPS 的实时信息显示在 Apple Watch 联系人复杂功能和/或 iPhone 联系人组件中。";
 
 /* Contact Image, settings, main header */
-"Contact Image" = "Contact Image";
+"Contact Image" = "联系人图像";
 
 /* Contact Image, settings, label for the layout picker */
-"Layout" = "Layout";
+"Layout" = "布局";
 
 /* Contact Image, settings, single layout name */
-"Single" = "Single";
+"Single" = "单一";
 
 /* Contact Image, settings, split layout name */
-"Split" = "Split";
+"Split" = "拆分";
 
 /* Contact Image, settings, outer ring - don't show */
-"DontShowRing" = "Don't show";
+"DontShowRing" = "不显示";
 
 /* Contact Image, settings, outer ring - Loop status */
-"LoopStatusRing" = "Loop status";
+"LoopStatusRing" = "循环状态";
 
 /* Contact Image, settings, outer ring - IOB */
 "IOBRing" = "IOB";
@@ -2362,91 +2365,91 @@ Enact a temp Basal or a temp target */
 "IOB+COBRing" = "IOB+COB";
 
 /* Contact Image, settings, label for the primary value picker */
-"Primary" = "Primary";
+"Primary" = "主要";
 
 /* Contact Image, settings, label for the top value picker */
-"Top" = "Top";
+"Top" = "顶部";
 
 /* Contact Image, settings, label for the bottom value picker */
-"Bottom" = "Bottom";
+"Bottom" = "底部";
 
 /* Contact Image, settings, header for the outer ring section */
-"Ring" = "Ring";
+"Ring" = "环";
 
 /* Contact Image, settings, label for the outer ring picker */
-"Outer" = "Outer";
+"Outer" = "外环";
 
 /* Contact Image, settings, label for the ring width picker */
-"Width" = "Width";
+"Width" = "宽度";
 
 /* Contact Image, settings, label for the ring gap picker */
-"Gap" = "Gap";
+"Gap" = "间距";
 
 /* Contact Image, settings, header for the font section */
-"Font" = "Font";
+"Font" = "字体";
 
 /* Contact Image, settings, label for the font size picker */
-"Size" = "Size";
+"Size" = "大小";
 
 /* Contact Image, settings, label for the secondary font size picker */
-"Secondary size" = "Secondary size";
+"Secondary size" = "次字体大小";
 
 /* Contact Image, settings, label for the font tracking picker (tracking - horizontal spacing between letters) */
-"Tracking" = "Tracking";
+"Tracking" = "字距";
 
 /* Contact Image, settings, label for the font weight picker */
-"Weight" = "Weight";
+"Weight" = "粗细";
 
 /* Contact Image, settings, label for the dark-mode switcher */
-"Dark mode" = "Dark mode";
+"Dark mode" = "深色模式";
 
 /* Contact Image, settings, tighter font tracking */
-"TighterFontTracking" = "Tighter";
+"TighterFontTracking" = "更紧";
 
 /* Contact Image, settings, tight font tracking */
-"TightFontTracking" = "Tight";
+"TightFontTracking" = "紧";
 
 /* Contact Image, settings, normal font tracking */
-"NormalFontTracking" = "Normal";
+"NormalFontTracking" = "正常";
 
 /* Contact Image, settings, wide font tracking */
-"WideFontTracking" = "Wide";
+"WideFontTracking" = "宽";
 
 /* Contact Image, settings, light font weight */
-"LightFontWeight" = "Light";
+"LightFontWeight" = "细体";
 
 /* Contact Image, settings, regular font weight */
-"RegularFontWeight" = "Regular";
+"RegularFontWeight" = "常规";
 
 /* Contact Image, settings, medium font weight */
-"MediumFontWeight" = "Medium";
+"MediumFontWeight" = "中等";
 
 /* Contact Image, settings, semibold font weight */
-"SemiboldFontWeight" = "Semibold";
+"SemiboldFontWeight" = "半粗";
 
 /* Contact Image, settings, bold font weight */
-"BoldFontWeight" = "Bold";
+"BoldFontWeight" = "粗体";
 
 /* Contact Image, settings, black font weight (black is "very bold") */
-"BlackFontWeight" = "Black";
+"BlackFontWeight" = "特粗";
 
 /* Contact Image, settings, don't display any value */
 "NoneContactValue" = "无";
 
 /* Contact Image, settings, Glucose (data to display) */
-"GlucoseContactValue" = "葡萄糖";
+"GlucoseContactValue" = "血糖";
 
 /* Contact Image, settings, Eventual BG (data to display) */
-"EventualBGContactValue" = "Eventual BG";
+"EventualBGContactValue" = "预测血糖";
 
 /* Contact Image, settings, Delta (data to display) */
-"DeltaContactValue" = "Delta";
+"DeltaContactValue" = "变化值";
 
 /* Contact Image, settings, Trend (data to display) */
-"TrendContactValue" = "Trend";
+"TrendContactValue" = "趋势";
 
 /* Contact Image, settings, Last loop time (data to display) */
-"LastLoopTimeContactValue" = "Last loop time";
+"LastLoopTimeContactValue" = "上次循环时间";
 
 /* Contact Image, settings, COB (data to display) */
 "COBContactValue" = "COB";
@@ -2455,243 +2458,242 @@ Enact a temp Basal or a temp target */
 "IOBContactValue" = "IOB";
 
 /* Contact Image, settings, loop status (data to display) */
-"LoopStatusContactValue" = "Loop status";
+"LoopStatusContactValue" = "循环状态";
 
 /* --------------------------  Dana Pump  ---------------------- */
 /* Dana footer */
 
-"Dana pump does not allow editing of max basal and max bolus. Configure these in the doctor's settings of the pump. Saving the settings will fetch the lastest values from the pump" = "Dana pump does not allow editing of max basal and max bolus. Configure these in the doctor's settings of the pump. Saving the settings will fetch the lastest values from the pump";
+"Dana pump does not allow editing of max basal and max bolus. Configure these in the doctor's settings of the pump. Saving the settings will fetch the lastest values from the pump" = "Dana 泵不允许编辑最大基础率和最大注射量。请在泵的医生设置中配置。保存设置会从泵中获取最新值。";
 
 /* --------- Auto ISF --------- */
 /* */
 
-"Dynamic ISF is disabled while Auto ISF is enabled" = "Dynamic ISF is disabled while Auto ISF is enabled";
+"Dynamic ISF is disabled while Auto ISF is enabled" = "启用自动 ISF 时，动态 ISF 会关闭";
 
 /* */
-"Default value: 1.2 The upper limit of ISF adjustment" = "Default value: 1.2 The upper limit of ISF adjustment";
-
-
-/* */
-"Default value: 0.8 The lower limit of ISF adjustment" = "Default value: 0.8 The lower limit of ISF adjustment";
+"Default value: 1.2 The upper limit of ISF adjustment" = "默认值：1.2，ISF 调整上限";
 
 /* */
-"Auto ISF Max" = "Auto ISF Max";
+"Default value: 0.8 The lower limit of ISF adjustment" = "默认值：0.8，ISF 调整下限";
 
 /* */
-"Auto ISF Min" = "Auto ISF Min";
+"Auto ISF Max" = "自动 ISF 最大值";
 
 /* */
-"Needs an EatingSoon specific Glucose Target set by a profile override or a temp target" = "Needs an EatingSoon specific Glucose Target set by a profile override or a temp target";
+"Auto ISF Min" = "自动 ISF 最小值";
 
 /* */
-"Once this Target is cancelled, the B30 high TBR will be cancelled" = "Once this Target is cancelled, the B30 high TBR will be cancelled";
+"Needs an EatingSoon specific Glucose Target set by a profile override or a temp target" = "需要通过配置覆盖或临时目标设置 EatingSoon 专用血糖目标";
 
 /* */
-"In order to activate B30 a minimum manual Bolus needs to be given" = "In order to activate B30 a minimum manual Bolus needs to be given";
+"Once this Target is cancelled, the B30 high TBR will be cancelled" = "取消该目标后，B30 高 TBR 将同时取消";
 
 /* */
-"You can specify how long B30 run and how high it is" = "You can specify how long B30 run and how high it is";
+"In order to activate B30 a minimum manual Bolus needs to be given" = "要开启 B30，需要先手动注射至少一次注射量";
 
 /* */
-"Absolute Safety TBR " = "Absolute Safety TBR ";
+"You can specify how long B30 run and how high it is" = "你可以设置 B30 的持续时长和强度";
 
 /* */
-"Amount in U/hr of the small safety TBR, which is given to avoid ketoacidosis. Will be limited to min = 0U/hr, max = 2U/hr!" = "Amount in U/hr of the small safety TBR, which is given to avoid ketoacidosis. Will be limited to min = 0U/hr, max = 2U/hr!";
+"Absolute Safety TBR " = "绝对安全 TBR ";
 
 /* */
-"Enable Keto protection with pre-defined TBR" = "Enable Keto protection with pre-defined TBR";
+"Amount in U/hr of the small safety TBR, which is given to avoid ketoacidosis. Will be limited to min = 0U/hr, max = 2U/hr!" = "用于避免酮症酸中毒的小安全 TBR（U/小时）。范围限制为 0~2 U/小时！";
 
 /* */
-"Should an absolute TBR between 0 and 2 U/hr be specified instead of percentage of current BR" = "Should an absolute TBR between 0 and 2 U/hr be specified instead of percentage of current BR";
+"Enable Keto protection with pre-defined TBR" = "启用预置安全 TBR 酮保护";
 
 /* */
-"Safety TBR in %" = "Safety TBR in %";
+"Should an absolute TBR between 0 and 2 U/hr be specified instead of percentage of current BR" = "是否使用绝对 TBR（0~2 U/小时）替代百分比基础率";
 
 /* */
-"Quantity of the small safety TBR in % of Profile BR, which is given to avoid ketoacidosis. Will be limited to min = 5%, max = 50%!" = "Quantity of the small safety TBR in % of Profile BR, which is given to avoid ketoacidosis. Will be limited to min = 5%, max = 50%!";
+"Safety TBR in %" = "安全 TBR (%)";
 
 /* */
-"Variable Keto Protection" = "Variable Keto Protection";
+"Quantity of the small safety TBR in % of Profile BR, which is given to avoid ketoacidosis. Will be limited to min = 5%, max = 50%!" = "小安全 TBR 使用当前基础率百分比表示。范围 5%~50%，用于避免酮症酸中毒！";
 
 /* */
-"If activated the small safety TBR kicks in when IOB is in negative range as if no basal insulin has been delivered for one hour. If deactivated and static is enabled every Zero Temp is replaced with the small TBR." = "If activated the small safety TBR kicks in when IOB is in negative range as if no basal insulin has been delivered for one hour. If deactivated and static is enabled every Zero Temp is replaced with the small TBR.";
+"Variable Keto Protection" = "动态酮保护";
 
 /* */
-"Enable Keto Protection" = "Enable Keto Protection";
+"If activated the small safety TBR kicks in when IOB is in negative range as if no basal insulin has been delivered for one hour. If deactivated and static is enabled every Zero Temp is replaced with the small TBR." = "启用时，当 IOB 为负时会自动启动小安全 TBR（仿佛一小时没有基础率）。停用时，每次零 TBR 都会被小安全 TBR 替代。";
 
 /* */
-"Ketoacidosis protection will apply a small configurable Temp Basal Rate always or if certain conditions arise instead of a Zero temp!\nThe feature exists because in special cases a person could get ketoacidosis from 0% TBR. The idea is derived from sport. There could be problems when a basal rate of 0% ran for several hours. Muscles in particular could shut off.\nThis feature enables a small safety TBR to reduce the ketoacidosis risk. Without the Variable Protection that safety TBR is always applied. The idea behind the variable protection strategy is that the safety TBR is only applied if sum of basal-IOB and bolus-IOB falls negatively below the value of the current basal rate." = "Ketoacidosis protection will apply a small configurable Temp Basal Rate always or if certain conditions arise instead of a Zero temp!\nThe feature exists because in special cases a person could get ketoacidosis from 0% TBR. The idea is derived from sport. There could be problems when a basal rate of 0% ran for several hours. Muscles in particular could shut off.\nThis feature enables a small safety TBR to reduce the ketoacidosis risk. Without the Variable Protection that safety TBR is always applied. The idea behind the variable protection strategy is that the safety TBR is only applied if sum of basal-IOB and bolus-IOB falls negatively below the value of the current basal rate.";
+"Enable Keto Protection" = "启用酮保护";
 
 /* */
-"B30 Settings" = "B30 Settings";
+"Ketoacidosis protection will apply a small configurable Temp Basal Rate always or if certain conditions arise instead of a Zero temp!\nThe feature exists because in special cases a person could get ketoacidosis from 0% TBR. The idea is derived from sport. There could be problems when a basal rate of 0% ran for several hours. Muscles in particular could shut off.\nThis feature enables a small safety TBR to reduce the ketoacidosis risk. Without the Variable Protection that safety TBR is always applied. The idea behind the variable protection strategy is that the safety TBR is only applied if sum of basal-IOB and bolus-IOB falls negatively below the value of the current basal rate." = "酮保护会在特定情况下或始终应用一个小的可配置临时基础率来替代零 TBR。\n因为在特殊情况下，持续 0% TBR 可能导致酮症酸中毒，这一想法来源于运动医学，长时间 0% TBR 可能导致肌肉关闭。\n此功能提供一个小安全 TBR 来降低风险。若不启用动态保护，则始终适用该安全 TBR。动态策略仅在（基础 IOB + 注射 IOB）总量低于当前基础率时生效。";
 
 /* */
-"Duration of increased B30 basal rate" = "Duration of increased B30 basal rate";
+"B30 Settings" = "B30 设置";
 
 /* */
-"Duration of increased basal rate that saturates the infusion site with insulin. Default 30 minutes, as in B30. The EatingSoon TT needs to be running at least for this duration, otherthise B30 will stopp after the TT runs out." = "Duration of increased basal rate that saturates the infusion site with insulin. Default 30 minutes, as in B30. The EatingSoon TT needs to be running at least for this duration, otherthise B30 will stopp after the TT runs out.";
+"Duration of increased B30 basal rate" = "B30 增强基础率持续时间";
 
 /* */
-"B30 Basal rate increase factor" = "B30 Basal rate increase factor";
+"Duration of increased basal rate that saturates the infusion site with insulin. Default 30 minutes, as in B30. The EatingSoon TT needs to be running at least for this duration, otherthise B30 will stopp after the TT runs out." = "用于让输注部位饱和的增强基础率持续时间。默认 30 分钟。EatingSoon 目标需要至少运行该时长，否则 B30 会在目标结束时停止。";
 
 /* */
-"Factor that multiplies your normal regular basal rate for B30. Max Basal rate enacted is the max of your pump max Basal setting. Default is 5." = "Factor that multiplies your normal regular basal rate for B30. Max Basal rate enacted is the max of your pump max Basal setting. Default is 5.";
+"B30 Basal rate increase factor" = "B30 基础率提升系数";
 
 /* */
-"Upper Delta limit" = "Upper Delta limit";
+"Factor that multiplies your normal regular basal rate for B30. Max Basal rate enacted is the max of your pump max Basal setting. Default is 5." = "用来放大当前基础率的乘数。受限于泵的最大基础率设置。默认=5。";
 
 /* */
-"SMBs will be disabled when under this limit, while a B30 Basal rate is running. Default is 8 mg/dl (0.5 mmol/l)." = "SMBs will be disabled when under this limit, while a B30 Basal rate is running. Default is 8 mg/dl (0.5 mmol/l).";
+"Upper Delta limit" = "最大允许血糖变化";
 
 /* */
-"Upper BG limit" = "Upper BG limit";
+"SMBs will be disabled when under this limit, while a B30 Basal rate is running. Default is 8 mg/dl (0.5 mmol/l)." = "当 Δ 低于此值时，B30 运行期间将禁用 SMB。默认 8 mg/dL（0.5 mmol/L）。";
 
 /* */
-"SMBs will be disabled when under this limit, while a B30 Basal rate is running. Default is 130 mg/dl (7.2 mmol/l)." = "SMBs will be disabled when under this limit, while a B30 Basal rate is running. Default is 130 mg/dl (7.2 mmol/l).";
+"Upper BG limit" = "血糖上限";
 
 /* */
-"Target Level for B30 to be enacted" = "Target Level for B30 to be enacted";
+"SMBs will be disabled when under this limit, while a B30 Basal rate is running. Default is 130 mg/dl (7.2 mmol/l)." = "当 BG 低于此值时，B30 运行期间将禁用 SMB。默认 130 mg/dL（7.2 mmol/L）。";
 
 /* */
-"An EatingSoon Override Target (or a Temporary Target) needs to be activated to start the B30 adaption. Target needs to be below this setting for B30 to start. Default is 90 mg/dl. If you cancel this EatingSoon Target, the B30 basal rate will stop." = "An EatingSoon Override Target (or a Temporary Target) needs to be activated to start the B30 adaption. Target needs to be below this setting for B30 to start. Default is 90 mg/dl. If you cancel this EatingSoon Target, the B30 basal rate will stop.";
+"Target Level for B30 to be enacted" = "触发 B30 的目标值";
 
 /* */
-"Minimum Start Bolus size" = "Minimum Start Bolus size";
+"An EatingSoon Override Target (or a Temporary Target) needs to be activated to start the B30 adaption. Target needs to be below this setting for B30 to start. Default is 90 mg/dl. If you cancel this EatingSoon Target, the B30 basal rate will stop." = "必须先激活 EatingSoon 覆盖（或临时目标）以启动 B30；目标值需低于此设置才能触发。默认 90 mg/dL。取消 EatingSoon 后 B30 将停止。";
 
 /* */
-"Minimum manual bolus to start a B30 adaption." = "Minimum manual bolus to start a B30 adaption.";
+"Minimum Start Bolus size" = "启动所需最小注射量";
 
 /* */
-"Activate B30" = "Activate B30";
+"Minimum manual bolus to start a B30 adaption." = "启动 B30 所需的最小一次手动注射。";
 
 /* */
-"Enables an increased basal rate after an EatingSoon Override Target (or Temp Target) and a manual bolus to saturate the infusion site with insulin to increase insulin absorption for SMB's following a meal with no carb counting." = "Enables an increased basal rate after an EatingSoon Override Target (or Temp Target) and a manual bolus to saturate the infusion site with insulin to increase insulin absorption for SMB's following a meal with no carb counting.";
+"Activate B30" = "启用 B30";
 
 /* */
-"ISF weight while BG decelerates" = "ISF weight while BG decelerates";
+"Enables an increased basal rate after an EatingSoon Override Target (or Temp Target) and a manual bolus to saturate the infusion site with insulin to increase insulin absorption for SMB's following a meal with no carb counting." = "在设置 EatingSoon 覆盖（或临时目标）并手动一次注射后，通过提升基础率使输注部位胰岛素饱和，以便在无碳计数用餐后提高 SMB 吸收效果。";
 
 /* */
-"This is the weight applied while glucose decelerates and which weakens ISF. With 0 this contribution is effectively disabled. 0.1 might be a good starting point." = "This is the weight applied while glucose decelerates and which weakens ISF. With 0 this contribution is effectively disabled. 0.1 might be a good starting point.";
+"ISF weight while BG decelerates" = "血糖减速时的 ISF 权重";
 
 /* */
-"ISF weight while BG accelerates" = "ISF weight while BG accelerates";
+"This is the weight applied while glucose decelerates and which weakens ISF. With 0 this contribution is effectively disabled. 0.1 might be a good starting point." = "该权重用于血糖下降变缓时降低 ISF。设置为 0 则关闭此效果。推荐起始值 0.1。";
 
 /* */
-"Default value: 0. This is the weight applied while glucose accelerates and which strengthens ISF. With 0 this contribution is effectively disabled. 0.02 is a safe starting point, from which to move up. Typical settings are around 0.15!" = "Default value: 0. This is the weight applied while glucose accelerates and which strengthens ISF. With 0 this contribution is effectively disabled. 0.02 is a safe starting point, from which to move up. Typical settings are around 0.15!";
+"ISF weight while BG accelerates" = "血糖加速时的 ISF 权重";
 
 /* */
-"Duration ISF postprandial adaption" = "Duration ISF postprandial adaption";
+"Default value: 0. This is the weight applied while glucose accelerates and which strengthens ISF. With 0 this contribution is effectively disabled. 0.02 is a safe starting point, from which to move up. Typical settings are around 0.15!" = "默认值 0。该权重用于血糖快速上升时增强 ISF。0 表示关闭，建议从 0.02 开始，常用值约 0.15。";
 
 /* */
-"Default value: 3. This is the duration in hours how long after a meal the effect will be active. Oref will delete carb timing after 10 hours latest no matter what you enter." = "Default value: 3. This is the duration in hours how long after a meal the effect will be active. Oref will delete carb timing after 10 hours latest no matter what you enter.";
+"Duration ISF postprandial adaption" = "餐后 ISF 调整持续时间";
 
 /* */
-"ISF weight for postprandial BG rise" = "ISF weight for postprandial BG rise";
+"Default value: 3. This is the duration in hours how long after a meal the effect will be active. Oref will delete carb timing after 10 hours latest no matter what you enter." = "默认值 3 小时，表示餐后 ISF 调整持续时间。无论设置多少，Oref 最长保存补食时间为 10 小时。";
 
 /* */
-"This is the weight applied to the linear slope while glucose rises and  which adapts ISF. With 0 this contribution is effectively disabled. Start with 0.01 - it hardly goes beyond 0.05!" = "This is the weight applied to the linear slope while glucose rises and  which adapts ISF. With 0 this contribution is effectively disabled. Start with 0.01 - it hardly goes beyond 0.05!";
+"ISF weight for postprandial BG rise" = "餐后 BG 上升时的 ISF 权重";
 
 /* */
-"ISF weight for higher BG deltas" = "ISF weight for higher BG deltas";
+"This is the weight applied to the linear slope while glucose rises and  which adapts ISF. With 0 this contribution is effectively disabled. Start with 0.01 - it hardly goes beyond 0.05!" = "用于 BG 上升线性斜率的 ISF 调整权重。0 表示关闭，建议从 0.01 开始，一般不超过 0.05。";
 
 /* */
-"Default value: 0.0 This is the weight applied to the polygon which adapts ISF higher deltas. With 0.0 the effect is effectively disabled." = "Default value: 0.0 This is the weight applied to the polygon which adapts ISF higher deltas. With 0.0 the effect is effectively disabled.";
+"ISF weight for higher BG deltas" = "高 Δ 时的 ISF 权重";
 
 /* */
-"ISF weight for lower BG" = "ISF weight for lower BG";
+"Default value: 0.0 This is the weight applied to the polygon which adapts ISF higher deltas. With 0.0 the effect is effectively disabled." = "默认 0。用于高 Δ 时的多项式 ISF 调整，0 表示关闭。";
 
 /* */
-"Default value: 0.0 This is the weight applied to the polygon which adapts ISF if glucose is below target. With 0.0 the effect is effectively disabled." = "Default value: 0.0 This is the weight applied to the polygon which adapts ISF if glucose is below target. With 0.0 the effect is effectively disabled.";
+"ISF weight for lower BG" = "低 BG 时的 ISF 权重";
 
 /* */
-"ISF weight for higher BG" = "ISF weight for higher BG";
+"Default value: 0.0 This is the weight applied to the polygon which adapts ISF if glucose is below target. With 0.0 the effect is effectively disabled." = "默认 0。用于 BG 低于目标时的 ISF 调整权重。";
 
 /* */
-"Default value: 0.0 This is the weight applied to the polygon which adapts ISF if glucose is above target. With 0.0 the effect is effectively disabled." = "Default value: 0.0 This is the weight applied to the polygon which adapts ISF if glucose is above target. With 0.0 the effect is effectively disabled.";
+"ISF weight for higher BG" = "高 BG 时的 ISF 权重";
 
 /* */
-"Duration Weight" = "Duration Weight";
+"Default value: 0.0 This is the weight applied to the polygon which adapts ISF if glucose is above target. With 0.0 the effect is effectively disabled." = "默认 0。用于 BG 高于目标时的 ISF 调整权重。";
 
 /* */
-"Weight for a prolonged high glucose. For every hour the glucose stays high this adjustment will lower your ISF more.\n\nThe formula for Dura ISF adjustment is:\n\nDura ISF = 1 + hours above target * weight / target * (average glucose - target glucose)" = "Weight for a prolonged high glucose. For every hour the glucose stays high this adjustment will lower your ISF more.\n\nThe formula for Dura ISF adjustment is:\n\nDura ISF = 1 + hours above target * weight / target * (average glucose - target glucose)";
+"Duration Weight" = "持续时间权重";
 
 /* */
-"SMB Delivery Ratio BG Range" = "SMB Delivery Ratio BG Range";
+"Weight for a prolonged high glucose. For every hour the glucose stays high this adjustment will lower your ISF more.\n\nThe formula for Dura ISF adjustment is:\n\nDura ISF = 1 + hours above target * weight / target * (average glucose - target glucose)" = "用于长时间高血糖的权重。每高于目标一小时将进一步降低 ISF。\n\n公式：\n\nDura ISF = 1 + 高于目标小时数 * 权重 / 目标 * (平均血糖 - 目标血糖)";
+
+/* */
+"SMB Delivery Ratio BG Range" = "SMB 输注比例血糖范围";
 
 /* SMB Delivery Ratio BG Range description */
-"Default value: 0, Sensible is between 40 mg/dL and 120 mg/dL. The linearly increasing SMB delivery ratio is mapped to the glucose range [target_bg, target_bg+bg_range]. At target_bg the SMB ratio is smb_delivery_ratio_min, at target_bg+bg_range it is smb_delivery_ratio_max. With 0 the linearly increasing SMB ratio is disabled and the fix smb_delivery_ratio is used." = "Default value: 0, Sensible is between 40 mg/dL and 120 mg/dL. The linearly increasing SMB delivery ratio is mapped to the glucose range [target_bg, target_bg+bg_range]. At target_bg the SMB ratio is smb_delivery_ratio_min, at target_bg+bg_range it is smb_delivery_ratio_max. With 0 the linearly increasing SMB ratio is disabled and the fix smb_delivery_ratio is used.";
+"Default value: 0, Sensible is between 40 mg/dL and 120 mg/dL. The linearly increasing SMB delivery ratio is mapped to the glucose range [target_bg, target_bg+bg_range]. At target_bg the SMB ratio is smb_delivery_ratio_min, at target_bg+bg_range it is smb_delivery_ratio_max. With 0 the linearly increasing SMB ratio is disabled and the fix smb_delivery_ratio is used." = "默认 0，合理区间 40~120 mg/dL。线性 SMB 输注比例映射到 [目标 BG, 目标 BG+范围]。在目标 BG 时取最小比例，在目标 BG+范围时取最大比例。若为 0，则禁用线性变化，使用固定 SMB 比例。";
 
 /* */
-"SMB Delivery Ratio Maximum" = "SMB Delivery Ratio Maximum";
+"SMB Delivery Ratio Maximum" = "SMB 输注比例上限";
 
 /* */
-"Default value: 0.5 This is the higher end of a linearly increasing SMB Delivery Ratio rather than the fix value in OpenAP SMB Delivery Ratio." = "Default value: 0.5 This is the higher end of a linearly increasing SMB Delivery Ratio rather than the fix value in OpenAP SMB Delivery Ratio.";
+"Default value: 0.5 This is the higher end of a linearly increasing SMB Delivery Ratio rather than the fix value in OpenAP SMB Delivery Ratio." = "默认 0.5，用于线性增长 SMB 比例的上限值，而不是固定值。";
 
 /* */
-"SMB Delivery Ratio Minimum" = "SMB Delivery Ratio Minimum";
+"SMB Delivery Ratio Minimum" = "SMB 输注比例下限";
 
 /* */
-"Default value: 0.5 This is the lower end of a linearly increasing SMB Delivery Ratio rather than the fix value in OpenAP SMB Delivery Ratio." = "Default value: 0.5 This is the lower end of a linearly increasing SMB Delivery Ratio rather than the fix value in OpenAP SMB Delivery Ratio.";
+"Default value: 0.5 This is the lower end of a linearly increasing SMB Delivery Ratio rather than the fix value in OpenAP SMB Delivery Ratio." = "默认 0.5，用于线性增长 SMB 比例的下限值，而不是固定值。";
 
 /* */
-"Toggles" = "Toggles";
+"Toggles" = "开关";
 
 /* */
-"Enable postprandial ISF adaption always" = "Enable postprandial ISF adaption always";
+"Enable postprandial ISF adaption always" = "始终启用餐后 ISF 调整";
 
 /* */
-"Enable the postprandial ISF adaptation all the time regardless of when the last meal was taken." = "Enable the postprandial ISF adaptation all the time regardless of when the last meal was taken.";
+"Enable the postprandial ISF adaptation all the time regardless of when the last meal was taken." = "始终启用餐后 ISF 调整，无论上一次进餐时间。";
 
 /* */
-"Enable DuraISF effect even with COB" = "Enable DuraISF effect even with COB";
+"Enable DuraISF effect even with COB" = "即使存在 COB 也启用 DuraISF 效果";
 
 /* */
-"Enable DuraISF even if COB is present not just for UAM." = "Enable DuraISF even if COB is present not just for UAM.";
+"Enable DuraISF even if COB is present not just for UAM." = "即使存在 COB 也启用 DuraISF，不仅限于 UAM。";
 
 /* */
-"Enable BG acceleration" = "Enable BG acceleration";
+"Enable BG acceleration" = "启用 BG 加速度分析";
 
 /* */
-"Enables the BG acceleration adaptions, adjusting ISF for accelerating/decelerating blood glucose." = "Enables the BG acceleration adaptions, adjusting ISF for accelerating/decelerating blood glucose.";
+"Enables the BG acceleration adaptions, adjusting ISF for accelerating/decelerating blood glucose." = "根据血糖加速上升/下降动态调整 ISF。";
 
 /* */
-"Override Auto ISF" = "Override Auto ISF";
+"Override Auto ISF" = "覆盖自动 ISF";
 
 /* */
-"Enable Auto ISF" = "Enable Auto ISF";
+"Enable Auto ISF" = "启用 Auto ISF";
 
 /* */
-"Enables Auto ISF. This will disable any eventual dynamic ISF/CR setting" = "Enables Auto ISF. This will disable any eventual dynamic ISF/CR setting";
+"Enables Auto ISF. This will disable any eventual dynamic ISF/CR setting" = "启用 Auto ISF，此操作会禁用动态 ISF/CR 设置。";
 
 /* */
-"Keto Protection" = "Keto Protection";
+"Keto Protection" = "酮症保护";
 
 /* */
-"Max IOB Threshold Percent" = "Max IOB Threshold Percent";
+"Max IOB Threshold Percent" = "最大 IOB 阈值百分比";
 
 /* IOB Threshold Percent Description */
-"Percentage of the max IOB setting to use for SMBs while Auto ISF is enabled.\n\nWhile current IOB is below the threshold, the SMB amount can exceed the threshold by 30%, however never the max IOB setting.\n\nAt 100% this setting is disabled." = "Percentage of the max IOB setting to use for SMBs while Auto ISF is enabled.\n\nWhile current IOB is below the threshold, the SMB amount can exceed the threshold by 30%, however never the max IOB setting.\n\nAt 100% this setting is disabled.";
+"Percentage of the max IOB setting to use for SMBs while Auto ISF is enabled.\n\nWhile current IOB is below the threshold, the SMB amount can exceed the threshold by 30%, however never the max IOB setting.\n\nAt 100% this setting is disabled." = "启用 Auto ISF 时，SMB 使用的最大 IOB 阈值比例。\n\n当当前 IOB 低于阈值时，SMB 可超过阈值最高 30%，但不会超过 Max IOB 设置。\n\n当设置为 100% 时，此功能禁用。";
 
 /* */
-"Auto ISF" = "Auto ISF";
+"Auto ISF" = "自动 ISF";
 
 /* Is true */
-" on" = " on";
+" on" = " 开";
 
 /* Is false */
-" off" = " off";
+" off" = " 关";
 
 /* Override adjustment of ISF, CR and Basal */
-"Adjust " = "Adjust ";
+"Adjust " = "调整 ";
 
 /* History of the adjustments */
-"Final Ratio" = "Final Ratio";
+"Final Ratio" = "最终比率";
 
 /* History of the adjustments */
-"Adjustments" = "Adjustments";
+"Adjustments" = "调整记录";
 
 /* History of the adjustments */
-"Insulin" = "Insulin";
+"Insulin" = "胰岛素";
 
 /* ---------------------------------------------------------------------------------------------------------------
   Infotexts from openaps.docs and androidaps.docs
@@ -2699,595 +2701,614 @@ Enact a temp Basal or a temp target */
 */
 /* Headline Rewind Resets Autosens */
 
-"Rewind Resets Autosens" = "Rewind Resets Autosens";
+"Rewind Resets Autosens" = "回卷重置 Autosens";
 
 /* ”Rewind Resets Autosens” */
-"This feature, enabled by default, resets the autosens ratio to neutral when you rewind your pump, on the assumption that this corresponds to a probable site change. Autosens will begin learning sensitivity anew from the time of the rewind, which may take up to 6 hours. If you usually rewind your pump independently of site changes, you may want to consider disabling this feature." = "该功能默认启用，当复位胰岛素泵时，Autosens参数会重置为中性，这基于复位胰岛素泵是您会更换管路部位的假设。Autosens将会在胰岛素泵复位后开始重新学习灵敏度，这可能需要6个小时。如果你通常复位泵时并没有同时更换部位，你可能要考虑禁用这一功能。";
+"This feature, enabled by default, resets the autosens ratio to neutral when you rewind your pump, on the assumption that this corresponds to a probable site change. Autosens will begin learning sensitivity anew from the time of the rewind, which may take up to 6 hours. If you usually rewind your pump independently of site changes, you may want to consider disabling this feature." = "此功能默认启用。当回卷（rewind）胰岛素泵时，会将 Autosens 比率重置为中性，基于回卷通常意味着更换注射部位这一假设。Autosens 将从回卷开始重新学习个体敏感系数，最多需要约 6 小时。如果你经常在不更换部位时执行回卷，建议关闭该功能。";
 
 /* Headline "High Temptarget Raises Sensitivity" */
-"High Temptarget Raises Sensitivity" = "High Temptarget Raises Sensitivity";
+"High Temptarget Raises Sensitivity" = "高临时目标提高敏感性";
 
 /* ”High Temptarget Raises Sensitivity" */
 "Defaults to false. When set to true, raises sensitivity (lower sensitivity ratio) for temp targets set to >= 111. Synonym for exercise_mode. The higher your temp target above 110 will result in more sensitive (lower) ratios, e.g., temp target of 120 results in sensitivity ratio of 0.75, while 140 results in 0.6 (with default halfBasalTarget of 160)." = "
 默认禁用。当设置为 \"true \"时，对设置为>=111的临时目标提高敏感系数（降低灵敏度比率）。与exercise_mode同义。你的临时目标越高于110，将导致更低的敏感系数，例如，临时目标为120，导致敏感系数为0.75，而140导致0.6（默认halfBasalTarget为160）。";
 
 /* Headline ”Low Temptarget Lowers Sensitivity" */
-"Low Temptarget Lowers Sensitivity" = "Low Temptarget Lowers Sensitivity";
+"Low Temptarget Lowers Sensitivity" = "低临时目标降低敏感性";
 
 /* ”Low Temptarget Lowers Sensitivity" */
-"Defaults to false. When set to true, can lower sensitivity (higher sensitivity ratio) for temptargets <= 99. The lower your temp target below 100 will result in less sensitive (higher) ratios, e.g., temp target of 95 results in sensitivity ratio of 1.09, while 85 results in 1.33 (with default halfBasalTarget of 160)." = "默认禁用。当设置为 \"true \"时，当临时目标<=99时会降低敏感系数（较高的灵敏度比率）。血糖低于100mg/dL时,临时目标越低，会导致较高的敏感系数，例如，温度目标为95会导致敏感系数为1.09，而85会导致1.33（默认halfBasalTarget为160）。";
+"Defaults to false. When set to true, can lower sensitivity (higher sensitivity ratio) for temptargets <= 99. The lower your temp target below 100 will result in less sensitive (higher) ratios, e.g., temp target of 95 results in sensitivity ratio of 1.09, while 85 results in 1.33 (with default halfBasalTarget of 160)." = "默认禁用。启用后，当临时目标 ≤99 时降低敏感性（提高敏感性比率）。目标越低，比率越高，例如 95 时比率为 1.09，而 85 时为 1.33（默认 halfBasalTarget=160）。";
 
 /* Headline ”Sensitivity Raises Target" */
-"Sensitivity Raises Target" = "Sensitivity Raises Target";
+"Sensitivity Raises Target" = "敏感性提高目标";
 
 /* ”Sensitivity Raises Target" */
-"When true, raises BG target when autosens detects sensitivity" = "当启用时，当Autosens检测到敏感度变大时，会提高血糖目标。";
+"When true, raises BG target when autosens detects sensitivity" = "启用后，当 Autosens 检测到敏感性增加时，提高 BG 目标值。";
 
 /* Headline ”Resistance Lowers Target" */
-"Resistance Lowers Target" = "Resistance Lowers Target";
+"Resistance Lowers Target" = "抵抗降低目标值";
 
 /* ”Resistance Lowers Target" */
-"Defaults to false. When true, will lower BG target when autosens detects resistance" = "默认禁用。当启用时，当Autosens检测到抵抗时，将降低血糖目标。";
+"Defaults to false. When true, will lower BG target when autosens detects resistance" = "默认禁用。启用后，当 Autosens 检测到抵抗时，将降低 BG 目标。";
 
 /* Headline ”Advanced Target Adjustments" */
-"Advanced Target Adjustments" = "Advanced Target Adjustments";
+"Advanced Target Adjustments" = "高级目标值调整";
 
 /* ”Advanced Target Adjustments" */
-"This feature was previously enabled by default but will now default to false (will NOT be enabled automatically) in oref0 0.6.0 and beyond. (There is no need for this with 0.6.0). This feature lowers oref0’s target BG automatically when current BG and eventualBG are high. This helps prevent and mitigate high BG, but automatically switches to low-temping to ensure that BG comes down smoothly toward your actual target. If you find this behavior too aggressive, you can disable this feature. If you do so, please let us know so we can better understand what settings work best for everyone." = "这个功能以前是默认启用的，但现在在oref0 0.6.0及以后的版本中会默认为false(不会自动启用)。(0.6.0中没有必要这样做)。当当前BG和最终BG较高时，这个功能会自动降低oref0的目标BG。这有助于防止和缓解高BG，但会自动切换到低Temping，以确保BG平稳地朝你的实际目标下降。如果你觉得这种行为过于激进，你可以禁用这个功能。如果你这样做，请让我们知道，以便我们能够更好地了解什么设置对每个人都是最有效的。";
+"This feature was previously enabled by default but will now default to false (will NOT be enabled automatically) in oref0 0.6.0 and beyond. (There is no need for this with 0.6.0). This feature lowers oref0’s target BG automatically when current BG and eventualBG are high. This helps prevent and mitigate high BG, but automatically switches to low-temping to ensure that BG comes down smoothly toward your actual target. If you find this behavior too aggressive, you can disable this feature. If you do so, please let us know so we can better understand what settings work best for everyone." = "本功能此前默认启用，但在 oref0 0.6.0 起默认为关闭（不自动启用）。该功能在当前 BG 与预测 BG 偏高时自动降低目标 BG，从而帮助预防和缓解高血糖，并通过临时降低来平稳回落至设定目标。如果觉得行为太激进，可关闭此功能。如关闭，希望你反馈，以便社区了解更适合多数人的配置。";
 
 /* Headline "Exercise Mode" */
-"Exercise Mode" = "Exercise Mode";
+"Exercise Mode" = "运动模式";
 
 /* "Exercise Mode" */
-"Defaults to false. When true, > 105 mg/dL high temp target adjusts sensitivityRatio for exercise_mode. Synonym for high_temptarget_raises_sensitivity" = "默认为false。当启用时，>105 mg/dL的高临时目标会调整运动模式下的敏感系数。与high_temptarget_raises_sensitivity同义。";
+"Defaults to false. When true, > 105 mg/dL high temp target adjusts sensitivityRatio for exercise_mode. Synonym for high_temptarget_raises_sensitivity" = "默认禁用。启用后，当临时目标 >105 mg/dL 时启用运动模式敏感性调整。等同于 high_temptarget_raises_sensitivity。";
 
 /* Headline "Wide BG Target Range" */
-"Wide BG Target Range" = "Wide BG Target Range";
+"Wide BG Target Range" = "宽 BG 目标范围";
 
 /* "Wide BG Target Range" */
-"Defaults to false, which means by default only the low end of the pump’s BG target range is used as OpenAPS target. This is a safety feature to prevent too-wide targets and less-optimal outcomes. Therefore the higher end of the target range is used only for avoiding bolus wizard overcorrections. Use wide_bg_target_range: true to force neutral temps over a wider range of eventualBGs." = "默认禁用，这意味着默认情况下只有泵上设备的低血糖限制被用作OpenAPS目标。这是一个安全功能，以防止目标范围过宽和不理想的结果。因此，高的血糖目标范围仅用于大剂量向导的过度校正。使用 wide_bg_target_range: true使用适中的目标血糖来约束更宽的血糖控制目标。";
+"Defaults to false, which means by default only the low end of the pump’s BG target range is used as OpenAPS target. This is a safety feature to prevent too-wide targets and less-optimal outcomes. Therefore the higher end of the target range is used only for avoiding bolus wizard overcorrections. Use wide_bg_target_range: true to force neutral temps over a wider range of eventualBGs." = "默认禁用，即默认仅使用泵设定目标范围的低值作为 OpenAPS 目标，这是用于避免目标范围过宽导致控制效果变差的安全措施。高值仅用于避免大剂量向导过度校正。使用 wide_bg_target_range: true 可使更宽范围的预测 BG 使用中性临时基础。";
 
 /* Headline "Skip Neutral Temps" */
-"Skip Neutral Temps" = "Skip Neutral Temps";
+"Skip Neutral Temps" = "跳过中性临时基础";
 
 /* "Skip Neutral Temps" */
-"Defaults to false, so that iAPS will set temps whenever it can, so it will be easier to see if the system is working, even when you are offline. This means iAPS will set a “neutral” temp (same as your default basal) if no adjustments are needed. This is an old setting for OpenAPS to have the options to minimise sounds and notifications from the 'rig', that may wake you up during the night." = "默认禁用，这样iAPS就会在任何时候设置临时目标，这样就会更容易看到系统是否在工作，即使你不在线。这意味着如果不需要调整，OpenAPS将设置一个 \"中性 \"临时基础（与你的默认基础相同）。这是OpenAPS的一个旧设置，可以选择最大限度地减少 \"设备 \"的声音和通知，这些声音和通知可能会在夜间吵醒你。";
+"Defaults to false, so that iAPS will set temps whenever it can, so it will be easier to see if the system is working, even when you are offline. This means iAPS will set a “neutral” temp (same as your default basal) if no adjustments are needed. This is an old setting for OpenAPS to have the options to minimise sounds and notifications from the 'rig', that may wake you up during the night." = "默认禁用，iAPS 会尽可能设置临时基础，这样即使离线也能看到系统是否运行。如不需要调整将设置中性临时基础（与默认基础相同）。这是早期 OpenAPS 的设置，用于减少设备提示音与通知避免夜间干扰。";
 
 /* Headline "Unsuspend If No Temp” */
-"Unsuspend If No Temp" = "Unsuspend If No Temp";
+"Unsuspend If No Temp" = "无临时基础时解除暂停";
 
 /* "Unsuspend If No Temp” */
-"Many people occasionally forget to resume / unsuspend their pump after reconnecting it. If you’re one of them, and you are willing to reliably set a zero temp basal whenever suspending and disconnecting your pump, this feature has your back. If enabled, it will automatically resume / unsuspend the pump if you forget to do so before your zero temp expires. As long as the zero temp is still running, it will leave the pump suspended." = " 默认为false。在泵被暂停期间，任何现有的临时基础率将被删除，并以空的基础率来抵消配置基础率。";
+"Many people occasionally forget to resume / unsuspend their pump after reconnecting it. If you’re one of them, and you are willing to reliably set a zero temp basal whenever suspending and disconnecting your pump, this feature has your back. If enabled, it will automatically resume / unsuspend the pump if you forget to do so before your zero temp expires. As long as the zero temp is still running, it will leave the pump suspended." = "许多人在重新连接泵后会忘记恢复输注。如果你属于此类用户，并且愿意在每次暂停或断开泵时可靠设置 0 临时基础，该功能可以帮助你。启用后，在 0 临时基础结束前若仍未恢复，系统会自动解除暂停。但在 0 临时基础还在运行时，泵仍保持暂停状态。";
 
 /* Headline "Enable UAM" */
-"Enable UAM" = "Enable UAM";
+"Enable UAM" = "启用 UAM";
 
 /* "Enable UAM" */
-"With this option enabled, the SMB algorithm can recognize unannounced meals. This is helpful, if you forget to tell iAPS about your carbs or estimate your carbs wrong and the amount of entered carbs is wrong or if a meal with lots of fat and protein has a longer duration than expected. Without any carb entry, UAM can recognize fast glucose increasments caused by carbs, adrenaline, etc, and tries to adjust it with SMBs. This also works the opposite way: if there is a fast glucose decreasement, it can stop SMBs earlier." = "启用该选项后，SMB算法可以识别未宣布的膳食。这很有帮助，如果你忘记告诉iAPS你的碳水化合物，或者估计错误，输入的碳水化合物的数量是错误的，或者如果一餐有大量脂肪和蛋白质的时间比预期的长。在没有任何碳水化合物输入的情况下，UAM可以识别由碳水化合物、肾上腺素等引起的快速葡萄糖增量，并尝试用SMB进行调整。这也有相反的作用：如果有快速的葡萄糖递减，它可以提前停止SMBs。";
+"With this option enabled, the SMB algorithm can recognize unannounced meals. This is helpful, if you forget to tell iAPS about your carbs or estimate your carbs wrong and the amount of entered carbs is wrong or if a meal with lots of fat and protein has a longer duration than expected. Without any carb entry, UAM can recognize fast glucose increasments caused by carbs, adrenaline, etc, and tries to adjust it with SMBs. This also works the opposite way: if there is a fast glucose decreasement, it can stop SMBs earlier." = "启用后，SMB 算法可识别未声明进餐。当忘记录入碳水、估算错误，或高脂高蛋白餐导致吸收延长时非常有用。在无碳水输入情况下，UAM 可识别由碳水、肾上腺素等导致的血糖快速上升并尝试通过 SMB 调整；反之，当血糖快速下降时会提前停止 SMB。";
 
 /* Headline "Enable SMB With COB" */
-"Enable SMB With COB" = "Enable SMB With COB";
+"Enable SMB With COB" = "COB>0 时启用 SMB";
 
 /* Enable SMB With COB" */
-"This enables supermicrobolus (SMB) while carbs on board (COB) are positive." = "当COB (活性碳水化合物) 为正时启动SMB功能";
+"This enables supermicrobolus (SMB) while carbs on board (COB) are positive." = "当 COB（活性碳水）为正时启用 SMB。";
 
 /* Headline "Enable SMB With Temptarget” */
-"Enable SMB With Temptarget" = "Enable SMB With Temptarget";
+"Enable SMB With Temptarget" = "低临时目标启用 SMB";
 
 /* "Enable SMB With Temptarget” */
-"This enables supermicrobolus (SMB) with eating soon / low temp targets. With this feature enabled, any temporary target below 100mg/dL, such as a temp target of 99 (or 80, the typical eating soon target) will enable SMB." = "这可以使超微循环（SMB）与即将进食/临时目标相结合。启用该功能后，任何低于100mg/dL的临时目标，如目标为99（或80，典型的快餐目标）都将启用SMB。";
+"This enables supermicrobolus (SMB) with eating soon / low temp targets. With this feature enabled, any temporary target below 100mg/dL, such as a temp target of 99 (or 80, the typical eating soon target) will enable SMB." = "进餐前低临时目标启用 SMB。任何 <100 mg/dL 的临时目标（如 99 或典型进餐前目标 80）均会启用 SMB。";
 
 /* Headline "Enable SMB Always" */
-"Enable SMB Always" = "Enable SMB Always";
+"Enable SMB Always" = "始终启用 SMB";
 
 /* "Enable SMB Always" */
 "Defaults to false. When true, always enable supermicrobolus (unless disabled by high temptarget)." = "
 默认为禁用。当为 \"true \"时，总是启用SMB(除非被高的临时目标禁用)。";
 
 /* Headline "Enable SMB After Carbs" */
-"Enable SMB After Carbs" = "Enable SMB After Carbs";
+"Enable SMB After Carbs" = "进食后启用 SMB";
 
 /* "Enable SMB After Carbs" */
-"Defaults to false. When true, enables supermicrobolus (SMB) for 6h after carbs, even with 0 carbs on board (COB)." = "默认为禁用。当启用时，在碳水化合物之后的6小时内启用(SMB)，即使活性碳水化合物(COB)为0。";
+"Defaults to false. When true, enables supermicrobolus (SMB) for 6h after carbs, even with 0 carbs on board (COB)." = "默认关闭。启用后，在摄入碳水后的 6 小时内启用 SMB，即使 COB 为 0。";
 
 /* Enable "Allow SMB With High Temptarget" */
-"Allow SMB With High Temptarget" = "Allow SMB With High Temptarget";
+"Allow SMB With High Temptarget" = "高临时目标也允许 SMB";
 
 /* Headline "Allow SMB With High Temptarget" */
-"Allow SMB With High Temptarget" = "Allow SMB With High Temptarget";
+"Allow SMB With High Temptarget" = "高临时目标允许 SMB";
 
 /* "Allow SMB With High Temptarget" */
-"Defaults to false. When true, allows supermicrobolus (if otherwise enabled) even with high temp targets (> 100 mg/dl)." = "默认为禁用。当启用时，允许SMB(如果其他情况下启用)，即使是比较高的临时目标。";
+"Defaults to false. When true, allows supermicrobolus (if otherwise enabled) even with high temp targets (> 100 mg/dl)." = "默认关闭，开启后当临时目标 >100 mg/dL 时也允许 SMB。";
 
 /* Headline "Use Custom Peak Time” */
-"Use Custom Peak Time" = "Use Custom Peak Time";
+"Use Custom Peak Time" = "使用自定义达峰时间";
 
 /* "Use Custom Peak Time” */
-"Defaults to false. Setting to true allows changing insulinPeakTime" = "默认禁用，如果启用则可以调整模拟胰岛素达峰时间";
+"Defaults to false. Setting to true allows changing insulinPeakTime" = "默认关闭，开启后可修改 insulinPeakTime。";
 
 /* Headline "Suspend Zeros IOB” */
-"Suspend Zeros IOB" = "Suspend Zeros IOB";
+"Suspend Zeros IOB" = "暂停模式使用 0 IOB";
 
 /* "Suspend Zeros IOB” */
-"Default is false. Any existing temp basals during times the pump was suspended will be deleted and 0 temp basals to negate the profile basal rates during times pump is suspended will be added." = "默认为false。在泵被暂停期间，任何现有的临时基础率将被删除，并以空的基础率来抵消配置基础率。";
+"Default is false. Any existing temp basals during times the pump was suspended will be deleted and 0 temp basals to negate the profile basal rates during times pump is suspended will be added." = "默认关闭。泵暂停期间将移除已有临时基础，并以 0 临时基础覆盖配置基础速率。";
 
 /* Headline "Max IOB" */
-"Max IOB" = "Max IOB";
+"Max IOB" = "最大 IOB";
 
 /* "Max IOB" */
-"Max IOB is the maximum amount of insulin on board from all sources – both basal (or SMB correction) and bolus insulin – that your loop is allowed to accumulate to treat higher-than-target BG. Unlike the other two OpenAPS safety settings (max_daily_safety_multiplier and current_basal_safety_multiplier), max_iob is set as a fixed number of units of insulin. As of now manual boluses are NOT limited by this setting. \n\n To test your basal rates during nighttime, you can modify the Max IOB setting to zero while in Closed Loop. This will enable low glucose suspend mode while testing your basal rates settings\n\n(Tip from https://www.loopandlearn.org/freeaps-x/#open-loop)." = "“Max IOB是所有来源(基础胰岛素、smb胰岛素和大剂量胰岛素)的最大胰岛素量，你的循环允许积累以治疗高于目标的BG。不同于其他两个OpenAPS安全设置(最大每日安全倍增器和当前基础安全倍增器)，最大IOB设置为固定数量的胰岛素单位。到目前为止，手动大剂量不受此设置的限制。为了在夜间测试你的基础率，你可以在闭环中将最大IOB设置为零。这将打开低血糖时暂停模式，同时测试您的基础率设置(提示：来自 https://www.loopandlearn.org/freeaps-x/#open-loop)。";
+"Max IOB is the maximum amount of insulin on board from all sources – both basal (or SMB correction) and bolus insulin – that your loop is allowed to accumulate to treat higher-than-target BG. Unlike the other two OpenAPS safety settings (max_daily_safety_multiplier and current_basal_safety_multiplier), max_iob is set as a fixed number of units of insulin. As of now manual boluses are NOT limited by this setting. \n\n To test your basal rates during nighttime, you can modify the Max IOB setting to zero while in Closed Loop. This will enable low glucose suspend mode while testing your basal rates settings\n\n(Tip from https://www.loopandlearn.org/freeaps-x/#open-loop)." = "Max IOB 为系统允许累计的胰岛素总量，包括基础、SMB 校正和大剂量胰岛素，用于处理高血糖。不同于其他安全设置，其为固定单位值，目前手动大剂量不受此限制。\n\n夜间测试基础速率时，可在闭环模式下将 Max IOB 设为 0，启用低血糖暂停模式。\n\n（提示来自 https://www.loopandlearn.org/freeaps-x/#open-loop）";
 
 /* Headline "Max Daily Safety Multiplier" */
-"Max Daily Safety Multiplier" = "Max Daily Safety Multiplier";
+"Max Daily Safety Multiplier" = "每日基础安全倍数上限";
 
 /* "Max Daily Safety Multiplier" */
-"This is an important OpenAPS safety limit. The default setting (which is unlikely to need adjusting) is 3. This means that OpenAPS will never be allowed to set a temporary basal rate that is more than 3x the highest hourly basal rate programmed in a user’s pump, or, if enabled, determined by autotune." = "这是一个重要的OpenAPS安全限制。这意味着OpenAPS永远不会被允许设置一个超过用户泵中最高基础速率3倍的临时基础速率(一般不需要修改)。如果启用，由会由AutoSens决定。";
+"This is an important OpenAPS safety limit. The default setting (which is unlikely to need adjusting) is 3. This means that OpenAPS will never be allowed to set a temporary basal rate that is more than 3x the highest hourly basal rate programmed in a user’s pump, or, if enabled, determined by autotune." = "重要安全参数，默认值为 3。即临时基础不会超过泵中最高小时基础速率的 3 倍（或 autotune 计算值）。一般无需调整。";
 
 /* Headline "Current Basal Safety Multiplier" */
-"Current Basal Safety Multiplier" = "Current Basal Safety Multiplier";
+"Current Basal Safety Multiplier" = "当前基础安全倍数上限";
 
 /* "Current Basal Safety Multiplier" */
-"This is another important OpenAPS safety limit. The default setting (which is also unlikely to need adjusting) is 4. This means that OpenAPS will never be allowed to set a temporary basal rate that is more than 4x the current hourly basal rate programmed in a user’s pump, or, if enabled, determined by autotune." = "这是另一个重要的OpenAPS安全限制。默认设置（也不太可能需要调整）是4。这意味着OpenAPS永远不会被允许设置一个临时的基础代谢率超过用户泵中当前每小时基础代谢率的4倍，或者，如果启用，由Autosens决定。";
+"This is another important OpenAPS safety limit. The default setting (which is also unlikely to need adjusting) is 4. This means that OpenAPS will never be allowed to set a temporary basal rate that is more than 4x the current hourly basal rate programmed in a user’s pump, or, if enabled, determined by autotune." = "重要安全参数，默认值为 4。临时基础不会超过当前基础速率的 4 倍（或 autotune 值）。通常无需调整。";
 
 /* Headline "Autosens Max" */
-"Autosens Max" = "Autosens Max";
+"Autosens Max" = "Autosens 最大系数";
 
 /* "Autosens Max" */
-"This is a multiplier cap for autosens (and autotune) to set a 20% max limit on how high the autosens ratio can be, which in turn determines how high autosens can adjust basals, how low it can adjust ISF, and how low it can set the BG target." = "这是Antosens(和AutoTune)的一个倍数上限，将调高Autosens比率最大限制设定为20%，这反过来又决定了AutoTune可以跳高基础率，调低的ISF，以及可以设定多低的BG目标。";
+"This is a multiplier cap for autosens (and autotune) to set a 20% max limit on how high the autosens ratio can be, which in turn determines how high autosens can adjust basals, how low it can adjust ISF, and how low it can set the BG target." = "Autosens（和 autotune）的最大倍数限制，限制敏感性提高最高 20%，影响基础、ISF 降低幅度以及 BG 目标降低幅度。";
 
 /* Headline "Autosens Min" */
-"Autosens Min" = "Autosens Min";
+"Autosens Min" = "Autosens 最小系数";
 
 /* "Autosens Min" */
-"The other side of the autosens safety limits, putting a cap on how low autosens can adjust basals, and how high it can adjust ISF and BG targets." = "Autosens安全限制的另一方面，为Autosens在调低基础率和调高ISF和BG目标设置了上限。";
+"The other side of the autosens safety limits, putting a cap on how low autosens can adjust basals, and how high it can adjust ISF and BG targets." = "Autosens 安全限制的另一面，限制基础降低幅度的最大值，以及允许 ISF 和 BG 目标升高的上限。";
 
 /* Headline "Half Basal Exercise Target" */
-"Half Basal Exercise Target" = "Half Basal Exercise Target";
+"Half Basal Exercise Target" = "半基础运动目标";
 
 /* "Half Basal Exercise Target" */
-"Set to a number, e.g. 160, which means when temp target is 160 mg/dL and exercise_mode=true, run 50% basal at this level (120 = 75%; 140 = 60%). This can be adjusted, to give you more control over your exercise modes." = "设置为一个数字，例如160，这意味着当临时目标为160毫克/分升，并且exercise_mode=true时，在这个水平上运行50%的基础（120=75%；140=60%）。这一点可以调整，以使你对运动模式有更多的控制。";
+"Set to a number, e.g. 160, which means when temp target is 160 mg/dL and exercise_mode=true, run 50% basal at this level (120 = 75%; 140 = 60%). This can be adjusted, to give you more control over your exercise modes." = "设为数值，例如 160，表示在临时目标 160 mg/dL 且启用运动模式时执行 50% 基础（120=75%，140=60%）。可调整以精细控制运动模式基础。";
 
 /* Headline "Max COB" */
-"Max COB" = "Max COB";
+"Max COB" = "最大 COB";
 
 /* "Max COB" */
-"The default of maxCOB is 120. (If someone enters more carbs in one or multiple entries, iAPS will cap COB to maxCOB and keep it at maxCOB until the carbs entered above maxCOB have shown to be absorbed. Essentially, this just limits UAM as a safety cap against weird COB calculations due to fluky data.)" = "The default of maxCOB is 120. (If someone enters more carbs in one or multiple entries, iAPS will cap COB to maxCOB and keep it at maxCOB until the carbs entered above maxCOB have shown to be absorbed. Essentially, this just limits UAM as a safety cap against weird COB calculations due to fluky data.)";
+"The default of maxCOB is 120. (If someone enters more carbs in one or multiple entries, iAPS will cap COB to maxCOB and keep it at maxCOB until the carbs entered above maxCOB have shown to be absorbed. Essentially, this just limits UAM as a safety cap against weird COB calculations due to fluky data.)" = "默认 Max COB 为 120。如碳水输入超过该值，系统将 COB 限制在 120 并保持，直到多余碳水显示已吸收。这主要用于避免异常数据导致错误 COB 计算。";
 
 /* Headline "Bolus Snooze DIA Divisor" */
-"Bolus Snooze DIA Divisor" = "Bolus Snooze DIA Divisor";
+"Bolus Snooze DIA Divisor" = "大剂量暂停系数（基于 DIA）";
 
 /* "Bolus Snooze DIA Divisor" */
-"Bolus snooze is enacted after you do a meal bolus, so the loop won’t counteract with low temps when you’ve just eaten. The example here and default is 2; so a 3 hour DIA means that bolus snooze will be gradually phased out over 1.5 hours (3DIA/2)." = "大剂量snooze是在输注餐时大剂量后开始生效的, 所以在你刚吃完饭的时候, 闭环不会因为你输注了大剂量而减少或停基础。这里的例子和缺省是 2; 因此, 3 小时的DIA(胰岛素持续作用时间) 意味着大剂量snooze将逐步在１. ５小时 (3 DIA/2) 后失效。";
+"Bolus snooze is enacted after you do a meal bolus, so the loop won’t counteract with low temps when you’ve just eaten. The example here and default is 2; so a 3 hour DIA means that bolus snooze will be gradually phased out over 1.5 hours (3DIA/2)." = "餐前大剂量后会启用 Bolus snooze，防止闭环过早降低基础。默认值 2。如 DIA 为 3 小时，则 snooze 在 1.5 小时内渐进结束。";
 
 /* Headline "Min 5m Carbimpact" */
-"Min 5m Carbimpact" = "Min 5m Carbimpact";
+"Min 5m Carbimpact" = "每 5 分钟最小碳水影响";
 
 /* "Min 5m Carbimpact" */
-"This is a setting for default carb absorption impact per 5 minutes. The default is an expected 8 mg/dL/5min. This affects how fast COB is decayed in situations when carb absorption is not visible in BG deviations. The default of 8 mg/dL/5min corresponds to a minimum carb absorption rate of 24g/hr at a CSF of 4 mg/dL/g." = "这是对每5分钟默认碳水化合物吸收影响的设置。默认的预期是8毫克/分升/5分钟。这影响到在BG偏差中看不到碳水化合物吸收的情况下，COB衰减的速度。默认的8mg/dL/5min对应于CSF为4mg/dL/g时的最低碳水化合物吸收率为24g/hr。";
+"This is a setting for default carb absorption impact per 5 minutes. The default is an expected 8 mg/dL/5min. This affects how fast COB is decayed in situations when carb absorption is not visible in BG deviations. The default of 8 mg/dL/5min corresponds to a minimum carb absorption rate of 24g/hr at a CSF of 4 mg/dL/g." = "每 5 分钟碳水吸收对血糖影响的默认值（8 mg/dL/5min）。该值影响当 BG 曲线未体现碳水吸收时 COB 的衰减速率。默认对应最低吸收速率 24g/小时（CSF=4）。";
 
 /* Headline "Autotune ISF Adjustment Fraction" */
-"Autotune ISF Adjustment Fraction" = "Autotune ISF Adjustment Fraction";
+"Autotune ISF Adjustment Fraction" = "Autotune ISF 调整系数";
 
 /* "Autotune ISF Adjustment Fraction" */
-"The default of 0.5 for this value keeps autotune ISF closer to pump ISF via a weighted average of fullNewISF and pumpISF. 1.0 allows full adjustment, 0 is no adjustment from pump ISF." = "这个值的默认值为0.5，通过fullNewISF和pumpISF的加权平均，使AutoTune ISF更接近泵的ISF。1.0允许完全调整，0是不调整泵的ISF。";
+"The default of 0.5 for this value keeps autotune ISF closer to pump ISF via a weighted average of fullNewISF and pumpISF. 1.0 allows full adjustment, 0 is no adjustment from pump ISF." = "默认值 0.5，通过 fullNewISF 与 pumpISF 加权平均，使 autotune 的 ISF 更接近泵设定。1 表示完全采用新值，0 表示不调整。";
 
 /* Headline "Remaining Carbs Fraction" */
-"Remaining Carbs Fraction" = "Remaining Carbs Fraction";
+"Remaining Carbs Fraction" = "剩余碳水吸收比例";
 
 /* "Remaining Carbs Fraction" */
-"This is the fraction of carbs we’ll assume will absorb over 4h if we don’t yet see carb absorption." = "如果我们还没有看到碳水化合物的吸收，这就是我们假设在4小时内会吸收的那部分碳水化合物。";
+"This is the fraction of carbs we’ll assume will absorb over 4h if we don’t yet see carb absorption." = "当未观察到吸收时，假设 4 小时内可被吸收的碳水比例。";
 
 /* Headline "Remaining Carbs Cap" */
-"Remaining Carbs Cap" = "Remaining Carbs Cap";
+"Remaining Carbs Cap" = "剩余碳水吸收上限";
 
 /* "Remaining Carbs Cap" */
-"This is the amount of the maximum number of carbs we’ll assume will absorb over 4h if we don’t yet see carb absorption. Maximum 90" = "This is the amount of the maximum number of carbs we’ll assume will absorb over 4h if we don’t yet see carb absorption. Maximum 90";
+"This is the amount of the maximum number of carbs we’ll assume will absorb over 4h if we don’t yet see carb absorption. Maximum 90" = "当未观察到吸收时，假设 4 小时内可吸收的最大碳水量，最大值 90。";
 
 /* Headline ”Max SMB Basal Minutes" */
-"Max SMB Basal Minutes" = "Max SMB Basal Minutes";
+"Max SMB Basal Minutes" = "单次 SMB 最大基础时长";
 
 /* ”Max SMB Basal Minutes" */
-"Defaults to start at 30. This is the maximum minutes of basal that can be delivered as a single SMB with uncovered COB. This gives the ability to make SMB more aggressive if you choose. It is recommended that the value is set to start at 30, in line with the default, and if you choose to increase this value, do so in no more than 15 minute increments, keeping a close eye on the effects of the changes. It is not recommended to set this value higher than 90 mins, as this may affect the ability for the algorithm to safely zero temp. It is also recommended that pushover is used when setting the value to be greater than default, so that alerts are generated for any predicted lows or highs." = "默认以30分钟为起点。这是在未覆盖COB的情况下，作为一个单一的SMB可以提供的最大分钟数的基础率。如果你选择的话，这可以使SMB更加积极。建议将该值设置为30，与默认值一致，如果你选择增加该值，以不超过15分钟为单位，密切关注变化的效果。不建议将这个值设置得高于90分钟，因为这可能会影响算法调整零基础率的能力。还建议在设置该值大于默认值时，使用PushOVer，以便对任何预测的低点或高点产生警报。";
+"Defaults to start at 30. This is the maximum minutes of basal that can be delivered as a single SMB with uncovered COB. This gives the ability to make SMB more aggressive if you choose. It is recommended that the value is set to start at 30, in line with the default, and if you choose to increase this value, do so in no more than 15 minute increments, keeping a close eye on the effects of the changes. It is not recommended to set this value higher than 90 mins, as this may affect the ability for the algorithm to safely zero temp. It is also recommended that pushover is used when setting the value to be greater than default, so that alerts are generated for any predicted lows or highs." = "默认值为 30 分钟，即单次 SMB 最大基础注射时长（未被 COB 覆盖时）。可适当增大以更激进。建议从 30 开始，每次增加不超过 15 分钟并观察效果。不建议超过 90 分钟，否则可能影响安全回退。建议配合推送提醒预测高/低血糖。";
 
 /* Headline "Max UAM SMB Basal Minutes" */
-"Max UAM SMB Basal Minutes" = "Max UAM SMB Basal Minutes";
+"Max UAM SMB Basal Minutes" = "UAM SMB 最大基础时长";
 
 /* "Max UAM SMB Basal Minutes" */
-"Defaults to start at 30. This is the maximum minutes of basal that can be delivered by UAM as a single SMB when IOB exceeds COB. This gives the ability to make UAM more or less aggressive if you choose. It is recommended that the value is set to start at 30, in line with the default, and if you choose to increase this value, do so in no more than 15 minute increments, keeping a close eye on the effects of the changes. Reducing the value will cause UAM to dose less insulin for each SMB. It is not recommended to set this value higher than 60 mins, as this may affect the ability for the algorithm to safely zero temp. It is also recommended that pushover is used when setting the value to be greater than default, so that alerts are generated for any predicted lows or highs." = "默认以30为起点。这是当IOB无法覆盖COB时，UAM作为单个SMB所能提供的基础率时间最大时间。如果你选择的话，这可以使UAM干预更频繁或更迟钝。建议该值从30开始，与默认值一致，如果你选择增加该值，以不超过15分钟为单位，密切关注变化的效果。降低这个值会导致UAM对每个SMB的胰岛素剂量减少。不建议将该值设置为高于60分钟，因为这可能会影响算法回到临时基础的能力。另外，建议在设置该值大于默认值时，使用PushOver，以便对任何预测的低点或高点发出警报。";
+"Defaults to start at 30. This is the maximum minutes of basal that can be delivered by UAM as a single SMB when IOB exceeds COB. This gives the ability to make UAM more or less aggressive if you choose. It is recommended that the value is set to start at 30, in line with the default, and if you choose to increase this value, do so in no more than 15 minute increments, keeping a close eye on the effects of the changes. Reducing the value will cause UAM to dose less insulin for each SMB. It is not recommended to set this value higher than 60 mins, as this may affect the ability for the algorithm to safely zero temp. It is also recommended that pushover is used when setting the value to be greater than default, so that alerts are generated for any predicted lows or highs." = "默认值为 30。当 IOB>COB 时，UAM 单次 SMB 可提供的最大基础时长。可调整激进程度。建议从 30 开始，每次增加不超过 15 分钟。降低该值会减少单次 SMB 剂量。不建议超过 60 分钟，避免影响安全零基础能力。建议配合推送提醒。";
 
 /* Headline "SMB Interval" */
-"SMB Interval" = "SMB Interval";
+"SMB Interval" = "SMB 间隔";
 
 /* "SMB Interval" */
-"Minimum duration in minutes for new SMB since last SMB or manual bolus" = "Minimum duration in minutes for new SMB since last SMB or manual bolus";
+"Minimum duration in minutes for new SMB since last SMB or manual bolus" = "上一次 SMB 或手动大剂量后可执行新 SMB 的最短间隔时间（分钟）。";
 
 /* Headline "Bolus Increment" */
-"Bolus Increment" = "Bolus Increment";
+"Bolus Increment" = "SMB 注射增量";
 
 /* "Bolus Increment" */
-"Smallest enacted SMB amount. Minimum amount for Omnipod pumps is 0.05 U, whereas for Medtronic pumps it differs for various models, from 0.025 U to 0.10 U. Please check the minimum bolus amount which can be delivered by your pump. The default value is 0.1." = "Smallest enacted SMB amount. Minimum amount for Omnipod pumps is 0.05 U, whereas for Medtronic pumps it differs for various models, from 0.025 U to 0.10 U. Please check the minimum bolus amount which can be delivered by your pump. The default value is 0.1.";
+"Smallest enacted SMB amount. Minimum amount for Omnipod pumps is 0.05 U, whereas for Medtronic pumps it differs for various models, from 0.025 U to 0.10 U. Please check the minimum bolus amount which can be delivered by your pump. The default value is 0.1." = "SMB 最小单位。Omnipod 为 0.05U，Medtronic 根据型号不同为 0.025U 到 0.10U，请确认你泵的最小剂量。默认 0.1U。";
 
 /* Headline "Insulin Peak Time" */
-"Insulin Peak Time" = "Insulin Peak Time";
+"Insulin Peak Time" = "胰岛素作用达峰时间";
 
 /* "Insulin Peak Time" */
-"Time of maximum blood glucose lowering effect of insulin, in minutes. Beware: Oref assumes for ultra-rapid (Lyumjev) & rapid-acting (Fiasp) curves minimal (35 & 50 min) and maximal (100 & 120 min) applicable insulinPeakTimes. Using a custom insulinPeakTime outside these bounds will result in issues with iAPS, longer loop calculations and possible red loops." = "胰岛素的最大降血糖作用，以分钟为单位";
+"Time of maximum blood glucose lowering effect of insulin, in minutes. Beware: Oref assumes for ultra-rapid (Lyumjev) & rapid-acting (Fiasp) curves minimal (35 & 50 min) and maximal (100 & 120 min) applicable insulinPeakTimes. Using a custom insulinPeakTime outside these bounds will result in issues with iAPS, longer loop calculations and possible red loops." = "胰岛素产生最大降血糖作用的时间（分钟）。注意：Oref 假设 Lyumjev/Fiasp 最小/最大达峰时长分别为 35/50 和 100/120 分钟。超出范围可能导致 iAPS 计算异常和“红圈”提示。";
 
 /* Headline "Carbs Req Threshold" */
-"Carbs Req Threshold" = "Carbs Req Threshold";
+"Carbs Req Threshold" = "碳水需求提醒阈值";
 
 /* "Carbs Req Threshold" */
-"Grams of carbsReq to trigger a pushover. Defaults to 1 (for 1 gram of carbohydrate). Can be increased if you only want to get Pushover for carbsReq at X threshold." = "触发Pushover的碳水化合物的克数。默认为1（对于1克碳水化合物）。如果你只想在X阈值时得到碳水化合物需求的Pushover通知，可以增加。";
+"Grams of carbsReq to trigger a pushover. Defaults to 1 (for 1 gram of carbohydrate). Can be increased if you only want to get Pushover for carbsReq at X threshold." = "触发碳水需求提醒的克数，默认 1g。可增大以只在较高需求时提醒。";
 
 /* Headline "Noisy CGM Target Multiplier" */
-"Noisy CGM Target Multiplier" = "Noisy CGM Target Multiplier";
+"Noisy CGM Target Multiplier" = "噪声 CGM 目标倍数";
 
 /* "Noisy CGM Target Multiplier" */
-"Defaults to 1.3. Increase target by this amount when looping off raw/noisy CGM data" = "默认值为 1.3. 当闭环与原始/躁点血糖数据偏离时调高目标";
+"Defaults to 1.3. Increase target by this amount when looping off raw/noisy CGM data" = "默认 1.3。当基于原始/噪声 CGM 数据闭环时按此比例提高目标。";
 
 /* Headline "SMB DeliveryRatio" */
-"SMB DeliveryRatio" = "SMB DeliveryRatio";
+"SMB DeliveryRatio" = "SMB 注射比例";
 
 /* SMB DeliveryRatio */
-"Default value: 0.5 This is another key OpenAPS safety cap, and specifies what share of the total insulin required can be delivered as SMB. Increase this experimental value slowly and with caution." = "Default value: 0.5 This is another key OpenAPS safety cap, and specifies what share of the total insulin required can be delivered as SMB. Increase this experimental value slowly and with caution.";
+"Default value: 0.5 This is another key OpenAPS safety cap, and specifies what share of the total insulin required can be delivered as SMB. Increase this experimental value slowly and with caution." = "默认值 0.5，限制 SMB 在总需求胰岛素中的占比。建议谨慎且逐步调整。";
 
-// Dynamic ISF + CR Settings:
+/* --- Dynamic ISF + CR Settings --- */
 /* Headline "Adjust Dynamic ISF constant" */
-
-"Adjust Dynamic ISF constant" = "Adjust Dynamic ISF constant";
+"Adjust Dynamic ISF constant" = "动态 ISF 调整系数";
 
 /* Adjust Dynamic ISF constant */
-"Adjust Dynamic ISF constant" = "Adjust Dynamic ISF constant";
+"Adjust Dynamic ISF constant" = "调整动态 ISF 常数";
 
 /* Enable Dynamic ISF, Headline */
-"Enable Dynamic ISF" = "Enable Dynamic ISF";
+"Enable Dynamic ISF" = "启用动态 ISF";
 
 /* Headline "Enable Dynamic ISF" */
-"Enable Dynamic ISF" = "Enable Dynamic ISF";
+"Enable Dynamic ISF" = "启用动态 ISF";
 
 /* Enable Dynamic ISF */
-"Calculate a new Insulin Sensitivity Setting (ISF) upon every loop cycle. The new ISF will be based on your current Glucose, total daily dose of insulin (TDD, past 24 hours of all delivered insulin) and an individual Adjustment Factor (recommendation to start with is 0.5 if using Sigmoid Function and 0.8 if not).\n\nAll of the Dynamic ISF and CR adjustments will be limited by your autosens.min/max limits." = "Calculate a new Insulin Sensitivity Setting (ISF) upon every loop cycle. The new ISF will be based on your current Glucose, total daily dose of insulin (TDD, past 24 hours of all delivered insulin) and an individual Adjustment Factor (recommendation to start with is 0.5 if using Sigmoid Function and 0.8 if not).\n\nAll of the Dynamic ISF and CR adjustments will be limited by your autosens.min/max limits.";
+"Calculate a new Insulin Sensitivity Setting (ISF) upon every loop cycle. The new ISF will be based on your current Glucose, total daily dose of insulin (TDD, past 24 hours of all delivered insulin) and an individual Adjustment Factor (recommendation to start with is 0.5 if using Sigmoid Function and 0.8 if not).\n\nAll of the Dynamic ISF and CR adjustments will be limited by your autosens.min/max limits." = "每个循环周期计算新的 ISF 值，基于当前 BG、过去 24 小时总胰岛素注射（TDD）和个人调整系数（Sigmoid 推荐 0.5，非 Sigmoid 推荐 0.8）。所有动态 ISF/CR 调整受 autosens.min/max 限制。";
 
 /* Headline Enable Dynamic CR */
-"Enable Dynamic CR" = "Enable Dynamic CR";
+"Enable Dynamic CR" = "启用动态 CR";
 
 /* Enable Dynamic CR */
-"Use Dynamic CR. The dynamic ratio will be used for CR as follows:\n\n When ratio > 1:  dynCR = (newRatio - 1) / 2 + 1.\nWhen ratio < 1: dynCR = CR/dynCR.\n\nDon't use toghether with a high Insulin Fraction (> 2)" = "Use Dynamic CR. The dynamic ratio will be used for CR as follows:\n\n When ratio > 1:  dynCR = (newRatio - 1) / 2 + 1.\nWhen ratio < 1: dynCR = CR/dynCR.\n\nDon't use toghether with a high Insulin Fraction (> 2)";
+"Use Dynamic CR. The dynamic ratio will be used for CR as follows:\n\n When ratio > 1:  dynCR = (newRatio - 1) / 2 + 1.\nWhen ratio < 1: dynCR = CR/dynCR.\n\nDon't use toghether with a high Insulin Fraction (> 2)" = "使用动态 CR：\n\n当比率 >1 时：dynCR = (newRatio - 1) / 2 + 1\n当比率 <1 时：dynCR = CR / dynCR\n\n不要与高 Insulin Fraction（>2）同时使用。";
 
 /* Enable Dyn ISF */
-"Activate Dynamic Sensitivity (ISF)" = "Activate Dynamic Sensitivity (ISF)";
+"Activate Dynamic Sensitivity (ISF)" = "激活动态敏感性（ISF）";
 
 /* Enable Dyn CR */
-"Activate Dynamic Carb Ratio (CR)" = "Activate Dynamic Carb Ratio (CR)";
+"Activate Dynamic Carb Ratio (CR)" = "激活动态碳水比（CR）";
 
 /* Headline "Adjust Dynamic ISF constant" */
-"Adjust Dynamic ISF constant" = "Adjust Dynamic ISF constant";
+"Adjust Dynamic ISF constant" = "调整动态 ISF 常数";
 
 /* Adjust Dynamic ISF constant */
-"Individual adjustment of the computed dynamic ratios. Default is 0.5. The higher the value, the larger the correction of your ISF/CR will be for a high or a low blood glucose. Maximum/minumum correction is determined by the Autosens min/max settings.\n\nFor Sigmoid function an adjustment factor of 0.4 - 0.5 is recommended to begin with.\n\nFor the logaritmic formula there is less consensus, but starting around 0.8 is probably appropiate for most adult users. For younger users it's recommended to start even lower when using logaritmic formula, to avoid overly aggressive treatment." = "Individual adjustment of the computed dynamic ratios. Default is 0.5. The higher the value, the larger the correction of your ISF/CR will be for a high or a low blood glucose. Maximum/minumum correction is determined by the Autosens min/max settings.\n\nFor Sigmoid function an adjustment factor of 0.4 - 0.5 is recommended to begin with.\n\nFor the logaritmic formula there is less consensus, but starting around 0.8 is probably appropiate for most adult users. For younger users it's recommended to start even lower when using logaritmic formula, to avoid overly aggressive treatment.";
+"Individual adjustment of the computed dynamic ratios. Default is 0.5. The higher the value, the larger the correction of your ISF/CR will be for a high or a low blood glucose. Maximum/minumum correction is determined by the Autosens min/max settings.\n\nFor Sigmoid function an adjustment factor of 0.4 - 0.5 is recommended to begin with.\n\nFor the logaritmic formula there is less consensus, but starting around 0.8 is probably appropiate for most adult users. For younger users it's recommended to start even lower when using logaritmic formula, to avoid overly aggressive treatment." = "对动态比率进行个体调整。默认 0.5，值越高，ISF/CR 对高 BG 或低 BG 的修正越大，最大/最小修正由 Autosens min/max 决定。\n\nSigmoid 推荐初始值 0.4~0.5。\n\nLogaritmic 初始值建议约 0.8。年轻用户建议更低，以避免过度处理。";
 
 /* Headline Use Sigmoid Function */
-"Use Sigmoid Function" = "Use Sigmoid Function";
+"Use Sigmoid Function" = "使用 Sigmoid 函数";
+
 
 /* Which dyn ISF function to use */
-"Formula" = "Formula";
+"Formula" = "公式";
 
 /* Extra Safety Features when using dyn ISF */
-"Safety" = "Safety";
+"Safety" = "安全";
 
 /* Use Sigmoid Function */
-"Use a sigmoid function for ISF (and for CR, when enabled), instead of the default Logarithmic formula. Requires the Dynamic ISF setting to be enabled in settings\n\nThe Adjustment setting adjusts the slope of the curve (Y: Dynamic ratio, X: Blood Glucose). A lower value ==> less steep == less aggressive.\n\nThe autosens.min/max settings determines both the max/min limits for the dynamic ratio AND how much the dynamic ratio is adjusted. If AF is the slope of the curve, the autosens.min/max is the height of the graph, the Y-interval, where Y: dynamic ratio. The curve will always have a sigmoid shape, no matter which autosens.min/max settings are used, meaning these settings have big consequences for the outcome of the computed dynamic ISF. Please be careful setting a too high autosens.max value. With a proper profile ISF setting, you will probably never need it to be higher than 1.5\n\nAn Autosens.max limit > 1.5 is not advisable when using the sigmoid function." = "Use a sigmoid function for ISF (and for CR, when enabled), instead of the default Logarithmic formula. Requires the Dynamic ISF setting to be enabled in settings\n\nThe Adjustment setting adjusts the slope of the curve (Y: Dynamic ratio, X: Blood Glucose). A lower value ==> less steep == less aggressive.\n\nThe autosens.min/max settings determines both the max/min limits for the dynamic ratio AND how much the dynamic ratio is adjusted. If AF is the slope of the curve, the autosens.min/max is the height of the graph, the Y-interval, where Y: dynamic ratio. The curve will always have a sigmoid shape, no matter which autosens.min/max settings are used, meaning these settings have big consequences for the outcome of the computed dynamic ISF. Please be careful setting a too high autosens.max value. With a proper profile ISF setting, you will probably never need it to be higher than 1.5\n\nAn Autosens.max limit > 1.5 is not advisable when using the sigmoid function.";
+"Use a sigmoid function for ISF (and for CR, when enabled), instead of the default Logarithmic formula. Requires the Dynamic ISF setting to be enabled in settings\n\nThe Adjustment setting adjusts the slope of the curve (Y: Dynamic ratio, X: Blood Glucose). A lower value ==> less steep == less aggressive.\n\nThe autosens.min/max settings determines both the max/min limits for the dynamic ratio AND how much the dynamic ratio is adjusted. If AF is the slope of the curve, the autosens.min/max is the height of the graph, the Y-interval, where Y: dynamic ratio. The curve will always have a sigmoid shape, no matter which autosens.min/max settings are used, meaning these settings have big consequences for the outcome of the computed dynamic ISF. Please be careful setting a too high autosens.max value. With a proper profile ISF setting, you will probably never need it to be higher than 1.5\n\nAn Autosens.max limit > 1.5 is not advisable when using the sigmoid function." =
+"为 ISF（以及启用时的 CR）使用 S 型函数，而不是默认的对数公式。需要在设置中启用动态 ISF。\n\n“调整”参数会调整曲线斜率（Y：动态比例，X：血糖）。数值越小 ⇒ 曲线越平缓 ⇒ 调整越保守。\n\nautosens.min/max 用于同时决定动态比例的最大/最小范围，以及调整幅度。如果 AF 是曲线的斜率，那么 autosens.min/max 是图形的高度范围（Y 区间）。无论 autosens.min/max 如何设置，曲线始终为 S 型，这意味着它们会对计算出的动态 ISF 结果产生很大影响。请谨慎设置过高的 autosens.max。通常情况下，不需要超过 1.5。\n\n当使用 S 型函数时，不建议将 Autosens.max 设置超过 1.5。";
 
 /* Headline Threshold Setting */
-"Threshold Setting" = "Threshold Setting";
+"Threshold Setting" = "阈值设置";
 
 /* Dynamic ISF Setting Title */
-"Minimum Threshold Setting" = "Minimum Threshold Setting";
+"Minimum Threshold Setting" = "最低阈值设置";
 
 /* Minimum Threshold Setting, Part 1 */
-"This setting lets you choose a level below which no insulin will be given.\n\nThe threshold is using the largest amount of your threshold setting and the computed threshold:\n\nTarget Glucose - (Target Glucose - 40) / 2\n, here using mg/dl as glucose unit.\n\nFor example, if your Target Glucose is " = "This setting lets you choose a level below which no insulin will be given.\n\nThe threshold is using the largest amount of your threshold setting and the computed threshold:\n\nTarget Glucose - (Target Glucose - 40) / 2\n, here using mg/dl as glucose unit.\n\nFor example, if your Target Glucose is ";
+"This setting lets you choose a level below which no insulin will be given.\n\nThe threshold is using the largest amount of your threshold setting and the computed threshold:\n\nTarget Glucose - (Target Glucose - 40) / 2\n, here using mg/dl as glucose unit.\n\nFor example, if your Target Glucose is " =
+"此设置允许你选择一个血糖值作为下限，在该值以下不会给胰岛素。\n\n系统会在你设置的阈值和计算阈值之间取较大的那个：\n\n目标血糖 - (目标血糖 - 40) / 2\n（此处血糖单位为 mg/dL）\n\n例如，如果你的目标血糖是 ";
 
 /* Minimum Threshold Setting, Part 2 */
-"the threshold will be " = "the threshold will be ";
+"the threshold will be " = "则阈值将为 ";
 
 /* Minimum Threshold Setting, Part 3 */
-"unless your threshold setting is set higher:" = "unless your threshold setting is set higher:";
+"unless your threshold setting is set higher:" = "除非你设置的阈值更高：";
 
 /* Threshold Table Columns Title */
-"Setting" = "Setting";
+"Setting" = "设置";
 
 /* Threshold Table Columns Title */
-"Threshold" = "Threshold";
+"Threshold" = "阈值";
 
 /* Dynamic settings View */
-"Averages" = "Averages";
+"Averages" = "平均值";
 
 /* Dynamic settings View */
-"Average ISF" = "Average ISF";
+"Average ISF" = "平均 ISF";
 
 /* Dynamic settings View */
-"Average CR" = "Average CR";
+"Average CR" = "平均 CR";
 
 /* Dynamic settings View */
-"Average CSF" = "Average CSF";
+"Average CSF" = "平均 CSF";
 
 /* Dynamic settings View */
-"ISF: Insulin Sensitivity, CR: Carb Ratio,\nCSF: Carb Sensitivity = ISF/CR" = "ISF: Insulin Sensitivity, CR: Carb Ratio,\nCSF: Carb Sensitivity = ISF/CR";
+"ISF: Insulin Sensitivity, CR: Carb Ratio,\nCSF: Carb Sensitivity = ISF/CR" =
+"ISF：胰岛素敏感性，CR：碳水比例，\nCSF：碳水敏感性 = ISF/CR";
 
 /* Header */
-"Calculator settings" = "Calculator settings";
+"Calculator settings" = "计算器设置";
 
 /* Bolus Calculator Setting */
-"Use alternate Bolus Calculator" = "Use alternate Bolus Calculator";
+"Use alternate Bolus Calculator" = "使用替代注射计算器";
 
 /* Bolus Calculator Setting */
-"Use Bolus Calculator" = "Use Bolus Calculator";
+"Use Bolus Calculator" = "使用注射计算器";
 
 /* Bolus Calculator Setting */
-"Depending on your settings the Swift bolus calculator is using data from the OpenAPS glucose predictions and/or from IOB, COB, glucose trend, current gluccose and target glucose. At the end of the calculation a custom factor is applied (default 0.8).\n\nYou can also have the option in your bolus calculator to apply another (!) customizable factor at the end of the calculation which could be useful for fatty meals, e.g Pizza (default 0.7).\n\nThe bolus calculator is NOT using the OpenAPS variable \"insulinRequired\", made for SMBs." = "Depending on your settings the Swift bolus calculator is using data from the OpenAPS glucose predictions and/or from IOB, COB, glucose trend, current gluccose and target glucose. At the end of the calculation a custom factor is applied (default 0.8).\n\nYou can also have the option in your bolus calculator to apply another (!) customizable factor at the end of the calculation which could be useful for fatty meals, e.g Pizza (default 0.7).\n\nThe bolus calculator is NOT using the OpenAPS variable \"insulinRequired\", made for SMBs.";
+"Depending on your settings the Swift bolus calculator is using data from the OpenAPS glucose predictions and/or from IOB, COB, glucose trend, current gluccose and target glucose. At the end of the calculation a custom factor is applied (default 0.8).\n\nYou can also have the option in your bolus calculator to apply another (!) customizable factor at the end of the calculation which could be useful for fatty meals, e.g Pizza (default 0.7).\n\nThe bolus calculator is NOT using the OpenAPS variable \"insulinRequired\", made for SMBs." =
+"根据你的设置，Swift 注射计算器会使用 OpenAPS 血糖预测和/或 IOB、COB、血糖趋势、当前血糖和目标血糖。计算结束时会应用一个自定义系数（默认 0.8）。\n\n你也可以启用另一个可配置系数，用于高脂餐，例如披萨（默认 0.7）。\n\n该计算器不会使用 OpenAPS 中用于 SMB 的变量 \"insulinRequired\"。";
 
 /* Bolus Calculator Setting */
-"Adjustment" = "Adjustment";
+"Adjustment" = "调整";
 
 /* Bolus Calculator Setting */
-"Use OpenAPS glucose predictions" = "Use OpenAPS glucose predictions";
+"Use OpenAPS glucose predictions" = "使用 OpenAPS 血糖预测";
 
 /* Bolus Calculator Setting */
-"Fatty Meals" = "Fatty Meals";
+"Fatty Meals" = "高脂餐";
 
 /* Bolus Calculator Setting */
-"Apply factor for fatty meals" = "Apply factor for fatty meals";
+"Apply factor for fatty meals" = "对高脂餐应用系数";
 
 /* Bolus Calculator Footer */
-"The new alternate bolus calculator is another approach to the default bolus calculator in iAPS. If the toggle is on you use this bolus calculator and not the original iAPS calculator. At the end of the calculation a custom factor is applied as it is supposed to be when using smbs (default 0.8).\n\nYou can also add the option in your bolus calculator to apply another (!) customizable factor at the end of the calculation which could be useful for fatty meals, e.g Pizza (default 0.7)." = "The new alternate bolus calculator is another approach to the default bolus calculator in iAPS. If the toggle is on you use this bolus calculator and not the original iAPS calculator. At the end of the calculation a custom factor is applied as it is supposed to be when using smbs (default 0.8).\n\nYou can also add the option in your bolus calculator to apply another (!) customizable factor at the end of the calculation which could be useful for fatty meals, e.g Pizza (default 0.7).";
+"The new alternate bolus calculator is another approach to the default bolus calculator in iAPS. If the toggle is on you use this bolus calculator and not the original iAPS calculator. At the end of the calculation a custom factor is applied as it is supposed to be when using smbs (default 0.8).\n\nYou can also add the option in your bolus calculator to apply another (!) customizable factor at the end of the calculation which could be useful for fatty meals, e.g Pizza (default 0.7)." =
+"新的替代注射计算器是不同于 iAPS 默认计算器的另一种方案。启用后，你将使用该计算器而非原始版本。计算结束时会应用一个自定义系数（默认 0.8）。\n\n你还可以启用另一个可配置系数，这对披萨等高脂餐可能有用（默认 0.7）。";
 
 /* Bolus Calculator Setting */
-"1. Use the OpenAPS eventual glucose prediction for computing the insulin recommended. This setting will enable the \"old\" calculator. On by default.\n\n2. Use the OpenAPS minPredBG prediction as a complementary safety guard rail, not allowing the glucose prediction to descend below your threshold. This setting can be used together with or without the eventual glucose. On by default" = "1. Use the OpenAPS eventual glucose prediction for computing the insulin recommended. This setting will enable the \"old\" calculator. On by default.\n\n2. Use the OpenAPS minPredBG prediction as a complementary safety guard rail, not allowing the glucose prediction to descend below your threshold. This setting can be used together with or without the eventual glucose. On by default";
+"1. Use the OpenAPS eventual glucose prediction for computing the insulin recommended. This setting will enable the \"old\" calculator. On by default.\n\n2. Use the OpenAPS minPredBG prediction as a complementary safety guard rail, not allowing the glucose prediction to descend below your threshold. This setting can be used together with or without the eventual glucose. On by default" =
+"1. 使用 OpenAPS 最终血糖预测来计算建议胰岛素剂量。启用此项将使用“旧版”计算器，默认开启。\n\n2. 使用 OpenAPS minPredBG 作为辅助安全限制，不允许预测血糖低于你的阈值。该设置可与最终血糖预测一同使用，也可单独使用，默认开启。";
 
 /* Settings Section */
-"Extra Features" = "Extra Features";
+"Extra Features" = "额外功能";
 
 /* Header */
-"UI/UX Settings" = "UI/UX Settings";
+"UI/UX Settings" = "UI/UX 设置";
 
 /* UI/UX option */
-"Display Predictions" = "Display Predictions";
+"Display Predictions" = "显示预测";
 
 /* UI/UX option */
-"Smaller iPhone Screens" = "Smaller iPhone Screens";
+"Smaller iPhone Screens" = "小屏幕优化";
 
 /* UI/UX option */
-"Display and allow Fat and Protein entries" = "Display and allow Fat and Protein entries";
+"Display and allow Fat and Protein entries" = "显示并允许录入脂肪与蛋白质";
 
 /* UI/UX option */
-"Add Meal View settings " = "Add Meal View settings ";
+"Add Meal View settings " = "添加餐食视图设置";
 
 /* UI/UX option */
-"Display Temp Targets Button" = "Display Temp Targets Button";
+"Display Temp Targets Button" = "显示临时目标按钮";
 
 /* UI/UX option */
-"Display Profile Override Button" = "Display Profile Override Button";
+"Display Profile Override Button" = "显示档案覆盖按钮";
 
 /* UI/UX option */
-"Display Meal Button" = "Display Meal Button";
+"Display Meal Button" = "显示餐食按钮";
 
 /* UI/UX option */
-"Home View Button Panel " = "Home View Button Panel ";
+"Home View Button Panel " = "主页按钮面板";
 
 /* UI/UX title */
-"Home Chart settings " = "Home Chart settings ";
+"Home Chart settings " = "主页图表设置";
 
 /* UI/UX title */
-"Statistics settings " = "Statistics settings ";
+"Statistics settings " = "统计设置";
 
 /* UI/UX title */
-"Override HbA1c Unit" = "Override HbA1c Unit";
+"Override HbA1c Unit" = "覆盖 HbA1c 单位";
 
 /* UI/UX option */
-"In case you're using both profiles and temp targets" = "In case you're using both profiles and temp targets";
+"In case you're using both profiles and temp targets" = "当同时使用档案和临时目标时";
 
 /* UI/UX option */
-"Always Color Glucose Value (green, yellow etc)" = "Always Color Glucose Value (green, yellow etc)";
+"Always Color Glucose Value (green, yellow etc)" = "总是显示血糖颜色（绿、黄等）";
 
 /* UI/UX option */
-"Header settings" = "Header settings";
-/* UI/UX option */
-"Normally glucose is colored red only when over or under your notification limits for high/low" = "Normally glucose is colored red only when over or under your notification limits for high/low";
+"Header settings" = "标题设置";
 
 /* UI/UX option */
-"Horizontal Scroll View Visible hours" = "Horizontal Scroll View Visible hours";
+"Normally glucose is colored red only when over or under your notification limits for high/low" =
+"通常只有当血糖超出通知设定的高/低范围时才显示为红色";
 
 /* UI/UX option */
-"Display Time Interval Setting Button" = "Display Time Interval Setting Button";
+"Horizontal Scroll View Visible hours" = "横向滚动视图可见小时数量";
 
 /* UI/UX option */
-"Never display the small glucose chart when scrolling" = "Never display the small glucose chart when scrolling";
+"Display Time Interval Setting Button" = "显示时间间隔设置按钮";
 
 /* UI/UX option */
-"Disable Hypo Treatments" = "Disable Hypo Treatments";
+"Never display the small glucose chart when scrolling" = "滚动时不显示小图表";
 
 /* UI/UX option */
-"Display Glucose Delta" = "Display Glucose Delta";
+"Disable Hypo Treatments" = "禁用低血糖治疗提示";
 
 /* UI/UX option */
-"Display Sensor Age" = "Display Sensor Age";
+"Display Glucose Delta" = "显示血糖变化值";
 
 /* UI/UX option */
-"Display Sensor Time Remaining" = "Display Sensor Time Remaining";
+"Display Sensor Age" = "显示传感器使用时长";
 
 /* UI/UX option */
-"Hide Concentration Badge" = "Hide Concentration Badge";
+"Display Sensor Time Remaining" = "显示传感器剩余时间";
 
 /* UI/UX option */
-"Use insulin bars" = "Use insulin bars";
+"Hide Concentration Badge" = "隐藏浓度徽标";
 
 /* UI/UX option */
-"Use carb bars" = "Use carb bars";
+"Use insulin bars" = "使用胰岛素条形显示";
 
 /* UI/UX option */
-"Hide the bolus amount strings when amount is under" = "Hide the bolus amount strings when amount is under";
+"Use carb bars" = "使用碳水条形显示";
 
 /* UI/UX option */
-"Display carb equivalents" = "Display carb equivalents";
+"Hide the bolus amount strings when amount is under" = "隐藏低剂量时的注射数值文本";
 
 /* UI/UX option */
-"Display carb equivalent amount" = "Display carb equivalent amount";
+"Display carb equivalents" = "显示碳水当量";
 
 /* UI/UX option */
-"Display Ratio and a History View button" = "Display Ratio and a History View button";
+"Display carb equivalent amount" = "显示碳水当量数值";
 
 /* UI/UX option */
-"Home View Ratio Button" = "Home View Ratio Button";
+"Display Ratio and a History View button" = "显示比例和历史视图按钮";
 
 /* UI/UX option */
-"Light" = "Light";
+"Home View Ratio Button" = "主页比例按钮";
 
 /* UI/UX option */
-"Dark" = "Dark";
+"Light" = "浅色";
 
 /* UI/UX option */
-"Auto" = "Auto";
+"Dark" = "深色";
 
 /* UI/UX option */
-"Color Scheme" = "Color Scheme";
+"Auto" = "自动";
 
 /* UI/UX option */
-"Light / Dark Mode" = "Light / Dark Mode";
+"Color Scheme" = "配色方案";
+
+/* UI/UX option */
+"Light / Dark Mode" = "浅色/深色模式";
 
 /* Debug option */
-"Neglect Carbohydrates in oref0" = "Neglect Carbohydrates in oref0";
+"Neglect Carbohydrates in oref0" = "在 oref0 中忽略碳水";
 
 /* Debug option */
-"Hide oref0 Predictions" = "Hide oref0 Predictions";
+"Hide oref0 Predictions" = "隐藏 oref0 预测";
 
 /* Setting title */
-"Bolus Calculator" = "Bolus Calculator";
+"Bolus Calculator" = "注射计算器";
 
 /* Setting title */
-"Dynamic ISF" = "Dynamic ISF";
+"Dynamic ISF" = "动态 ISF";
 
 /* Notification option */
-"Live Activity" = "Live Activity";
+"Live Activity" = "实时活动";
 
 /* Show Live Activity */
-"Show Live Activity" = "Show Live Activity";
+"Show Live Activity" = "显示实时活动";
 
 /* Display Chart */
-"Display Chart" = "Display Chart";
+"Display Chart" = "显示图表";
 
 /* Show Predictions */
-"Show Predictions" = "Show Predictions";
+"Show Predictions" = "显示预测";
 
 /* Notification option */
-"Live activity displays blood glucose live on the lock screen and on the dynamic island (if available)" = "Live activity displays blood glucose live on the lock screen and on the dynamic island (if available)";
+"Live activity displays blood glucose live on the lock screen and on the dynamic island (if available)" =
+"实时活动会在锁屏和动态岛（如可用）显示实时血糖";
 
 /* Notification option */
-"Show Live activity" = "Show Live activity";
+"Show Live activity" = "显示实时活动";
 
 /* Live Activity Footer */
-"Live activity displays blood glucose live on the lock screen and on the dynamic island (if available)" = "Live activity displays blood glucose live on the lock screen and on the dynamic island (if available)";
+"Live activity displays blood glucose live on the lock screen and on the dynamic island (if available)" =
+"实时活动会在锁屏和动态岛（如可用）显示实时血糖";
 
 /* Live Activity Footer when off */
-"Live activities are turned OFF in system settings. To enable live activities, go to Settings app -> iAPS -> Turn live Activities ON.\n\n" = "Live activities are turned OFF in system settings. To enable live activities, go to Settings app -> iAPS -> Turn live Activities ON.\n\n";
+"Live activities are turned OFF in system settings. To enable live activities, go to Settings app -> iAPS -> Turn live Activities ON.\n\n" =
+"系统设置中已关闭实时活动。要启用，请前往 设置 -> iAPS -> 打开实时活动。\n\n";
 
 /* Headline "Weighted Average of TDD. Weight of past 24 hours:" */
-"Weighted Average of TDD. Weight of past 24 hours:" = "Weighted Average of TDD. Weight of past 24 hours:";
+"Weighted Average of TDD. Weight of past 24 hours:" = "TDD 加权平均：过去 24 小时权重：";
 
 /* Weight of past 24 hours of insulin */
-"Has to be > 0 and <= 1.\nDefault is 0.65 (65 %) * TDD. The rest will be from average of total data (up to 14 days) of all TDD calculations (35 %). To only use past 24 hours, set this to 1.\n\nTo avoid sudden fluctuations, for instance after a big meal, an average of the past 2 hours of TDD calculations is used instead of just the current TDD (past 24 hours at this moment)." = "Has to be > 0 and <= 1.\nDefault is 0.65 (65 %) * TDD. The rest will be from average of total data (up to 14 days) of all TDD calculations (35 %). To only use past 24 hours, set this to 1.\n\nTo avoid sudden fluctuations, for instance after a big meal, an average of the past 2 hours of TDD calculations is used instead of just the current TDD (past 24 hours at this moment).";
+"Has to be > 0 and <= 1.\nDefault is 0.65 (65 %) * TDD. The rest will be from average of total data (up to 14 days) of all TDD calculations (35 %). To only use past 24 hours, set this to 1.\n\nTo avoid sudden fluctuations, for instance after a big meal, an average of the past 2 hours of TDD calculations is used instead of just the current TDD (past 24 hours at this moment)." =
+"必须大于 0 且小于等于 1。\n默认值为 0.65（65%）× TDD，其余 35% 来自最近最多 14 天数据的平均值。若只使用过去 24 小时，将此值设为 1。\n\n为了避免突发波动，例如大餐后，会使用过去 2 小时的 TDD 平均值，而不是此刻的瞬时值。";
 
 /* Headline "Adjust basal" */
-"Adjust basal" = "Adjust basal";
+"Adjust basal" = "调整基础率";
 
 /* Enable adjustment of basal profile */
-"Enable adjustment of basal based on the ratio of current TDD / 7 day average TDD" = "Enable adjustment of basal based on the ratio of current TDD / 7 day average TDD";
+"Enable adjustment of basal based on the ratio of current TDD / 7 day average TDD" =
+"根据当前 TDD / 7 日平均 TDD 来调整基础率";
 
 /* Headline "Max Delta-BG Threshold SMB" */
-"Max Delta-BG Threshold SMB" = "Max Delta-BG Threshold SMB";
+"Max Delta-BG Threshold SMB" = "最大血糖变化阈值 SMB";
 
 /* Max Delta-BG Threshold SMB */
-"Defaults to 0.2 (20%). Maximum positive percentual change of BG level to use SMB, above that will disable SMB. Hardcoded cap of 40%. For UAM fully-closed-loop 30% is advisable. Observe in log and popup (maxDelta 27 > 20% of BG 100 - disabling SMB!)." = "Defaults to 0.2 (20%). Maximum positive percentual change of BG level to use SMB, above that will disable SMB. Hardcoded cap of 40%. For UAM fully-closed-loop 30% is advisable. Observe in log and popup (maxDelta 27 > 20% of BG 100 - disabling SMB!).";
+"Defaults to 0.2 (20%). Maximum positive percentual change of BG level to use SMB, above that will disable SMB. Hardcoded cap of 40%. For UAM fully-closed-loop 30% is advisable. Observe in log and popup (maxDelta 27 > 20% of BG 100 - disabling SMB!)." =
+"默认 0.2（20%）。血糖上升超过此百分比将禁用 SMB。硬限制为 40%。对于 UAM 完全闭环，建议为 30%。可在日志和提示中查看（示例：maxDelta 27 > BG 100 的 20% ⇒ 禁用 SMB）。";
 
 /* Headline "... When Blood Glucose Is Above:" */
-"... When Blood Glucose Is Above:" = "... When Blood Glucose Is Above:";
+"... When Blood Glucose Is Above:" = "... 当血糖高于：";
 
 /* ... When Blood Glucose Is Above: */
-"Set the value enableSMB_high_bg will compare against to enable SMB. If BG > than this value, SMBs should enable." = "Set the value enableSMB_high_bg will compare against to enable SMB. If BG > than this value, SMBs should enable.";
+"Set the value enableSMB_high_bg will compare against to enable SMB. If BG > than this value, SMBs should enable." =
+"设置 enableSMB_high_bg 的比较值，若血糖 > 此值，则启用 SMB。";
 
 /* Headline "Enable SMB With High BG" */
-"Enable SMB With High BG" = "Enable SMB With High BG";
+"Enable SMB With High BG" = "高血糖时启用 SMB";
 
 /* "Enable SMB With High BG" */
-"Enable SMBs when a high BG is detected, based on the high BG target (adjusted or profile)" = "Enable SMBs when a high BG is detected, based on the high BG target (adjusted or profile)";
+"Enable SMBs when a high BG is detected, based on the high BG target (adjusted or profile)" =
+"当检测到高血糖时，根据高血糖目标（调整或档案）启用 SMB";
 
 /* Headline "Dynamic settings" */
-"Dynamic settings" = "Dynamic settings";
+"Dynamic settings" = "动态设置";
 
 /* Insulin curve */
-"Insulin curve" = "Insulin curve";
+"Insulin curve" = "胰岛素曲线";
 
 /* Headline "Adjustment Factor" */
-"Adjustment Factor" = "Adjustment Factor";
+"Adjustment Factor" = "调整系数";
 
 /* Apple Watch Overrides */
-"Overrides" = "Overrides";
+"Overrides" = "覆盖";
 
 /* Apple Watch Overrides */
-"Cancel Override" = "Cancel Override";
+"Cancel Override" = "取消覆盖";
 
 /* Headline "To enable settings, go to the App Config section in iOS Settings App" */
-"To enable settings, go to the App Config section in iOS Settings App" = "To enable settings, go to the App Config section in iOS Settings App";
+"To enable settings, go to the App Config section in iOS Settings App" =
+"若要启用相关设置，请前往 iOS 设置中的 App 设置";
 
 /* Section header in CGM view */
-"Active CGM" = "Active CGM";
+"Active CGM" = "活动 CGM";
 
 /* pump name label, when pump is a cgm "Pump/CGM" */
-"Pump/CGM" = "Pump/CGM";
+"Pump/CGM" = "泵/CGM";
 
 /* Button "Stop using the pump as CGM" */
-"Stop using the pump as CGM" = "Stop using the pump as CGM";
+"Stop using the pump as CGM" = "停止将泵作为 CGM";
 
 /* Section header in CGM view */
-"Shared App Group Source" = "Shared App Group Source";
+"Shared App Group Source" = "共享 App Group 来源";
 
 /* prefix for the shared app group application */
-"Reading from" = "Reading from";
+"Reading from" = "读取来源：";
 
 /* button to disconnect from the shared app group "Disconnect" */
-"Disconnect" = "Disconnect";
-
+"Disconnect" = "断开连接";
 
 /* description for Shared App Group Source section */
-"Read BG from an external CGM app using a shared app group." = "Read BG from an external CGM app using a shared app group.";
-
+"Read BG from an external CGM app using a shared app group." =
+"通过共享 App Group 从外部 CGM 应用读取血糖数据。";
 
 /* prefix before the app name on the button to start reading from shared app group */
-"Read from " = "Read from ";
+"Read from " = "读取来源：";
 
 /* description for the backfill section in Nightscout settings screen */
-"Fetches old glucose readings from Nightscout" = "Fetches old glucose readings from Nightscout";
+"Fetches old glucose readings from Nightscout" =
+"从 Nightscout 获取历史血糖记录";
 
 /* header and button label for the 'upload old glucose' action in Nightscout settings screen */
-"Upload glucose" = "Upload glucose";
+"Upload glucose" = "上传血糖";
 
 /* description for the 'upload old glucose' section in Nightscout settings screen */
-"Uploads old glucose readings to Nightscout" = "Uploads old glucose readings to Nightscout";
+"Uploads old glucose readings to Nightscout" =
+"将历史血糖记录上传到 Nightscout";
 
 /* message when uploads are enabled, but glucose uploads are disabled, in Nightscout settings screen */
-"Glucose upload disabled in CGM settings" = "Glucose upload disabled in CGM settings";
+"Glucose upload disabled in CGM settings" =
+"在 CGM 设置中已禁用血糖上传";
 
 /* header for the CGM list in CGM settings screen */
-"Connect to CGM" = "Connect to CGM";
-
+"Connect to CGM" = "连接 CGM";
 
 /* message displayed when the pump is configured to be the CGM as well (enlite), in CGM settings screen */
-"Pump+CGM" = "Pump+CGM";
+"Pump+CGM" = "泵+CGM";
 
 /* label for the button to remove the CGM when the pump is configured to be the CGM as well (enlite), in CGM settings screen */
-"Stop using the pump as CGM" = "Stop using the pump as CGM";
+"Stop using the pump as CGM" = "停止将泵作为 CGM";
 
 /* hint under the CGM list in CGM settings screen */
-"To receive reading from xDrip4iOS, Glucose Direct or another compatible app, select Shared App Group CGM." = "To receive reading from xDrip4iOS, Glucose Direct or another compatible app, select Shared App Group CGM.";
+"To receive reading from xDrip4iOS, Glucose Direct or another compatible app, select Shared App Group CGM." =
+"要接收来自 xDrip4iOS、Glucose Direct 或其他兼容应用的数据，请选择“共享 App Group CGM”。";
 
 /* message displayed in pump settings screen when the pump manager reports uncertain delivery */
-"Pump delivery uncertain" = "Pump delivery uncertain";
+"Pump delivery uncertain" = "泵输注不确定";
