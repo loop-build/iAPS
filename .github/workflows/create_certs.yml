@@ -44,7 +44,7 @@ jobs:
 
       # Install project dependencies
       - name: Install Project Dependencies
-        run: bundle install --gemfile fastlane/Gemfile
+        run: bundle install --gemfile ./fastlane/Gemfile
 
       # Patch Fastlane Match to not print tables
       - name: Patch Match Tables
