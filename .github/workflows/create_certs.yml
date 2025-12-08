@@ -42,6 +42,10 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
+      # Install project dependencies
+      - name: Install Project Dependencies
+        run: bundle install
+
       # Patch Fastlane Match to not print tables
       - name: Patch Match Tables
         run: |
@@ -52,10 +56,6 @@ jobs:
             echo "table_printer.rb not found"
             exit 1
           fi
-
-      # Install project dependencies
-      - name: Install Project Dependencies
-        run: bundle install
 
       # Create or update Distribution certificate and provisioning profiles
       - name: Check and create or update Distribution certificate and profiles if needed
