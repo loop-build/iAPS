@@ -13,6 +13,12 @@ jobs:
     needs: validate
     runs-on: macos-latest
     steps:
+      - name: Setup Ruby and Bundler
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler: '2.7.2'
+          bundler-cache: true
       
       # Checks-out the repo
       - name: Checkout Repo
