@@ -63,11 +63,6 @@ jobs:
       with:
         token: ${{ secrets.GH_PAT }}
         ref: alive
-    
-    - name: Install Bundler 2.7.2
-      run: gem install bundler -v 2.7.2
-    - name: Bundle install (use Bundler 2.7.2)
-      run: bundle _2.7.2_ install --jobs 4 --retry 3
   
   # Builds iAPS
   build:
@@ -77,6 +72,13 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Setup Ruby and Bundler
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler: '2.7.2'
+          bundler-cache: true
+          
       - name: Set special variables
         run: |
           if [ ! -z ${{ vars.APP_IDENTIFIER }}  ]; then
@@ -96,11 +98,6 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT }}
           ref: ${{ env.TARGET_BRANCH }}
-      
-      - name: Install Bundler 2.7.2
-        run: gem install bundler -v 2.7.2
-      - name: Bundle install (use Bundler 2.7.2)
-        run: bundle _2.7.2_ install --jobs 4 --retry 3
       
       - name: Sync upstream changes
         if: | # do not run the upstream sync action on the upstream repository
@@ -138,11 +135,6 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           submodules: recursive
           ref: ${{ env.TARGET_BRANCH }}
-
-      - name: Install Bundler 2.7.2
-        run: gem install bundler -v 2.7.2
-      - name: Bundle install (use Bundler 2.7.2)
-        run: bundle _2.7.2_ install --jobs 4 --retry 3
 
       # Patch Fastlane Match to not print tables
       - name: Patch Match Tables
